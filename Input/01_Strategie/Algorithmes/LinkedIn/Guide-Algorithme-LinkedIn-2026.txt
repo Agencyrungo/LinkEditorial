@@ -1,0 +1,424 @@
+# Guide ultime de l'algorithme LinkedIn
+---
+## Crédits et Sponsors
+**Ruben Taïeb**
+Je partage un conseil LinkedIn par jour.
+---
+## Présentation
+Just Connecting est fier de présenter la cinquième édition du *Rapport sur l'Algorithme LinkedIn™* depuis notre création en 2018.
+Nous remercions particulièrement **AuthoredUp**, dont le partenariat et l'accès aux données nous ont permis de réaliser notre analyse la plus approfondie à ce jour.
+L'édition 2024 analyse plus de **1,5 million de publications**, plus de **34 000 profils individuels** et plus de **2 000 pages d'entreprises**, couvrant plus de **50 pays et 25 langues**.
+Notre équipe de recherche, en collaboration avec AuthoredUp, a investi plus de **1 100 heures** dans ce projet, aboutissant à des découvertes majeures.
+*Cordialement,*
+*Richard van der Blom*
+---
+## Avertissement
+> Avertissement :
+Le contenu de cette publication, intitulée « Le Rapport sur l'Algorithme », est produit sous la seule responsabilité de Just Connecting et n'est ni affilié, ni approuvé, ni lié officiellement à LinkedIn Corporation ou ses filiales. Le terme « LinkedIn » est utilisé uniquement à des fins descriptives et n'implique aucune association avec LinkedIn Corporation.
+Les informations, analyses et opinions présentées dans ce rapport sont fournies à titre informatif et ne constituent pas un conseil professionnel. Just Connecting ne garantit ni l'exactitude ni l'exhaustivité des informations, ni leur pertinence pour un usage particulier. Les données et conclusions de ce rapport proviennent des recherches indépendantes de Just Connecting et de notre partenaire AuthoredUp, et ne reflètent pas nécessairement les vues, politiques ou algorithmes de LinkedIn Corporation. Ce rapport n'a pas pour but d'induire en erreur les utilisateurs quant à une quelconque autorisation ou approbation par LinkedIn Corporation.
+Toutes les marques, noms et logos mentionnés appartiennent à leurs propriétaires respectifs.
+>
+---
+## Changements en 2023
+La publication de notre rapport sur l'algorithme était initialement prévue pour **octobre 2022**.
+Une importante mise à jour de l'algorithme en **septembre** nous a cependant conduits à reporter sa sortie pour en évaluer pleinement les impacts.
+Une modification mineure est également survenue en **février 2022**, moins significative que les changements de septembre, marquant la troisième année consécutive d'ajustements majeurs.
+LinkedIn™ actualise régulièrement son algorithme pour intégrer de nouvelles fonctionnalités – notamment liées à l'IA – et s'adapter aux préférences évolutives des utilisateurs.
+Ces mises à jour visent aussi à optimiser le fil d'actualité pour de nouvelles fonctionnalités, comme les articles collaboratifs.
+**Juillet et août** voient traditionnellement une baisse de la portée et de l'engagement, principalement due aux vacances, avant les modifications majeures de l'algorithme début septembre.
+---
+## L'Impact sur les mesures moyennes
+Les indicateurs clés de performance – portée, engagement et croissance des abonnés des profils personnels – sont indexés sur une base 100 par rapport à l'année précédente.
+Nous comparons les données de chaque période aux chiffres de référence pour mesurer l'évolution.
+Pour 95 % des créateurs, la portée a chuté de plus de **50 %**, tandis que la croissance des abonnés a diminué de **40 %** par rapport à l'année précédente.
+*Remarque : Certains passages du texte original ont nécessité des clarifications pour en préserver le sens.*
+---
+## Notre audience sur LinkedIn
+L'évolution de l'audience sur LinkedIn suit des tendances similaires à celles observées sur d'autres réseaux sociaux, comme Facebook ou "X".
+Notre analyse se concentre sur la portée des publications, la fréquence des interactions et divers indicateurs d'engagement.
+> Citation importante : L'engagement avec le contenu vidéo en direct a progressé de **25 %** sur un an, témoignant d'une tendance croissante vers l'interaction en temps réel.
+>
+L'utilisation de **LinkedIn Learning** continue de croître, soulignant l'importance de la formation continue, tandis que la participation aux **événements LinkedIn™** a doublé, confirmant le rôle central du réseautage virtuel dans l'expérience de la plateforme.
+## Comment construire un fil d'actualité pertinent (1/3)
+Dans le monde dynamique du réseautage professionnel, l'algorithme de LinkedIn façonne le fil d'actualité de chaque utilisateur pour l'adapter à ses intérêts et interactions.
+Bien que **environ 46 %** du fil soit consacré aux publicités et au contenu propre de LinkedIn, les utilisateurs influencent significativement les **6 %** restants.
+Voici les principaux facteurs qui influencent votre fil d'actualité, avec des données actualisées basées sur les tendances des réseaux sociaux.
+### Engagement avec de nouvelles connexions
+- **Nouvelle connexion :**
+Quand vous ajoutez une connexion, LinkedIn met en avant son contenu pendant environ deux semaines.
+Une interaction régulière avec ses publications maintient leur visibilité dans votre fil.
+L'absence d'interaction diminue progressivement leur apparition.
+### Durée de l'engagement avec le contenu
+- **Temps d'affichage :**
+Le temps passé sur une publication indique votre intérêt.
+Plus vous consacrez de temps à certains contenus ou créateurs, plus l'algorithme vous en propose de similaires.
+Par exemple, la lecture attentive d'articles ou d'infographies encourage l'affichage de contenus semblables.
+### Interaction avec les créateurs de contenu
+- **Réciprocité :**
+L'algorithme valorise les échanges mutuels. Interagir avec un créateur, notamment par des commentaires, augmente la visibilité de ses futures publications.
+### Fréquence de l'engagement
+- **Effet cumulatif :**
+Partager un contenu 1,5 fois ou l'aimer trois fois produit un impact similaire sur l'engagement global, améliorant la visibilité des publications futures.
+---
+## Comment construire un fil d'Actualité pertinent (2/3)
+### Enregistrement de post
+- **Sauvegarde :**
+Sauvegarder un post augmente de **90 %** la probabilité de voir les publications futures de son auteur dans votre fil.
+### Messagerie directe
+- **Message direct :**
+L'envoi d'un message direct augmente d'environ **70 %** la probabilité de voir les prochaines publications de votre interlocuteur.
+### Visites de profil
+- **Consultation de profil :**
+Consulter un profil augmente de **60 %** la probabilité de voir leurs nouveaux contenus dans votre fil.
+### Engagement avec les commentaires
+- **Interactions dans les commentaires :**
+L'algorithme évalue vos interactions avec les posts et les commentaires.
+Réagir aux commentaires améliore la visibilité du contenu pour tous les participants.
+Ces interactions signalent la valeur que vous accordez aux échanges, favorisant l'apparition de discussions similaires.
+### Intégration de sales navigator
+- **Optimisation pour les professionnels :**
+Les utilisateurs de Sales Navigator voient davantage de contenu lié à leurs contacts et comptes sauvegardés, renforçant ainsi les relations commerciales.
+---
+## Comment construire un fil d'actualité pertinent (3/3)
+L'algorithme de LinkedIn™ privilégie les interactions réciproques.
+Plus vos échanges sont mutuels avec un utilisateur, plus vous verrez réciproquement vos contenus respectifs.
+Ces interactions réciproques (likes, commentaires, partages) démontrent une connexion authentique, incitant l'algorithme à prioriser l'affichage de vos contenus mutuels.
+Cette dynamique révèle comment LinkedIn™ personnalise l'expérience de chaque utilisateur.
+## Maîtriser les formats de publication sur LinkedIn™
+LinkedIn™ propose plusieurs formats de publication, dont le plus efficace reste la combinaison texte et image unique.
+Le choix du format n'est pas qu'une question de créativité : il influence directement la visibilité de votre contenu dans le fil d'actualité et impacte votre portée et vos impressions.
+Nos observations révèlent que la longueur optimale du texte, le sujet abordé et la fréquence de publication varient selon le format choisi.
+---
+### Comprendre les vues et les impressions
+- **Publication régulière :** Mesure le nombre d'apparitions de votre publication dans le fil d'actualité – un indicateur basique de portée.
+- **Articles & Newsletters :** Comptabilise les clics d'ouverture et de lecture – un indicateur précis de l'engagement.
+- **Contenu Vidéo :** Mesure le nombre de visionnages (par clic ou lecture automatique d'au moins six secondes) – un marqueur fort d'engagement.
+> Note :Si les impressions témoignent du succès initial, l'engagement et les conversions restent les objectifs principaux.
+>
+---
+## Texte + Image (Publication standard)
+L'association texte et image demeure une stratégie puissante pour capter l'attention sur LinkedIn.
+Dans un environnement numérique en constante évolution, ce format reste essentiel pour générer de l'engagement.
+- **Statistique :** *48 % des publications sur LinkedIn combinent texte et image unique.*
+Cette approche offre une portée 1,26 fois supérieure à la moyenne, la plaçant en troisième position.
+- **Longueur de texte :** Le texte optimal contient entre 0 et 1 200 caractères.
+Chaque tranche de 100 caractères supplémentaires peut réduire la portée de 10 %.Les phrases courtes (moins de 12 mots) performent 20 % mieux.
+Les contenus trop promotionnels risquent une baisse de performance jusqu'à 75 % - évitez donc les images de produits ou services.
+---
+## Le Pouvoir des visuels
+1. **Choisir des images pertinentes :**
+Augmente la portée de 15 à 20 %, jusqu'à 30 % avec un selfie adapté.
+2. **Utiliser des images personnalisées :**
+Préférez-les aux photos de stock pour un engagement accru de 45 % et une meilleure crédibilité.
+3. **Respecter l'identité visuelle de la marque :**
+L'utilisation cohérente des couleurs et thèmes améliore la mémorisation de 15 %.
+4. **Nombre d'images :**
+Chaque image additionnelle augmente la portée de 5 %, jusqu'à cinq images.
+5. **Présence humaine :**
+Les photos incluant des personnes augmentent la portée de 20 % (60 % avec votre présence) et l'engagement de 50 %.
+6. **Format des images :**
+Les photos verticales, optimisées pour mobile (64 % des utilisateurs), génèrent 15 % plus de clics que les images carrées et 25 % de plus que les horizontales.
+7. **Captures d'écran :**
+Malgré leur valeur informative, elles reçoivent 15 % moins de clics.
+---
+## Anatomie du Texte + Image
+1. **Longueur idéale du texte :**
+Entre 900 et 1 200 caractères.
+2. **Impact d'un texte trop long :**
+Un dépassement de 300 caractères peut réduire la portée de 10 %.
+3. **Choix de l'image :**
+Privilégiez les photos authentiques et originales aux images de stock.
+4. **Nombre d'images :**
+Limitez le nombre d'images malgré leur impact positif sur la portée.
+5. **Formatage :**
+Un bon formatage (gras, italique, listes) améliore portée et engagement.
+6. **Timing du contenu :**
+Adaptez le moment de publication à l'objectif du message.
+7. **Utilisation optimale :**
+Idéal pour le storytelling et le partage d'infographies.
+---
+## Publication de document (PDF)
+Les Publications Carrousel ou PDF se sont d'abord démarquées comme un format innovant sur LinkedIn.
+Leur popularisation croissante, privilégiant parfois le format au contenu, a cependant dilué leur impact.
+- **Statistiques :**
+Les publications avec image représentent 48 % du total.
+Les Publications Carrousel sont passées de 4,2 % (novembre 2022) à 8,1 % (décembre 2023).
+Leur portée a diminué de 40 % en 2023.
+Elles maintiennent néanmoins une portée 1,6 fois supérieure aux publications avec image, contre 2,2 fois en novembre 2022.
+---
+## Nombre de diapositives & Texte
+Une Publication Carrousel optimale compte environ 12,4 diapositives.
+L'impact du nombre de diapositives sur la portée :
+- **Moins de 5 diapositives :**
+Risque de réduire la portée de 35 %.
+- **Entre 5 et 12 diapositives :**
+Peut diminuer la portée de 15 %.
+- **Dépassement de 12 diapositives :**
+Réduit l'engagement de 25 %.
+La longueur du texte influence inversement la performance :
+- **Moins de 50 caractères :**
+Offre les meilleurs résultats.
+- **Pour chaque 50 caractères supplémentaires :**
+La portée diminue d'environ 1 %.
+L'équilibre entre contenu visuel et textuel est crucial pour maximiser clics et engagement.
+## Contenu & Mise en page
+Les diapositives contenant de **25 à 50 mots** atteignent le point optimal pour la performance.
+**Attention :**
+- Les diapositives avec une phrase ou moins pourraient voir une baisse de **10 %** de l'engagement.
+- Le contenu non optimisé pour la visualisation sur mobile peut subir une chute sévère pouvant atteindre **75 %** de réduction de la portée.
+- Les diapositives contenant uniquement du texte pourraient connaître une baisse de performance de **15 à 25 %**.
+**Conseils pour la mise en page :**
+- La conception et la mise en page des carrousels doivent être alignées avec votre marque personnelle, ce qui peut significativement améliorer la portée et l'engagement.
+- Utilisez jusqu'à **trois couleurs** pour garantir une bonne lisibilité (plus de quatre peut être visuellement accablant).
+- Réfléchissez à l'utilisation de polices manuscrites, qui peuvent entraîner une baisse de performance de **25 %**.
+---
+## Anatomie d'une Publication de Document (*)
+1. Visez environ **12 diapositives** par publication.
+2. Incluez **25-50 mots** par diapositive.
+3. Assurez-vous que les instructions accompagnant la publication soient inférieures à **500 caractères**.
+4. Le design doit refléter votre marque : utilisez un maximum de **trois couleurs** et privilégiez un format vertical.
+5. Réservez les histoires personnelles pour des carrousels instructifs.
+6. Combinez différents types de contenu pour créer un mélange réussi.
+7. Publiez le matin pour obtenir des résultats optimaux.
+> Note : Ce rapport ne s'aligne pas toujours sur ces critères. Il existe des raisons valables pour adopter une approche différente. Dans le cadre de sa commercialisation, deux publications de documents ont été partagées qui respectaient tous les critères spécifiés.
+>
+---
+## Sondages LinkedIn™ (1/2)
+Les sondages sur LinkedIn™ se sont révélés être un outil essentiel pour recueillir des opinions, encourager le dialogue et capturer des leads.
+Étonnamment, seulement **1,2 %** de toutes les publications sont des sondages, ce qui est relativement faible compte tenu de leur potentiel d'interaction et de portée.
+En termes de performance, les sondages se distinguent :
+- Ils affichent une portée environ **1,99 fois** supérieure à la médiane,
+- Et jusqu'à **2,16 fois** sur les Pages d'Entreprise.
+**La Simplicité de Votre Question :**
+- Veillez à ce que votre question soit suffisamment large pour engager un public diversifié, car un plus grand nombre de répondants conduit généralement à des résultats plus fiables.
+- Articulez clairement le contexte et les objectifs dans le texte de la publication – cette approche peut générer au moins **35 %** d'engagement supplémentaire.
+- Évitez d'aborder des sujets divisifs (religion, politique, croyances personnelles).
+- Les sondages trop promotionnels atteignent souvent seulement **1 %** de la portée typique et génèrent peu d'engagement.
+---
+## Sondages LinkedIn™ (2/2)
+> À suivre dans la suite :
+>
+>
+> Cette section détaillera la position idéale du sondage, les stratégies pour booster l'engagement et d'autres recommandations pratiques pour maximiser son impact.
+>
+---
+## Comment positionner votre Sondage
+- **Explication concise :** Fournissez une explication claire du but du sondage pour augmenter la participation.
+- **Limitation du texte :** Gardez la publication en dessous de **500 caractères**.
+- **Transparence :** Indiquez ce que vous comptez faire avec les résultats (augmentant ainsi l'engagement de **35 %** et la portée de **15 %**).
+- **Interaction :** Interagissez avec les commentaires pour stimuler davantage l'engagement.
+- **Invitation :** Invitez les participants à se connecter après avoir voté (cela peut conduire à un taux d’acceptation de **80 %** pour les demandes de connexion).
+---
+## Anatomie du Sondage parfait
+1. Gardez la longueur du texte en dessous de **500 caractères**.
+2. Fournissez une explication claire du but et de l'intention du sondage.
+3. Proposez **trois options** de réponse soigneusement élaborées.
+4. Envisagez d'inclure une option « *Autre, voir mon commentaire* » pour couvrir les réponses non prévues.
+5. Maintenez la durée par défaut du sondage à une semaine et évitez les sondages d'un jour.
+6. Pensez à créer une publication Carrousel ou Texte + Image pour mettre en avant et réutiliser les résultats.
+---
+## À FAIRE
+1. Intégrez organiquement des mots-clés pertinents pour améliorer la visibilité sur LinkedIn™.
+2. Exploitez du contenu opportun et aligné avec les tendances actuelles pour augmenter la pertinence.
+3. Encouragez l'interaction en invitant votre réseau à partager leurs idées, favorisant ainsi une communauté engagée.
+4. Adoptez un ton authentique et conversationnel pour maximiser l'engagement.
+5. Commencez avec une accroche forte pour inciter les lecteurs à cliquer sur « voir plus ».
+---
+## À NE PAS FAIRE
+1. Ne sous-estimez pas le pouvoir d'une accroche forte – une conclusion mémorable peut renforcer votre message et encourager l'action.
+2. Évitez de publier de longs blocs de texte sans pauses, ce qui peut décourager la lecture.
+3. Abstenez-vous d'utiliser des appels à l'action ambigus ; soyez clair sur ce que vous attendez (commenter, partager, suivre, etc.).
+4. Évitez un langage trop technique ou compliqué qui pourrait décourager l'engagement.
+---
+## La Magie des Publications « Uniquement Texte »
+Dans le monde du multimédia, les publications uniquement textuelles sur LinkedIn™ continuent d’avoir un fort impact.
+La simplicité du texte seul peut générer un engagement élevé lorsqu’elle est utilisée avec habileté.
+- Pour les profils personnels, ces publications se classent en quatrième position avec une portée d’environ **1,17 fois** la médiane.
+- Pour les pages d'entreprise, la portée est d’environ **0,46 fois** la médiane.
+- Les créateurs qui privilégient le texte seul constatent une performance supérieure par rapport à d'autres formats.
+**Quelques insights :**
+- La longueur optimale varie entre **1 800 et 2 100 caractères**.
+- Les publications de moins de **1 000 caractères** voient souvent leur portée réduite de **25 %**.
+- Structurer le texte en paragraphes courts (maximum quatre lignes) peut augmenter l'engagement de **15 %**.
+- Un formatage réfléchi (espaces blancs, titres, gras, italique) peut améliorer la performance de **25 %**.
+---
+## Accroche & Appel à l’Action (CTA)
+Formulez votre introduction et votre conclusion avec soin.
+Les deux à trois premières phrases sont cruciales : un début fort peut augmenter la rétention des lecteurs de **30 %**.
+Utilisez une accroche captivante – une question, une déclaration audacieuse ou une originalité – pour attirer immédiatement l'attention.
+Terminez la publication par une question afin d'encourager l'engagement, ce qui peut augmenter les interactions de **20 à 40 %**.
+Les publications textuelles sont particulièrement efficaces pour inciter à des actions externes (téléchargements, inscriptions) avec un taux de clic moyen supérieur de **25 %**.
+---
+## Anatomie de la Publication « Texte Seul » Parfaite
+1. La longueur idéale du texte se situe entre **1 800 et 2 100 caractères**.
+2. Évitez un contenu trop bref : les publications de moins de **1 000 caractères** peuvent subir une baisse de **25 %** de leur portée.
+3. Adoptez une structure claire et concise.
+4. Un formatage soigné (utilisation de titres, de gras et d'italique) peut améliorer la portée et l'engagement.
+5. Investissez du temps dans la création d'accroches et de conclusions percutantes.
+6. Publier plusieurs messages textuels consécutifs n'a pas d'impact négatif.
+7. Ces publications sont idéales pour le storytelling et le partage de tactiques actionnables.
+---
+## Publication Vidéo sur LinkedIn™
+Les publications vidéo sur LinkedIn™ se distinguent par leur capacité à transmettre des histoires et des insights de manière visuelle.
+Bien que la portée puisse varier en fonction de plusieurs facteurs, les vidéos affichent généralement un engagement supérieur.
+> Statistique :
+>
+>
+> Les vidéos représentent environ **8,2 %** de toutes les publications sur LinkedIn™.
+>
+Pour les profils personnels, les vidéos se classent en quatrième position en termes de portée, tandis que pour les pages d'entreprise, elles se situent en troisième position.
+---
+## La Vidéo Idéale pour un Engagement Optimal
+Pour maximiser l'engagement, la durée optimale d'une vidéo se situe entre **1 et 2 minutes**.
+- Les vidéos de plus de **3 minutes** voient leur engagement diminuer d'environ **15 %** par minute supplémentaire.
+- Les vidéos de moins d'une minute favorisent un engagement rapide, mais peuvent ne pas suffire pour transmettre des messages complexes.
+- Maintenir un taux de rétention supérieur à **70 %** peut améliorer les taux de conversion jusqu'à **30 %**.
+- Pour du contenu détaillé, des vidéos allant jusqu'à **5 minutes** peuvent être acceptables si elles restent captivantes.
+---
+## Conseils de Performance et d'Impact pour la Vidéo
+- **Qualité visuelle et audio :**
+Assurez-vous que votre vidéo dispose de visuels nets et d’un son clair, ce qui peut augmenter l'engagement de **50 %**.
+- **Sous-titres :**
+L'inclusion de sous-titres améliore l'accessibilité et peut augmenter l'audience de **40 %**, surtout pour les utilisateurs regardant sans son.
+- **Format de publication :**
+Accompagnez la vidéo d'un texte concis (moins de **500 caractères**) pour renforcer le message.
+- **Format vertical :**
+Un format vertical peut augmenter la portée de **15 %** par rapport aux formats carrés, et de **25 %** par rapport aux formats horizontaux.
+---
+## Anatomie de la Publication Vidéo parfaite
+1. **Captation :**
+La vidéo doit capter l'attention dans les premières secondes pour éviter une perte de **30 %** des spectateurs potentiels.
+2. **Contenu pertinent :**
+Le contenu doit être adapté à votre audience et comporter un appel à l'action clair.
+3. **Qualité de production :**
+Assurez-vous que la qualité de la vidéo reflète l'image de votre marque.
+4. **Publication native :**
+Publiez la vidéo directement sur LinkedIn™, car les liens externes (ex. YouTube) peuvent réduire la portée de **50 %** et les conversions de **20 %**.
+5. **Miniature attrayante :**
+Utilisez une vignette qui capte l’attention pour renforcer la reconnaissance de la marque.
+---
+## Articles & Newsletters
+Les articles sur LinkedIn™ permettent d'approfondir des sujets et de positionner leur auteur en tant que leader d'opinion.
+Bien que leur portée soit généralement inférieure sur la plateforme, ils sont essentiels pour le SEO et l'enrichissement des newsletters.
+- **Statistiques :**
+Seuls **4 %** des publications sont des articles, dont **34 %** sont intégrés dans des newsletters.
+Les articles individuels affichent environ **0,57 fois** la portée médiane, tandis que ceux intégrés dans des newsletters peuvent avoir une performance jusqu’à **quatre fois** supérieure.
+La Newsletter est accessible uniquement aux créateurs ayant activé le Mode Créateur.
+Depuis le 2e trimestre 2023, il est possible de publier plusieurs newsletters à partir d’un même profil, couvrant divers sujets et audiences.
+---
+## Quoi Faire et Ne Pas Faire pour les Articles
+### À Faire
+1. Maintenez l'authenticité et l'originalité pour refléter votre perspective unique.
+2. Créez un titre captivant pour attirer l'attention.
+3. Promouvez l'article via une publication et partagez-le dans **2 à 3 groupes** pertinents.
+4. Créez des séries d'articles pour stimuler l'engagement.
+5. Incorporez des hyperliens vers des sources crédibles pour renforcer la crédibilité.
+### À Ne Pas Faire
+1. Ne dupliquez pas simplement le contenu de votre blog d'entreprise – recherchez des insights frais.
+2. Évitez d'utiliser excessivement des médias riches ; limitez-vous à une vidéo ou un diaporama par article.
+3. N'ignorez pas le SEO ; optimisez votre article pour les moteurs de recherche.
+4. Ne publiez pas des articles trop fréquemment – idéalement pas plus de **2 fois par mois**.
+5. Ne sous-estimez pas l'importance d'une image de couverture captivante pour attirer les lecteurs.
+---
+## Anatomie de l'Article Parfait
+1. **Longueur idéale :** **800 à 1 200 mots**.
+2. **Mise en forme :** Utilisez des paragraphes courts et des titres pour faciliter la lecture.
+3. **Fréquence :** Visez une publication bihebdomadaire (ou mensuelle).
+4. **Médias riches :** Limitez leur usage, en privilégiant des liens externes de qualité.
+5. **Timing :** Publiez en semaine (du lundi au jeudi) pour maximiser la visibilité.
+6. **SEO :** Optimisez pour les moteurs de recherche et utilisez des hyperliens pertinents.
+7. **Promotion :** Partagez votre article sur d'autres réseaux sociaux et communautés LinkedIn™.
+---
+## Faits Supplémentaires sur les Formats
+- **Visuels animés :**
+Les GIF, surtout ceux d'une durée maximale de **6 secondes**, peuvent être plus efficaces que les images statiques et augmenter la portée de **10 à 20 %**.
+- **Modèles prédéfinis :**
+Les modèles « Célébrer les occasions » sont disponibles sur LinkedIn™, mais le contenu personnalisé surpasse généralement les publications basées sur des modèles.
+- **Cohérence visuelle :**
+Maintenir un cadre visuel cohérent sur vos images, carrousels et vidéos peut renforcer la reconnaissance de la marque et augmenter la portée et l'engagement sur trois mois.
+---
+## La Dynamique des Liens Externes sur LinkedIn™
+Intégrer des liens externes dans vos publications peut réduire significativement la portée.
+Deux facteurs expliquent cette baisse :
+1. Les utilisateurs préfèrent rester sur la plateforme, ce qui conduit à moins de clics sur les liens externes.
+2. Le but de votre contenu étant souvent de générer des conversions, inclure un lien externe doit être fait avec précaution pour éviter une chute de visibilité.
+---
+## 3 Stratégies pour les Liens Externes
+1. **Inclure le lien dans la publication originale :**
+Intégrez le lien directement dans votre texte, en veillant à ce que le contenu reste engageant.
+2. **Ajouter le lien dans les commentaires :**
+Placez le lien dans le premier commentaire pour minimiser l'impact négatif sur la portée.
+3. **Modifier la publication après coup :**
+Publiez d'abord sans lien pour maximiser l'engagement, puis ajoutez le lien une fois l'engagement initial établi.
+---
+## L'Analyse des Tendances en Termes de Portée
+La portée moyenne et la portée médiane sont des indicateurs clés pour évaluer la performance des publications.
+- **Portée Moyenne :** La somme de toutes les portées divisée par le nombre total de publications (peut être influencée par des valeurs extrêmes).
+- **Portée Médiane :** La valeur centrale dans la distribution des portées, moins affectée par des valeurs aberrantes et reflétant mieux une performance typique.
+Cette analyse permet de comparer l'efficacité de différents formats (articles, vidéos, images, textes) sur LinkedIn™.
+---
+## Associer le Contenu aux Bons Formats LinkedIn™
+LinkedIn™ propose une variété de formats.
+Il est crucial de choisir le format le mieux adapté à votre message.
+Une matrice détaillée peut guider cette sélection en fonction de vos objectifs et de l'impact souhaité.
+---
+## Programmer vos Publications sur LinkedIn™ pour une Visibilité Maximale
+- **Régularité :** Maintenez un calendrier de publication constant.
+- **Timing :** Publiez aux moments où votre audience est la plus active.
+- **Planification :** La régularité et la planification sont essentielles pour construire une audience fidèle et améliorer la portée organique.
+---
+## Publication Stratégique : Le Pouvoir de la Cohérence
+Maintenir un rythme de publication régulier est essentiel.
+- Une nouvelle publication dans les 24 heures peut diviser la portée plutôt que de la cumuler.
+- Retardez une nouvelle publication si la précédente génère encore un engagement significatif.
+- Pour les Pages d'Entreprise, des règles spécifiques s'appliquent quant à la fréquence.
+---
+## Pusturing : L'Art de Publier & de Nourrir (1/2)
+LinkedIn™ valorise le contenu partagé de manière organique et encourage la réutilisation des publications.
+Le cycle de vie d'une publication comporte trois phases clés :
+1. **Les Premières 60 Minutes :**
+La phase initiale où la visibilité et l'engagement sont déterminants.
+2. **Après 6 Heures :**
+Un moment crucial pour évaluer l'engagement et ajuster la stratégie.
+3. **Engagement Après 24 Heures :**
+Les interactions après le premier jour prolongent la visibilité de la publication.
+---
+## Pusturing : L'Art de Publier & de Nourrir (2/2)
+**Stratégies pour nourrir le contenu :**
+- **Fils de commentaires :** Encouragez des discussions approfondies dans les commentaires.
+- **Réponse rapide :** Répondez rapidement aux interactions, surtout dans la première heure.
+- **Republication stratégique :** Partager à nouveau la publication le deuxième jour peut augmenter l'engagement de **20 %**.
+- **Interagissez avec votre réseau :** Engagez-vous sur plusieurs publications de vos connexions pour renforcer la visibilité de votre propre contenu.
+- **Tagging stratégique :** Mentionnez d'autres utilisateurs de manière judicieuse pour améliorer la portée sans pénalités.
+- **Appels à l'action :** Intégrez des appels à l'action explicites pour augmenter la portée d'environ **10 %**.
+---
+## Maximiser la Portée : Les Abonnés Plutôt que les Connexions
+LinkedIn™ favorise la visibilité auprès des abonnés plutôt que des simples connexions.
+- Les notifications et interactions avec vos abonnés jouent un rôle déterminant dans la portée.
+- Adaptez votre stratégie pour encourager les abonnements, car une audience fidèle peut significativement améliorer la visibilité.
+---
+## Engagement Stratégique : Augmenter la Portée
+Lorsque vous interagissez avec une publication appréciée, clarifiez votre objectif :
+- **Pour augmenter la visibilité de la publication originale :**
+Partagez ou commentez rapidement la publication.
+- **Pour promouvoir à la fois la publication originale et votre propre profil :**
+Ajoutez un commentaire réfléchi.
+- **Pour optimiser votre visibilité personnelle :**
+Créez une nouvelle publication inspirée par le contenu original, en taguant l'auteur pour lui rendre crédit.
+*Note : Même si vous effectuez plusieurs actions (commenter, partager, etc.), seule la première action impactera l'algorithme pour la croissance de la publication originale.*
+---
+## Taguer : Créer un Impact tout en Évitant les Pénalités (1/2)
+Un usage judicieux des mentions sur LinkedIn™ peut améliorer l'engagement.
+- Mentionner quelques profils ou pages pertinentes peut renforcer la portée, à condition de ne pas en abuser.
+- Un excès de mentions peut entraîner une pénalité et réduire la visibilité de votre publication.
+---
+## Taguer : Créer un Impact tout en Évitant les Pénalités (2/2)
+1. **Utilisation mesurée des mentions :**
+Ne mentionnez pas un nombre excessif de profils dans une même publication. Une utilisation abusive des mentions peut entraîner une baisse de la portée.
+- *Conseil :* Limitez le nombre de profils tagués pour éviter une réduction de la visibilité d'environ **11 %**.
+2. **Impact des interactions sur les mentions :**
+Lorsque les profils mentionnés interagissent (aiment, commentent), leur engagement peut augmenter considérablement la portée de votre publication, pouvant atteindre jusqu'à **48 %** d'augmentation.
+- *Astuce :* Assurez-vous que les personnes que vous taguez sont pertinentes et susceptibles de participer activement à la conversation.
+> Note : Utilisez les mentions de manière stratégique et évitez d'inclure des profils non concernés, afin de maximiser l'impact positif sur votre portée.
+>
+---

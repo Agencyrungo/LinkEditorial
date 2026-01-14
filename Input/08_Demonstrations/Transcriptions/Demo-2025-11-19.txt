@@ -1,0 +1,388 @@
+
+Tiers je m'occupe de toute la partie réalisation de dossiers ponctuels du cabinet que ce soit les business plan pour mes clients des évaluations d'entreprise dans le cadre de fusion acquisition. Je laisse la partie conseils et accompagnement du dirigeant à Monsieur hatier. Et donc aujourd'hui je participe à ce rendez-vous parce que le sujet de l'IA nous intéresse beaucoup.
+
+Voilà au cabinet déjà depuis quelques temps, on essaye vraiment. De faire en sorte d'intégrer ça dans notre quotidien pour nous faire gagner du temps. OK? Voilà on le fait vraiment pas à pas on tâtonne beaucoup parce qu'on n'est pas forcément expert en la matière et il y a énormément de personnes qui se revendiquent être experts en la matière donc la matière est très récentes.
+
+Euh mais voilà, ce sont des sujets qui nous ne nous intéresse beaucoup. Pour gagner en productivité et puis aussi automatiser un certain nombre de choses qui sont un certain nombre de tâches qui sont chronophages. Super! Ouais tu as pu présenter peut-être? Oui j'ai dit que enfin Jimmy donc il est de formation c'est biforma.
+
+C'est bien ça? Et toi tu étais dans la logistique mais je rappelle plus le nom de la société. Des livres accès expédits ok ouais donc voilà. Donc là je suis en train de me connecter. Peut-être le wifi? Je vais voir si c'est suffisant ou pas. Le code il est où?
+
+Là pour me connecter. Normalement il y en a une fenêtre qui s'allume. Peut-être ça ouais je vois. Il faut? OK. Je vais faire fondre comme ça. Donc là on est sur Kaya 4.5 c'est ça donc? Quatrième génération 33ème version Donc là on est sur tchat gpt et comme vous pouvez constater il y a un contrôle d'accès.
+
+Au départ. D'accord. Non je souhaite. OK.
+
+Donc? Vous rappelez vite fait la progression qu'on va faire. Donc analyse des besoins, donc l'idée c'est que. Jimmy, par rapport à un cas réel, tu nous donnes un exemple de formation. Ouais voilà c'est ça! Et à partir de là, on va générer donc l'analyse du besoin par rapport aux informations qui ont été transmis par le biais de la technique de questionnement selon Socrate la maetic socratique.
+
+Et une fois que ça a été fait on valide de l'analyse du besoin et là on va générer tous les documents les uns à la suite des autres. Donc ne pas hésiter à être vraiment très précis au départ donc je te laisse me donner les éléments. Tu peux tu peux me l'envoyer même sur WhatsApp si c'est possible.
+
+Alors? Tu peux envoyer sur bonjour@wango.biz? Alors bonjour @orango.biz.
+
+Alors là c'est dans dans le cas c'est pour générer l'ingénierie de formation ou c'est pour contrôler un programme existant? C'est comme tu veux. Enfin on peut faire les deux cas.
+
+Je suis à actualiser la page.
+
+Avant ça peut-être vous avez des questions sur kalia. Avant de commencer le temps qu'ils envoient la doc parce que eux ils ont déjà eu des explications sur kalia et tout mais. Ça marche. Je viens de recevoir. Hop un référentiel, un programme de formation super! La voiture de crâne rasée.
+
+Désolé je vais les prendre. Objectif conditions certification.
+
+Nous allons parler. Trop de coiffure!
+
+Un programme détaillé. Euh par contre en gros dans ton document vu qu'il est assez complet il y a déjà tout ou partie des documents qu'on a énoncé donc du coup je lui ai demandé qu'il les contrôles et une fois qu'ils a contrôlé. Si détecte des points d'amélioration on partira là-dessus directement ce que on a déjà tous les documents dans le fichier.
+
+Donc je dis voici toutes les informations d'une action de formation. Dans un premier temps.
+
+Prends-en connaissance!
+
+Dans la réponse suivante. Ce qu'on va lui dire ça va être de. Vérifier qu'on a tous les documents. Donc contrôle? La présence. De tous les docks. Sé.
+
+Ouais il y a toujours été celui qui parle non mais je pardon.
+
+Donc voilà trois étapes donc je dis il prend connaissance du document. Ensuite dans la seconde il contrôle la présence de tous les documents obligatoires. Je dis selon tes connaissances. Et puis ensuite dans la réponse suivante il fera des propositions d'améliores d'amélioration sinon au départ ce qui leur aurait fallu dire c'est.
+
+Nous on fait la formation. Titre de l'action de formation ça s'adresse à telle personne, c'est telle référentiel. Euh la durée et là le thème de formation et à partir de tout ça il va générer tous les documents que tu viens de me transmettre donc là on est presque plus sur une vérification.
+
+Que sur la génération? Mais s'il arrive à contrôler correctement enfin il peut générer correctement. Les deux cas sont similaires. Je vais voir si je peux augmenter la taille.
+
+Et je vous laisse lire. Vous me dites dès que c'est bon pour qu'on passe à la suite.
+
+Donc là c'est une analyse des besoins où il reprend les informations spécifiques de l'action de formation.
+
+Dès que je peux passer à la suite vous me dites.
+
+Donc n'ayant pas lu la documentation je peux pas confirmer si c'est bon pas donc. OK.
+
+Donc là maintenant il va passer au contrôle de conformité qualiopie rnq d'accord pour voir toute la présence de document obligatoire.
+
+OK. On fera la matrice. Qualiopi.
+
+Donc information du public. Là on a tout dans le PDF de biforma. Dans les tarifs conditions calendrier contact. Il va manquer une partie des indicateurs. C'est par exemple l'affichage des prix mais ça peut être une stratégie de fonctionnement par rapport au fait qu'on est obligé de se confronter au moins 22 critères sur indicateurs sur les sur les 32 enfin donc c'est pas forcément une faute mais.
+
+Il rappelle quand même l'importance de ça. Il y a pas de fiche de recueil des besoins parce que enfin c'est tacite dans votre cas à vous. Ça c'est une démarche qui est propre à kalia pour être sûr de bien. Cibler la demande. Attestation alors là c'est normal parce que nous on est centré sur la partie ingénierie de formation, on n'a pas la responsabilité administrative de l'of dans le cadre de l'intervention de kalia, mais ça rappelle quand même les éléments à fournir.
+
+Donc le plan de formation donc il considère que la documentation est pas suffisamment. Euh complète par rapport à ce qui peut être généré prévu par. La certification qualiopi. Donc ça va être notamment le plan de formation et le scénario pédagogique qui est pas. Euh alors peut-être qu'il a été fait mais de façon condensée alors que là nous on pourra générer un document parfaitement reconnaissable et distinctes.
+
+Référentiel de compétences et sachant que là vous comprenez la difficulté de l'exercice c'est que. Euh bah on a fait son plan en continu mais quand après on doit se recasser la tête en disant voilà là je parle que de l'animation là je parle que du déroulé du temps étape par étape et qu'il faut qu'on ait une cohérence entre les séquences ou les modules du programme.
+
+Ça devient vite chronophage sans forcément apporter de valeur ajoutée au sens où c'est vraiment une tâche qui est bureaucratique pure et donc on s'éloigne de la formation quelque part. Donc le déroulement est accompagnement donc feuille de présence acidité donc elle est mentionnée mais pas joints donc là vous voyez.
+
+C'est irréfragable quoi? Enfin on peut si on doit améliorer son intervention savoir précisément en même pas 30 secondes. Euh tous les points à aborder. Alors que ce type de travail reconstitué la matrice qualiopie à la main parce que là c'est juste une vérification des documents. Là maintenant il va faire la.
+
+On est quand même à 70% de conformité. Et là maintenant il va faire la matrice qualiopi donc ok pour la matrice. Qualiopi.
+
+Alors ça c'est un gros travail parce que quand on est on est inspecté par un auditeur. Il va y prendre une formation au hasard. Et va nous dire enfin il nous pose des questions. Alors moi j'ai jamais passé d'audit mais dans ce que de ce que on m'a expliqué c'est qu'il va poser des questions.
+
+À travers les différents indicateurs et critères et après c'est à charge de l'ef d'apporter la preuve. Que les informations ont bien été transmises. Le tableau est un peu long, je vais dézoomer légèrement. Voilà et là il reprend? Du coup tous les indicateurs.
+
+Et avec exactement la recommandation le niveau de conformité et évidemment pour les auditeurs. D'accord, ils auront sur déclaration un fichier spécial qui fera lancer un audit dans les règles de l'art, c'est-à-dire juste une évaluation du nombre d'erreurs. Et? Comment aucune indication pour la correction de ces erreurs? Enfin comme le veut l'audit parce que ouais c'est le gendarme donc il est pas là pour.
+
+Plus mais par contre pour le F ça permet une préparation ou visuellement?
+
+Et ça va plus loin? Parce que si on vous demande de faire le même travail sur la traçabilité de l'IA dans votre protocole jusqu'à où vous êtes intervenu dans l'IA, qu'est-ce qu'il y a après comme décision ou pas là, il faut que vous apportiez le fait que il y a une double vérification humaine avant et après l'action de lire.
+
+D'où le fait que, comme je le précise, toujours la propriété de ce qui est généré appartient au formateur qu'il a généré. Mais la responsabilité du contenu créé lui appartient également aussi. Néanmoins kalia va encadrer au maximum pour limiter. Le plus d'erreur possible. Enfin même la totalité des erreurs.
+
+Voilà donc là c'est ils disent qu'il doit faire pour qualiopie c'est ça non? Parce que l'ingénierie de formation comme je dis là on a fourni un document qui est partiellement complet que tu. Enfin on avait besoin seulement de nombre de participants la matière est-ce que c'est une certifiant ou pas le rncp?
+
+Le référentiel? Là on est dans un cas où on part pas de zéro et. Ouais mais c'est intéressant parce que ça permet de comprendre que on calia en capacité d'apprécier la documentation qui est fournie et de faire des recommandations conséquences. Donc là, comme on le constate vu qu'on a pas mal de points à corriger et ben tout simplement, on va lui demander de générer tous les documents de kayak conformément à la méthode de calia.
+
+Ok point que j'ai pas fait tout à l'heure mais tout marche. Non non non là il a fait l'analyse de la documentation que tu as fourni. Où on voit qu'on est quand même conforme à 70%. Ok mais là l'idée enfin et surtout on sait comment tu appréhendé le programme avec ta façon de voir les choses, tes subtilités.
+
+Donc l'idée maintenant c'est d'arriver à une conformité plus haute et d'avoir la totalité des documents. C'est on considère que là on a fait notre analyse du besoin. On a notre cartographie de compétences et maintenant on va générer du coup façon kalia tous les documents, le plan, le scénario, le dérouler et la grille d'évaluation.
+
+OK. Donc on peut le faire en vocal aussi? Donc je peux autoriser. Voilà! Donc là dans un premier temps. Je valide donc l'analyse le contrôle et les propositions de correction. Euh pour avoir une documentation optimale, je propose de régénérer tous les documents un par un raison d'un document par réponse en commençant par l'analyse du besoin.
+
+Jusqu'à? La grille d'évaluation puis la matrice qualiopie. On fait tous les documents dans l'ordre et au complet. Du coup ça je trouve quand même que le vocal? Euh ça change vraiment l'approche. De comment on aborde? L'outil. Et ça montre aussi que qu'on tape ou qu'on est on le fasse en vocal.
+
+On est vraiment sur un assistant Ia conversationnel c'est à dire que? On n'a pas à faire des prompt ingénering de 40 ou 50 pages. Je dis bien en page. Et ça fait toute la différence et surtout on est guidé. C'est que quelqu'un qui débute dans la formation ou alors qui n'a pas forcément un niveau au top s'il a vraiment l'objectif de s'améliorer.
+
+Il est guidé dans le processus quoi là on était perdu. On aurait pu dire. Allez c'est quoi ce document? C'est quoi cette notion? Et il va détailler? Ce qu'alia prend connaissance du contexte mais aussi de la démarche qualiopie. Et des rncp donc là il nous a listé tous les documents qu'on allait voir donc ça on reprend l'analyse du besoin, cartographier et compétences, le plan, le scénario, le dérouler, les grilles d'évaluation et la matrice de conformité kaliopi.
+
+Donc là on part sur l'analyse du besoin. Il nous pose quand même deux petites questions publics cibles donc ça doit être les porteurs de projets repreneurs, salariés, reconversion, jeune diplômé ça me semble correct. Objectif principal donc. Euh que doit permettre cette formation donc créer une micro entreprise viable et piloter projet TPE pareil et puis mise en œuvre donc formation financée par le cpf loco.
+
+Ou c'est de l'autofinancement ou transition pro ou les quatre?
+
+Pour la durée modalité donc dominante donc 470 heures confirmés, 100% distanciel et mixte learning ou présence partielle. Donc c'est 100% distanciel et mixtorning. Ok donc?
+
+Je valide. Et pour le 4? C'est 100%.
+
+Donc c'est bien le bon rncp.
+
+Voyez ce qui est bien c'est que il se contente pas de faire de la répétition mécanique. Il est toujours dans. Vraiment de l'apport de proposition. Par contre la décision la validation reste à la charge de l'humain, c'est à dire que l'IA peut nous faire des propositions. Après c'est nous qui validons ou pas.
+
+Ça fait gagner du temps et puis ça évite le problème de la feuille blanche. Quand on démarre à partir de rien?
+
+Et là donc il fait une analyse de la complexité? Parce que dans la dans le guide de lecture qualiopi on nous dit bien faire trop trop complet. C'est une faute faire trop light c'est une faute mais nous explique pas. Dans quelle mesure on doit faire varier ces documents en fait?
+
+Et là ça permet grâce à cette analyse multicritériée. De bien voir. Quelle dimension évolue maîtrise? On fait pour le pour le pour chaque document qu'on va générer ça va avoir un impact sur le fond et également la forme. Et ça permettra après face à des questions de l'auditeur qui va être bon.
+
+Bah justifier moi pourquoi vous avez fait ce volume de documents. Pourquoi vous avez ajouté ou enlever ça et ben on peut avoir une réponse qui peut être générée par kalia pendant l'audit? Et ça fait toute la différence. Donc là on dit ok pour le doc 3.
+
+Et ce qui est intéressant c'est que vu que les infos qu'on a fourni au départ sont mine de rien beaucoup plus détaillée que ce qu'on avait fait simplement si on a remis le public le référentiel et leco. Euh donc on va vraiment avoir un bel enrichissement. De du contenu donc cartographie des compétences.
+
+Donc là l'idée c'est de voir du coup. Les blocs à maîtriser. Voilà donc on a le bloc 1.
+
+Notre bloc 2.
+
+Vu que j'ai pas lu le document initial, je ne sais pas dans quelle mesure il y a eu un apport mais ce qui est sûr et certain c'est que normalement ça devrait être plus détaillé. Avec peut-être une légère différence sur l'approche?
+
+Après qui peut le plus peut le moins donc si ton document était ultra détaillé au départ. Ça laisse moins de marge de manœuvre pour la complétion mais si en revanche c'était pas aussi détaillé qu'alia et en capacité de d'amplifier le cours. Au même titre que? Euh, il y a un enjeu pour le futur, c'est que il faut prouver que notre formation est meilleure que ce qu'il y a sur le marché.
+
+Donc tu peux comme ça prendre plusieurs plans de formation de la concurrence, les mettre dans kalia et dire. Voilà fais-moi un audit de pour voir si ma formation elle est bien au-dessus ou s'il y a des points intéressants à récupérer donc. Pour la réactivité et l'adaptation au marché, ça offre un atout concurrentiel qui est non négligeable.
+
+Donc là on a le bloc 5. La synthèse transversale. Ça comment on va dérouler nos blocs? Un rappel des outils d'évaluation. Simples qui vont être mis en place? Et puis le protocole de validation interne donc là maintenant on peut passer. Aux plans de formation?
+
+Alors je précise quand même que. Même si qualiopi offre un cadre. Sur le formalisme des documents. Néanmoins on le sait, les centres de formation ont quand même une liberté. D'écriture au sens où ils peuvent faire la présentation avec leur tram à eux. Donc là ce qui est bien c'est que kalia en fonction comme je disais du niveau de complétion va faire soit des tableaux en paysage pour tout tiennent sur une feuille ou alors raisonner en portrait on n'aura pas de tableau et les informations qui vont se succéder sous forme de paragraphes.
+
+D'accord mais si c'est pas suffisant on peut fournir ses propres documents comme le PDF que tu as donné alors il fera pas le même design forcément parce que chaque gpt pas fait pour ça. Mais par contre il pourra respecter la trame si par exemple les colonnes vous les mettez dans un certain ordre que il y a une colonne qui est spécifique à votre mode de fonctionnement et ça c'est hyper pratique parce que.
+
+Euh, on a vraiment une solution qui va s'adapter à vos méthodes de travail donc c'est à dire que vous avez pas à rechanger vos habitudes. Par rapport à l'arrivée de kalia, ça c'est important. Donc là on a. Toutes les informations qui concernent tous les blocs avec la répartition. Ce qui est quand même assez impressionnant.
+
+C'est que là on gère quand même en. Même pas 30 minutes. Un volume de formation de 470 heures c'est quand même pas rien. Sachant qu'en général si on part de from scratch faut compter 10 jours de maximum 10 jours de travail pour arriver à une journée de formation, correcte et complète avec tous les documents donc là.
+
+470 heures ça dépasse largement la journée. Et ces traités? Tranquillement. Après évidemment si on veut plus de détails en disant bah non moi je veux une progression à 15 minutes, une heure une demi-journée. Il va s'adapter en conséquence et ce qui est très bien c'est ça. Rejoint ce que je disais tout à l'heure.
+
+Là on est sur un gros volume de horaires mais on voit très bien que. N'a pas fait mécaniquement aller 50 50 50 50 ce qui aurait pas du tout de sens par rapport à la volumétrie des blocs. Donc là on a fini pour le plan de formation donc on a vraiment toutes les informations légales.
+
+Jusqu'aux informations pour les personnes en situation d'handicap les indicateurs rnq concernés et du coup maintenant on peut passer au scénario pédagogique donc ok pour le scénario pédagogique.
+
+Et vu qu'on a été hyper précis au départ par rapport au contexte qu'on a fourni déjà pour une reprise de programme la charge cognitive, elle est quasiment nulle parce que tout est déjà dedans. Et surtout une fois qu'on a bien les informations qui ont été transmises sur le besoin de l'action de formation.
+
+C'est quasiment un sans faute là j'ai pas dû j'ai pas eu à lui dire ouais mais là tu vois tu m'as tu m'as oublié un bloc j'ai pas 470 heures toutes les informations elles sont ici. Comme on dit détromper au sens propre du terme pour vraiment avoir une qualité absolue et là.
+
+Et bien on est bien. Sur? Taximonie de Bloom structuré élaborée communiquer etc etc. Par bloc et par séquence. OK. Avec toujours les ressources et les outils et là on est vraiment purement sur l'animation.
+
+Donc là on a, on a tout avec toujours notre cohérence depuis le départ sur le nombre de blocs, le volume horaire. Etc donc on reprend toutes ces informations là? Et là on peut passer au déroulé horaire. Donc ok pour le. Dérouler. Horaires?
+
+Ce qui est bien aussi c'est qu'on a toujours la traçabilité des informations pour chaque document. Ça fait partie de la rigueur attendue dans ce que l'on fait avec qualiopi parce qu'on a aussi une contrainte de versionning. Ça ça a l'air de rien, mais c'est hyper pénible et chronophage dire voilà, j'ai changé de documents.
+
+Il y a ça comme modifications sur le document d'où le fait que c'est la version la génération. Enfin, c'est indispensable mais c'est chronophage. Par contre, comme le précise le guide de lecture qualiopi. On a normalement deux obligations la première c'est de donc faire du versionning. Dans le cas du versionning, il faut faire une mise à jour tous les deux mois.
+
+Obligatoire donc ça c'est une contrainte qui montre que s'il faut qu'on recommence tout parce qu'on a rajouté juste un petit bloc etc. La cohérence elle tombe. Donc il faut se retaper tout le boulot et il y a un autre point aussi sur lequel kalia va apporter une aide majeure.
+
+C'est sur la pédagogie différenciée parce que on va pouvoir faire avec la grille d'évaluation un positionnement des candidats au départ et ces réponses on va pouvoir les mettre dans kalia qui va les anonymiser conformément au cadre de l'usage de l'IA. Dans l'éducation nationale. Et? À partir de là, il va pouvoir générer tous les exercices mais adapter à chaque élève par rapport à leurs difficultés, les compétences déjà qu'ils et les compétences à acquérir.
+
+Donc ça pareil. Je sais que sur les indicateurs qualiopi c'est deux points la mise à jour tous les deux mois plus la pédagogie différenciée qui sont souvent. Euh non traité parce que c'est vraiment une contrainte qui va augmenter de façon significative le temps de travail parce que on a déjà vu le temps qu'on gagne avec juste une ingénierie générale.
+
+Mais si après on devait refaire tous les exercices élève par élève, si on a un groupe de ne serait-ce que 20 personnes, c'est c'est hyper conséquent. Donc là on a le déroulé. Par séquence? Et puis on a. Donc voilà, rappel des suivis des évaluations. Et on va passer du coup à la grille des évaluations et décisions vu qu'on a vu le déroulé pédagogique.
+
+Donc OK. Pour la grille. D'évaluation. Alors au cas où si Comment le cours? Enfin il est énorme. Je sais pas moi c'est. Miller enfin, etc. Si vous voulez plus de détails, il suffit de dire. Ben voilà! Génère moi les 250 premières heures avec tel niveau de compression tu enchaînes et puis vous faites 5 fois suivant et vous pouvez traiter comme ça des volumes de formation très importants.
+
+Euh donc là il rappelle en fait toutes les évaluations. Qui sont préparés donc les évaluations par bloc de compétences. Une notation sur 20 avec un seuil minimal de 12 sur 20 parce que dans la particularité de qualiopie c'est que il faut faire une pondération dans les critères, il y en a qui sont obligatoires non obligatoires.
+
+Et des fois pour considérer qu'on a acquis la formation, il y a une pondération de notes qui est obligatoire qui va vraiment permettre. Voilà donc on voit les biens les pondérations ici on voit le niveau attendu. Euh les critères d'évaluation alors je pense que dans le référentiel c'était précisé une note sur 20 mais on peut prévoir d'autres types d'évaluation d'exercice.
+
+Euh comme on a vu les quizz, les travails de groupe prestations orales c'est très varié quoi? Et là on a bien repris bloc par bloc. Voilà il nous dit voilà quand est-ce qu'on s'est validé conditionnel ou ajourné pour la prise de décision. Les conditions modalités de rattrapage aussi. La traçabilité et puis votre validation interne et là on arrive sur la matrice qualiopie complète donc OK.
+
+Vous avez vu là on a on a bien fait le truc au départ et après c'est comme si on était sur un rail. Il s'est quasiment impossible de sortir de la voix sauf si vraiment on fait enfin on demande une sortie de voix quoi. Donc dans la matrice qualiopi et là on reprend.
+
+Toutes les informations et il nous donne des petites spécifications. Donc là par exemple pour la publication des résultats satisfactions insertion vu que c'est une formation qui date de 2024, il nous dit il faut quand même faire une mise à jour s'il y a eu des sessions entre temps. Sur les taux de réussite.
+
+Là c'est un petit amélioration du process. Ajouter un plan individualisé alors ça c'est bien ce qui peut aussi générer tous les documents et les infos que vous allez saisir dans votre LMS. Derrière. Donc LMS c'est learning management system. C'est là on va stocker les vidéos. Euh les supports de cours, les exercices les quizz.
+
+Donc là à ce stade il sait que bon on a les éléments. Mais ils sont pas encore mis sur le LMS forcément parce qu'on a généré des documents supplémentaires. Et là après voilà! Euh ben comment? Là par exemple l'inconformité ici c'est parce que c'est pas à kalia de gérer le nombre d'abonnements.
+
+Enfin d'abandon ça c'est plutôt une tâche administrative de l'of et on voit que. N'est pas un TMS, c'est-à-dire qui va suivre et gérer la progression des élèves et leur absentéisme. On est vraiment dans la création de la valeur cours. Enfin du savoir de la connaissance. Et pas sur du suivi administratif.
+
+Mais par contre sur les indicateurs qui vont toucher l'ingénierie de formation là on a une couverture qui est complète et garantie. Et là on voit. Voilà indicateur par indicateur.
+
+Donc c'est pas limité quatre chats gpt ça c'est vraiment incroyable. Et là du coup on a un bilan? Et? On peut lui dire voilà quand est-ce qu'on est prêt. Qu'est-ce qui va rester à faire? Et puis peut nous dire également quelles sont les erreurs? Majeur. Ou mineurs qui ont été commis?
+
+Je sais pas combien de temps on a mis. Exactement! En ce moment-là. Donc là imagine on a repris. Du cas vraiment réel d'accord mais on aurait pu démarrer from scratch et quasiment avoir direct. Comment je dirais aucune influence mais vraiment une réponse à des besoins précis et quand on voit tout ce qu'on a donné comme info au départ.
+
+Sur la question de quel est le niveau de personnalisation ou d'adaptation de kalia? Par rapport à l'utilisateur? Le risque qu'on est deux ingénierie de formation qui sortent pareil? C'est sachant que un mot peut dévier totalement la trajectoire quand on voit le nombre de paramètres qu'on peut intégrer enfin remplir.
+
+C'est vraiment impossible d'avoir deux ingénierie. Pareil pour 200 parce que ils auront leur sensibilité sur sensibilité, leur format de présentation et documents. Qui sera complètement différente quoi? Est-ce que vous avez des questions?
+
+Voilà moi après je connais je connais très bien et Donc?
+
+Je trouve que Il y aura forcément des centres hyper intéressés, c'est évident maintenant c'est de savoir comment. Une approche!
+
+On a eu des cas comme ça mais c'est plutôt rare parce que il y a une démo de 30 minutes. Ça engage rien ni personne surtout que c'est une démo qui est quand même offerte sur un cas réel sur mesure. Donc ça apporte quand même énormément de valeur pour le centre qui est en cours de travail ou qui n'a pas encore fait le travail, ça lui dépanne avec un cas concret et réel.
+
+Et puis au niveau de la vente. Franchement quand on voit ce que peut faire kalia on voit que les trois jours promis. Après à moins d'utilisation, ils sont largement. Enfin, on les dépasse largement. Donc c'est une promesse qui est tout à fait honorable. Et l'autre point c'est que en termes d'économie d'argent si on cumule par rapport au coût d'un formateur ou d'un ingénieur de formation ou un consultant qui fait de l'audit de qualiopie.
+
+Euh on dépasse facilement les 3000 euros par mois gagné. Donc c'est à dire que si on prend un abonnement à l'année c'est 30000 euros de gains pour 3000 euros de coûts aux grosso modo. Au delà du temps gagné. Donc face à ces chiffres et les contraintes où aujourd'hui quand on a un client qui dit voilà, vous êtes à cinq autour de la table.
+
+Moi dans une heure. Je veux ma proposition avec cet élément rajouté dans votre ingénierie de formation. C'est mort dans le game enfin ceux qui vont pas utiliser. L'IA le temps de recorriger toute l'ingénierie à la main parce que si on modifie un bloc on en supprime un et qu'on inverse l'ordre.
+
+Le travail de réflexion juge ou laisse imaginer? L'âme et la réactivité en une heure. Elle est impossible et aujourd'hui s'il faut se positionner pour être le plus réactif. Prendre en considération l'adaptation par rapport aux demandes du client. C'est je dirais plus il y a de contraintes et plus c'est la voie d'excellence quelque part.
+
+Se conforme. Beaucoup de choses, c'est un gain de temps énorme pour des œufs. C'est clair. Pour des oeufs qui s'intéressent vraiment et qui veulent de la qualité. Donc? L'idée aussi c'est pas créer des EF qui disent. Je vais me baser là dessus et point barre et j'apporte rien de plus non?
+
+C'est pour ça qu'on veut vraiment aussi rencontrer chaque oef un par un parce que si on sent que il y a pas non plus de compréhension. Enfin si si on a quelqu'un qui est là pour faire. Euh ça on va le voir tout de suite de par rapport aux réactions aux remarques et.
+
+On n'est pas là pour faire de la promotion du non travail en fait donc ça c'est un point important. Par contre dans ce qu'on avait évoqué hier. On voit que un projet comme ça a présenté au ministère du Travail. Ça fait sens parce que ça pourrait devenir. Un outil officiel qui pourrait faire que l'audit et il a déjà été pensé comme ça donc ça ferait gagner énormément de temps.
+
+Aux auditeurs et par rapport au certificateur. On avait évoqué hier la notion d'a7. Alors tu avais suggéré de faire des assets de personnaliser pour que l'oief et pas à dire. Je m'appelle l'of Martin de Martin ville. Ça c'est une personnalisation. C'est une excellente idée ou le game et son assiette.
+
+Au début, il gagne un temps fou. Par contre pour les certificateurs. L'idée c'est de dire que voilà. La méthode de certification elle est spécifique et l'idée c'est que moi je peux créer gratuitement pour le certificateur. La 7 où on lui met la disquette au départ et tout le protocole de vérification va être fait selon les modalités du certificateur.
+
+Travail là c'est chouette et ça ça fait gagner énormément de temps à tout le monde. Ça fait monter l'autorité du produit et surtout quelque part si kalia et l'outil utilisé par les certificateurs et l'outil utilisé par les auditeurs. Qu'est-ce qu'on peut rajouter comme marque de confiance pour l'utilisateur qui est le F quasiment aucune ouais?
+
+À utiliser kadia Et là du coup à tous les niveaux de l'échelle, on peut faire un système comme compo hyper résilient avec des connexions avec partout et du coup rendre l'écosystème hyper friendly avec la possibilité pour les utilisateurs de créer leur propre à cette, par exemple dans l'alimentation. Enfin, l'hygiène et sécurité alimentaire, il y a une nouvelle norme qui dit qu'on doit pour chaque recette donner le grammage de chaque aliment les effets allergènes.
+
+Plus toutes les analyses protides lipides glucides Calories. Même si c'est pour un couvert et que il y a que une cuillère de l'ingrédient ou une pincée, il faut donner toutes ces informations là. Et ben l'État a mis en place. Une matrice de conversion pour chaque aliment. D'accord. Et la 7 qui a été développée sur mesure c'était que quand on parle de génération de recettes?
+
+Comment on formalise? L'affichage? Euh la recherche du prix des courses. Euh le poids, le volume et toutes les informations pour que d'un tableau matriciel on est quelque chose qui soit conforme aux attentes du métier. Enfin pour vous dire jusqu'à c'est infini en fait les assets. Et donc plus il y aura des sets plus il y aura des devis et de enfin d'attachement à l'univers et possibilité de d'acheter ou de revendre ou de données les assets avec évidemment qu'on appelle ça.
+
+Où on cite? Le créateur soit l'oef, soit le certificateur, l'auditeur etc ou même un membre de la communauté. Qu'est-ce qui empêcherait aujourd'hui? Client de prendre l'abonnement. D'utiliser le truc de passer toutes ces formations en revue. C'est un choix. C'est un choix de non conformité parce que comme on l'a vu il y a en fait.
+
+C'est qu'une partie hébergente de l'iceberg. Là on a fait un gros gros travail mais quand on imagine que après tous les exercices tous les évaluations, tous les cours, les slides, etc. Peuvent être générés en temps réel. En amont ou pendant le cours? Ça veut dire que on se prive d'un service continu qui met une personne?
+
+Il faut pas oublier quand même que Allez 99% des clients vous auront face de vous sont des centres de formations qui ont déjà tout ça. Ils ont déjà tous les éléments donc ils vont juste les repasser dans la minette. À travers l'abonnement sur un mois d'abonnement 300 balles on est d'accord?
+
+Au bout d'un moment il arrête l'abonnement. C'est fini là au top la question c'est La mise à jour et la pédagogie différenciée c'est à dire quel a été l'adaptation qui a été fait pour chaque session et donc. Il est pas captif. Encore une fois il est pas captif si il fait le choix de faire l'impasse sur la différenciation.
+
+Il fait ça pendant un mois. Il se dit tous les ans. Je reviendrai pour un mois. Je prends 300 balles comme certains font 4gbt. Ils en ont besoin pendant un mois. Ils prennent l'abonnement il le coupe. Après il reprenne sache de péter six mois plus tard et ils utilisent au moment opportun l'outil pourquoi payer un abonnement?
+
+Ils vont pas l'utiliser forcément de manière continue ça que je veux dire. En fait, oui j'ai compris. Mais ce que je veux dire c'est que quand on a un outil qui nous fait gagner 3 jours par mois et 3000 euros par mois garantie tous les mois. Ça veut dire que c'est genre?
+
+Je me suis rentabilisé 2700 euros. Le premier mois de formation se remettent en question tous les mois. Aucun centre de formation fait. Le lancement de nouvelles formations, il ne lance pas forcément énormément de formation et ils viennent pas enrichir leurs catalogue tous les ans. Oui oui mais ce que je veux dire c'est que enfin raisonner comme ça c'est dire que en gros j'ai fait mon action de formation et je suis tranquille toute l'année.
+
+Allez vous renseigner? Il y a quand même ce que je veux dire il y a pas zéro travail?
+
+Là après le reste je viens pour les mises à jour. Ça ne donne pas aussi aussi gros travail. Il y a des mises à jour à faire. Qui peut être sur des blocs? Mais ce que j'ai c'est que ça dépasse un générique formation, c'est-à-dire qu'il y a tous les documents, slide, exercice, etc.
+
+On part du post-bac c'est quelqu'un qui crée une boîte de formation. Je suis ok. Il prend l'abonnement parce qu'il va se lancer créer au fur et à mesure. Il va partir fromage ok. Mais quelqu'un qui est déjà lancé il a pas le produit aujourd'hui il fonctionne. Il remet pas en cause cette formation.
+
+Tous les tous les mois là il aura un outil il va dire bon, on va l'utiliser l'outil il va mettre quelqu'un pendant un mois dessus. Il va passer de toi la moulin. Photographie et vous avez qualiopie 10 qui va sortir et qui va mettre fin à toutes ces. Ah mais c'est non mais clairement ça va sortir l'année prochaine déjà.
+
+Et comment? Caliopie 10. Obligation pour chaque session de formation de prouver que la formation est d'un niveau supérieur à ce qui se fait dans la concurrence. Donc ça veut dire analyse de la concurrence mais régulièrement. Ça prend un temps fou de devoir analyser. C'est comme si on devait refaire l'ingénierie de formation.
+
+Pour le concurrent pour faire une comparaison objective ensuite. Comment on a la fameuse histoire de la note bleue? C'est à dire que là aujourd'hui il y a pas il y a pas de on dit si on a des erreurs majeures ou mineurs. D'accord. Demain c'est notre rouge erreur majeure.
+
+Note orange il y a des erreurs mineurs. La verte on a les 32 indicateurs et plus 22 donc c'est plus à la carte donc là ouais ça monte de 10. Mais pour vous donner une idée le premier formateur classé au niveau France et troisième au niveau européen académicien. Donc il a le meilleur taux de respect de des indicateurs.
+
+Ils montent à 28 sur 32. Donc ce que je veux dire par là c'est que? Les indicateurs qu'on laisse volontairement de côté. Ça marche cette année. Par contre l'année prochaine quand il va falloir respecter la totalité des indicateurs. Ça va être une contrainte c'est ça?
+
+Ok donc il y a ça et puis il y aura la note bleue où c'est à tous les EF qui ont les 32 indicateurs et qui font plus. Que les 32 indicateurs. Et dernier point il faut aussi apporter la preuve que tout le contenu du cours et qualitativement supérieur aux attentes du marché pour garantir et ça c'est plus complexe une insertion professionnelle dans les 90 jours sinon pas de financement.
+
+Et là enfin on est bien d'accord que avec enfin déjà 22 critères à respecter. C'est du sport enfin! Tu es dans la partie? Euh, c'est déjà sportif. Suite à un process en place enfin c'est pas impossible. C'est juste d'avoir une organisation effectivement qui demande une organisation et qui demande du temps et la question centrale c'est?
+
+Kalia fait gagner du temps! Mais comme il y a Alexandre. On va utiliser certains. Enfin il y a d'autres outils qui existent. OK. Qui existe? Et soit à l'ancienne je fais référentiel. Il y a d'autres outils qui existent pour qualiopi en général. C'est pas que un programme de formation c'est tout le process.
+
+De l'organisme de formation tout à fait. Faire attention. Des affichages je sais bien. Tout dérouler. De la logique aussi dans dans l'ensemble de formation. Et c'est vrai que là c'est un élément qui arrive. En plus parce qu'il y a d'autres éléments. Ce qui est très très bien mais ce que j'ai peur parce que l'organisation ne veut pas avoir comme ça 10 logiciels qui veulent emmener vers Cayeux parce que ça serait démentiel mais.
+
+C'est ce que je veux dire c'est que là enfin si on fait une comparaison objective de. Un LMS, un TMS et kalia. On parle de choses qui n'ont absolument rien à voir. C'est pas comme si on rajoutait un énième logiciel. C'est de se dire. Pourquoi je utiliserai ça tous les mois ou tous les jours?
+
+C'est un abonnement. C'est de l'utiliser. Mais ce que je veux dire c'est que moi je mets au défi de me trouver un centre qui une fois qu'il a fait son ingénierie de formation. Ne bosse plus toute l'année et ne fait que de dispenser de la formation. De la femme tous les ans mais pas tous les jours, je comprends.
+
+Je comprends. Bref, c'est là le business qui me porte. Par business model? C'est pour que ça soit bancable pour que ça soit ça. Ramène du économiquement viable la problématique. Je vais te donner moi mon business model à moi en fait. Moi dans la logistique si tu as un abonnement chez moi.
+
+Qui te permet d'avoir un meilleur prix. Sur l'utilisation de ma plateforme. Si t'es pas abonné tu payes le prix grand public. Si tu es abonné tu payes le prix à côté. Macron le prix abonné. Oui je comprends cercueil il faudrait faire une offre plus intéressante sur le plan tarifaire pour l'année.
+
+Ou au lieu de faire? Enfin et différencier le prix en mensuel et à l'année? Oui oui bien sûr. Tu comprends c'est 3600 €, ou voilà. En fait le but! C'est de dire le client il est rentré dedans et comment le garde dedans?
+
+Le fait. Qui doivent? Commander tout le temps! Ou une fois par an ou trois fois par an ou quatre fois par an. Il prend l'abonnement. C'est déjà plus intéressant pour lui de prendre un abonnement de commander une fois que de prendre un âme et de ne pas prendre l'abonnement.
+
+Voilà il a déjà un avantage oui. En tout cas ça on l'a pas spécifié mais on offre la possibilité aux gens de s'engager à l'année. Où il paye en une fois et puis c'est fini. Comme ils peuvent payer en mensuel après là où je suis d'accord, c'est la variation du prix.
+
+On peut imaginer du 250 euros par mois dans le cas d'un abonnement annuel et du 300 euros par mois dans le cas d'un abonnement mensuel ou forcément l'ancienneté. Et dernier point? Euh c'est que pour avoir fait une étude avec plus de 100 personnes dans le milieu spécifique de la formation plus ce côté académicien etc.
+
+Donc on s'adresse vraiment à des gens pointus et qui sont dans ce cette notion de dépassement permanent. Pour eux un outil comme ça ils sont prêts à mettre 500 euros par mois sur la table par utilisateur. Alors donc je vais te donner. Euh une réflexion et à méditer dessus.
+
+Est-ce qu'il est possible dans le cadre d'un abonnement mensuel de limiter l'utilisation? Non. Il faudrait y réfléchir. Pourquoi?
+
+Nous on a plein de il y a plein d'options derrière qui s'ajoutent. Tant que le client n'a pas que n'est pas rentré dans notre écosystème. Mais derrière il y a les assets il y a plusieurs possibilités. D'options en fait oui comme il y aura d'autres formations qui seront complémentaires à callia pour augmenter mes significativement les rentrer d'argent des œuf.
+
+Donc là? Pas dans. On n'est pas sur l'utilisation directe de calia mais Ça fait partie de ça aussi kalias. C'est un écosystème beaucoup plus gros que ce qui est présenté là pourquoi? Parce que? Tous les œufs qui sont sur kalia d'accord feront partie d'un annuaire. Des utilisateurs de calia et donc ils seront référencés derrière notamment sur emploi 360 qui on le sait vu ses caractéristiques et sa gratuité va forcément générer beaucoup de visibilité et donc du coup.
+
+Être client chez kalia c'est pas juste avoir un logiciel qu'on a. C'est faire partie d'un cercle avec une communauté des cours tous les mois. Des formations nouvelles pour enrichir l'environnement et puis une visibilité sur un annuaire. En tout cas qui sera national. Alors pourquoi je demande pourquoi je dis qu'il faudrait limiter le nombre d'interactions?
+
+Soit par. Euh moi j'appelle ça token mais il y a peut-être un mot plus scientifique ou plus exact. L'idée c'est de dire écoute. Celui qui est toujours dans le cadre de l'abonnement celui qui prend un abonnement en fait annuel il va avoir. Toute la puissance de kalia. Celui qui prend un abonnement mensuel il va être limité donc il va utiliser pendant un certain nombre.
+
+Il devra utiliser quasiment toute l'année pour pouvoir bénéficier en fait de toute la puissance. Alors ce qu'on peut faire. Je peux pas limiter le le taux d'utilisation, le nombre d'usage d'accord. Par contre ce que je peux faire c'est que je peux faire une version en mensuel ou? Euh kalia va faire les 8 documents qu'on a vu mais il ne génèrera pas.
+
+Tous les assets, c'est-à-dire les cours, les exercices, les évaluations sur etc et ça garder ça pour ceux qui s'engagent à l'année par exemple, je peux pas limiter le nombre de demandes mais je peux limiter enfin si on a plus du tout les exercices etc pour 50 balles en plus c'est un engagement à l'année.
+
+Enfin, ça fait quand même réfléchir les choses autrement et de toute façon ceux qui auront besoin de ces fonctionnalités là seront ceux qui ont une utilisation annuelle.
+
+Les gens qui sont prêts à s'engager sont prêts à s'engager pour tout le temps parce que quand vous disais dans votre métier, on cherche l'excellence il y a tout, c'est tout le temps des nouvelles sessions. L'avantage de kalga c'est qu'on peut aussi adapter le cours à l'élève, ce que vous personne ne peut le faire actuellement une formation.
+
+J'entends très bien ce que vous dites et vous avez partiellement raison. Moi je suis chef d'entreprise. Startup je regarde des coups que j'ai. D'accord donc quand je paye un abonnement à 500 euros on va dire? Exemple 500 euros moi pas par exemple je suis achat gpt j'ai l'abonnement à 229 €.
+
+Il est rentabilisé. Archi rentabilisé etc. Je me pose pas la question et je l'utilise tous les jours. Plusieurs heures par jour exact. Voilà! Dans le cas de calia. Limitation. Si on ne met pas de limitation ce que je vais faire. C'est pour 300 euros. Moi je peux vous dire qu'en tant que chef d'entreprise je vais pas dormir pendant deux jours s'il faut je vais l'utiliser.
+
+Oui tout à fait mais au bout d'un mois. Je veux dire écoute j'ai toutes mes formations et dans un an je reviens. Ce qui est alors ce que nous on a aucun problème avec ça ça nous va très bien. On n'est pas là pour forcer les gens à l'utilisation.
+
+Ce que je veux dire c'est que nous dans le terrain dans l'analyse qu'on a fait, il y a ceux enfin, ce que je veux dire c'est que voilà, il y a l'excellence, mais c'est voilà, je l'ai utilisé trois jours enfin ou même pas. Je l'ai utilisé deux heures, deux heures c'est quand?
+
+En gros ce que je vais t'expliquer par là c'est que oui tu peux travailler sur kalia pendant un mois en continu et faire ton ton taf pour l'année d'accord mais on le sait si on veut vraiment être puriste il y aura, on peut pas faire tout le taf de l'année parce que tu sais pas quelle session tu vas avoir.
+
+Quelle entreprise tu vas avoir quel client tu vas avoir et tu auras forcément des adaptations à faire dessus et maintenant ce que je veux dire par là c'est que. Tu as utilisé seulement une demi-heure l'outil que une demi-heure c'est pas comme si pour que ce soit rentable il fallait l'utiliser.
+
+Toute la journée enfin tu vois ce sujet juste en utilisant une demi-heure. Tu as récupéré trois jours sur ton emploi du temps et tu as économisé 3000 balles dans ton entreprise ce qui veut dire que si tu l'utilises. Deux heures ou une heure ta rentabilité elle a été. Elle a été multipliée par deux ou par 3 par rapport à ce qui est prévu initialement et des gens qui gagnent du temps qui gagnent de l'argent.
+
+Ils ont fait autant d'économie d'argent et de temps sur un mois d'utilisation. Pourquoi pour un investissement qui est 10 fois plus bas que ce que ce qu'ils vont gagner, ils vont arrêter. Ils vont couper les robinets de la rentabilité en cours. J'ai une question donc là j'entends que le produit?
+
+Et destinée aux puristes. À ceux qui cherchent l'excellence nécessaire représente quel pourcentage des offres? 10% c'est large ça veut dire que ça nous? À la Réunion? Moi alors non j'ai les chiffres nationaux nous dans les EF à la Réunion il y en a que 109 qui nous intéressent déjà d'office parce qu'ils sont un à trois utilisateurs formateurs dans de 3 à 10 formateurs.
+
+Excusez-moi désolé donc trois à 10 formateurs parce que au-delà de 10 ils sont structurés pour avoir quelqu'un qui fait que de l'ingénierie de formation et du coup on est sur. Nous ce qu'on cherche c'est des œufs qui sont fourrés au moulins qui ont pas les moyens de se dire.
+
+Je paye un expert comptable à temps plein. Je paye un ingénieur de formation à temps plein c'est vous. On est trois ou quatre dans l'of va falloir chercher les élèves, il va falloir animer les cours va falloir préparer les ingénieurs de formation et on peut pas se déléguer ou se reposer sur un responsable commercial.
+
+Un responsable d'ingénierie de formation donc déjà pour le. La dimension des EF et donc on est sur 109wave qui correspondent à ces critères sur 2000 à la Réunion. Sur ces 109 facile 10%. Donc ça fait 10-6 mais mais sur le marché national d'accord on est à 5900 qui correspond exactement à cette cible et 10% ça fait 500 euros enfin 500 utilisateurs.
+
+Donc déjà là on est je dirais bien placé sachant que. Euh cette analyse fait abstraction du fait que dans le rncp maintenant on a tous les profs du de l'école maternelle jusqu'à la fac. Donc ce que je veux dire c'est que ça c'est une analyse qui est centrée que sur qualiopi alors que kalia peut traiter n'importe quel niveau.
+
+Euh degré normes label dispositif certification à l'international. Donc en gros. Ce qui nous a demandé une formation, c'est la nouveauté de par la nouvelle. Que tu dois faire ton programme, ton stock de programmes pour une année et tu utilises kalia c'est ça voilà c'est ça et quand on était à la soirée du club export ça c'est confirmé parce que j'ai une dame qui s'appelle Elia qui est formatrice à la fac et qui m'a dit ben.
+
+Pour nous c'est traumatisant parce que on faisait notre cours, on venait avec notre manuel de notre matière et puis c'était fini aujourd'hui. Au delà du manuel, ils doivent générer la totalité des documents là alors quand on a été formé pour ça quand on a été préparé pour ça que c'est comme ça la formation continue pour adulte et que il y a aucune.
+
+Il n'y a pas de manuel pour la formation pour adultes il y a pas le. Euh Pythagore ou le Thalès ou je sais pas quel achète enfin voilà Donc on est vraiment livré à soi-même. On est obligé d'aller chercher le référentiel et à partir de là créer son ingénierie de formation.
+
+Maintenant que tous les profs collège lycée alors je pense que maternelle ils vont s'en passer mais collège lycée. Université. Là le marché enfin ce que je veux dire c'est qu'on l'a on l'a même pas très traité. On l'a pas démarché mais le marché il est déjà plus plus que conséquent avec en plus le fait que au préalable on aura déjà fait nos preuves avec l'univers de la formation pour adultes.
+
+Enfin les formations pro ou comme on l'a vu. Le produit c'est un sans faute. Et du premier coup? Parce que il y a une autre question qu'on nous pose souvent c'est quoi la différence avec chat gpt non recherche des rncp? Euh des sources qui sont plus que doutables et enfin pas du tout crédible c'est de l'empoisonnement de de son travail.
+
+Et puis cette absence de cohérence, c'est-à-dire que il connaît pas nativement les guides de lecture qualiopi. Donc ça veut dire quoi cette critère 32 indicateurs. Vous allez passer votre temps à dire? Ah oui! Mais là, par rapport à cet indicateur et vous souffrance, vous devez retenir les 32. Critères cet indicateur de tête enfin.
+
+Mais donc du coup ce que je veux dire c'est que le marché là dans nos stratégies de prospection pour les prochains mois on s'est fixé les ef3 10 personnes kaliopie seulement en sachant très bien que on a des pans entiers et entiers de viviers de formateurs enfin qui qui n'attendent plus qu'à être des marchés.
+
+Parce que maintenant ils sont assujettis assez contraintes et en plus de ça ils sont pas préparés.
+
+Vous êtes en train? Peut-être de me réconcilier avec aliopie énormément. Ouais donc l'ouverture du marché elle est quand même très très large. Voilà et puis comment? Faut faut se dire les choses c'est ultra addictif Quand on a on imagine que la solution n'existe pas parce que c'est la réaction que j'ai la plupart des œufs même Jimmy.
+
+Enfin quand je t'en avais parlé la première fois tu m'as dit ouais ouais mais quand même un peu sceptique quand même parce que enfin et c'est une réaction qui est normale, on la constate dans 80% des cas, c'est à dire qu'il y a des gens, ils me disent. Allez pour le plan de formation, je veux bien passer mais tu passes sur le déroulé et tout ils me disent non.
+
+C'est pas possible donc les gens sont totalement déconnectés de ce qui peut être fait quand il découvre ça qu'ils utilisent ça qui voit qu'il y a zéro formation à avoir que si ils sont perdus sont redirigés accompagnés le SAV se fait automatiquement. C'est quand on a goûté au lave-vaisselle ou un hôtel 6 étoiles avec le ménage, l'entretien etc.
+
+Quand tu dis là, j'ai juste ça à modifier tard le soir. Enfin, sachant qu'on a des journées qui sont vous n'êtes pas sur des journées des semaines de 4 heures. Enfin on est d'accord, moi c'est pareil. Se dire que là je vais pouvoir sortir trois jours. Ça veut dire trois trois weekends en famille si on peut voir les choses différemment et un moment.
+
+C'est vrai qu'il y a l'argent mais si. Il faut travailler 10 fois plus pour économiser 300 euros si enfin parce qu'en os en général. Enfin on va pas dire que je vais pas dire que tout le monde gagne bien mais on est quand même sur sur des oeuvres qui font entre 80000 et 500000 euros de chiffre d'affaires quand on est sur trois à 10 personnes donc donc c'est c'est pas.
+
+C'est pas des coûts qui sont délirants et nous on préfère dire prenez juste une licence au départ faites le test. Même si on sait que ça posait problème parce que il y a pas l'historique il y a pas la confidentialité on est obligé d'effacer ce qu'on a fait et donc recommencer à chaque fois.
+
+Enfin ça on atteint très vite les limites et en plus c'est pas autorisé par rapport au rgpd de se dire. Voilà on travaille, j'ai accès aux données de l'autre etc. Mais l'idée c'est de leur donner l'accès le plus facile de se dire que vous n'êtes pas pris et mains liés parce que on sait que le temps qu'on passe à faire comprendre aux gens l'intérêt ce qu'on gagne et pas juste l'exécution à un instant.
+
+T. Si cette éducation qui fait que l'on boarding, il est de meilleure qualité que kalia il est mieux utilisé derrière parce que les gens se disent pas tiens ça peut être un outil qui va me permettre. Une fois que j'ai fait ma formation de passer la certification c'est encore plus fou.
+
+Et si vous voulez déposer des ingéneries de formation pour toucher des royalties derrière pour les fiches métiers c'est soit des fiches qui sont faites par l'État donc disponibles soit c'est des fiches qui sont. Comment priver donc vous toucherez des royalties dessus toute votre vie si ça n'existait pas avant?
+
+Donc quand on voit après ce sur quoi on peut aller ce que je calia peut générer on a quasiment on fait rentrer une nouvelle source de revenus clairement que peu de centres. Aurait osé attaquer sans un outil comme ça, surtout pour des. Des métiers qui n'existent pas? Il faut qu'on clôture en tous les cas c'est clair là déjà.
+
+J'espère que pour le ça vous rassure sur le business plan. Non j'en ai pas amené. Je te donne mon numéro. Je suis désolé, j'ai une visio là qui démarre à midi nous aussi. La stratégie commerciale si je peux je j'ai du mal à l'avoir encore la stratégie commerciale, c'est-à-dire que aller attaquer un marché avec un abonnement.
+
+Et d'autres trucs un peu, mais bon aux alentours notre avis déjà. Ça lui donne aussi un peu à réfléchir. Enfin c'est le but hein, non? Non non. Au contraire, au contraire, même les idées qu'on avait vu la dernière fois, c'était top. C'est le contraire, je pense que ça c'est pour vous et puis vous voyez qu'est-ce que vous pouvez en faire là l'étape suivante?
+
+Nous on devait se voir pour le crédit d'impôt innovation mais je me pose la question. Euh avant de clôturer d'aller dans ma visio, c'est est-ce qu'aujourd'hui il y a une innovation pure? C'était la première question il y a investigué sur le sujet c'est pas c'est pas aussi simple que ça.
+
+Et l'autre question qui vient derrière mais qui pourrait répondre aussi à la première c'est est-ce que demain quelqu'un peut faire la même chose? Techniquement alors? Techniquement rien n'est impossible techniquement quelqu'un qui s'y met il peut le faire. Après j'aimais quand même des doutes parce que il y a quand même des obstacles pour réaliser ça comme déjà le fait que.
+
+Euh lien ne donne pas de prends jamais de décision et là on est sur une succession de décision. Sur les gipities il y a pas de recherche internet donc déjà débloquer la recherche internet. Ça a été trois mois d'investigation donc juste pour donner des idées le commercialiser.
+
+C'est-à-dire? Le sécuriser. Parce que pour le coup parce que nous notre produit, il est protégé par par opening. Et se faire que commercialiser il faudrait quand même que la personne. Elle est une appétence extrêmement forte au niveau de la formation. Mais vraiment une connaissance poussée et puis utiliser par le sujet est expert dans le domaine estimé.
+
+On peut arriver à quelque chose de similaire et et toucher attirer l'attention de panaïque est un prérequis pour pouvoir monétiser donc ce que je veux dire c'est que enfin. Pour être contacté par openaïde faut vraiment sortir du haut niveau je pense. Ça serait une barrière d'entrée qu'il faut passer déjà et puis dans tout il y aura donc moi je dis pas c'est pas impossible mais le niveau d'entrée il est quand même.
+
+Moi je connais beaucoup de personnes qui sont experts en Ia. Combien se sont fait contacter par openaï pour se voir proposer des solutions vraiment? Innovantes c'est pas mon innovation à moi mais c'est ce qui permet de rendre la plateforme sécurisée et commercialiser et de limiter les accès. C'est ce qui rend le business model viable.
+
+Aujourd'hui on était parti sur le financement. En tout cas j'espère que ça répond un peu mieux aux questions mais en tout cas ça a répondu à d'autres donc ça ça a généré des questions nouvelles. On clôture là monsieur ça vous va et puis bon nous on en reparle, je dois vraiment enchaîner et remuage très bien.
+
+Et puis après information par rapport aux subventions, le fait que j'ai très peu de dépenses dans ma boîte et que tu disais que c'était conditionné, tu sais sur les dépenses déjà effectuées? Parce que là je dois être comme je disais la maximum 5000 euros de frais de financement, ça fait des montants de dépenses internes par mois.
+
+Ça fait des montants qui sont. Pas si gros que ça quand on regarde. Ouais ouais parce que je me suis pas enfin je me suis pas entre guillemets payés donc du coup tu n'es pas valorisé mon mobilisation. Voilà par anticipation. Le but c'est de valoriser des dépenses qu'on aurait dû faire faire.
+
+Donc je te rappelle au nuage. En tout cas merci pour votre écoute. Alors si tu travailles avec des formateurs indépendants, effectivement il faut toujours leur faire une présentation comme ça c'est eux qui prennent.
+
+Voilà et ensuite la. Merci beaucoup pour leur présence. Bonne journée au revoir. Bonne journée à bientôt merci Et j'ai pas fait et en fait madame récré. On va manger d'abord.
