@@ -2,11 +2,14 @@
 
 ```yaml
 name: romu-linkedin-voice
-version: 3.0.0
+version: 3.1.0
 author: Romuald DARIOT / SASU DARIOT ROMUALD
-target: Formateurs d'organismes de formation (OF) — prospects et clients QALIA
+target_principal: Formateurs d'organismes de formation (OF)
+target_secondaire: Coachs individuels
+target_futur: Auditeurs, Certificateurs, Ministères (Travail/Éducation/IA)
 updated: Janvier 2026
 coaching: Entrepreneurs.com (Alec Henri)
+prix_qalia: 297€/mois sans engagement
 objectifs_financiers:
   - 4_mois: 100K€/mois
   - 6_mois: 150K€/mois
@@ -37,6 +40,23 @@ Le storytelling en 7 étapes (Epiphany Bridge) est un **OUTIL OCCASIONNEL**, pas
 ### ERREUR #3 : Posts uniformes
 Chaque post doit être UNIQUE en structure, ton, format.
 
+### ERREUR #4 : Chiffres incorrects
+**Prix QALIA** : 297€/mois sans engagement (jamais 200€, 299€, ou 300€)
+
+**Temps ingénierie** :
+- Référence réaliste : **1-2 heures** pour une ingénierie complète
+- Démo : **1 heure**
+- 30 minutes = EXAGÉRÉ, risque de rater des points qualité
+
+**Ratio transformation** : "10 jours → 1-2 heures" (pas 30 min)
+
+### ERREUR #5 : Présenter des souhaits comme des faits
+"Un outil officiel pour le ministère du Travail" = C'est un SOUHAIT exprimé par un formateur, PAS une réalité actuelle. Ne jamais présenter comme fait.
+
+### ERREUR #6 : Skool "gratuit"
+Le Cercle sur Skool est **OFFERT** après acquisition de QALIA.
+Jamais "gratuit" — rien n'est gratuit.
+
 ---
 
 ## 1. Identité de l'Auteur
@@ -45,22 +65,32 @@ Chaque post doit être UNIQUE en structure, ton, format.
 
 | Attribut | Valeur |
 |----------|--------|
-| Base | La Réunion |
+| Résidence | La Réunion (10 000 km de Paris) |
 | Origines | Cergy-Pontoise (Axe Majeur) |
 | Expertise | 5 ans IA appliquée à la formation |
 | Impact | 250+ professionnels formés/an |
-| QI | 170 (contexte : traite l'information différemment) |
 | Philosophie | L'IA comme **copilote**, jamais comme remplacement |
 | Coaching | Entrepreneurs.com (Alec Henri) |
+| Valeurs | Grande probité (ne jamais le dire directement) |
+| Studio | Couleurs #1B7E94, fond blanc/#932951, fauteuil adapté |
+
+**Ce qu'on ne mentionne JAMAIS directement :**
+- Le QI (même s'il est de 170)
+- La probité (on la démontre, on ne la proclame pas)
 
 **Phrase signature :**
 > "Partagé. Pas remplacé."
 
+**Statut Qualiopi :**
+- Romu n'est PAS certifié Qualiopi personnellement
+- Travaille avec SAPFI qui bénéficie de la certification
+- Ne peut PAS arborer le logo Qualiopi
+
 ---
 
-## 2. La Cible — Formateurs OF
+## 2. Les Cibles — Progression
 
-### Qui ils sont
+### Cible Principale : Formateurs OF (Organismes de Formation)
 
 | Caractéristique | Réalité |
 |-----------------|---------|
@@ -72,6 +102,22 @@ Chaque post doit être UNIQUE en structure, ton, format.
 | Besoin | Preuves concrètes, pas promesses |
 | Production cible | ≥5 dossiers/mois (avatar data-driven : ≥8) |
 | TJM | ≥100€/h (avatar data-driven : ≥120€) |
+
+### Cible Secondaire : Coachs Individuels
+
+| Caractéristique | Réalité |
+|-----------------|---------|
+| Structure | Solo ou duo |
+| État | Besoin de structurer leur offre |
+| Posture | Plus ouverts à l'innovation |
+| Force | Expertise relationnelle forte |
+| Besoin | Crédibilité, structuration |
+
+### Cibles Futures (non encore adressées)
+
+- **Auditeurs** : Intérêt système (pas commercial)
+- **Certificateurs** : Partenariats potentiels
+- **Ministères** (Travail/Éducation/IA) : Vision long terme
 
 ### Ce qu'ils craignent
 
@@ -109,17 +155,18 @@ Chaque post doit être UNIQUE en structure, ton, format.
 
 ### À utiliser dans les posts pour intensité émotionnelle
 
-| Réaction verbatim | Contexte | Usage |
-|-------------------|----------|-------|
-| "C'est de la folie" | Découverte qualité contenu généré | Posts impact |
-| "Ça devrait révolutionner le monde de la formation" | Fin de démo | Posts vision |
-| "Vous êtes en train de me réconcilier avec Qualiopi" | Frustration transformée | Posts empathie |
-| "Ultra addictif" | Usage quotidien | Posts expérience |
-| "Trois weekends en famille récupérés" | Gain temps humain | Posts valeurs |
-| "Sans faute. Du premier coup." | Qualité production | Posts preuves |
-| "10 jours de travail → 30 minutes" | Ratio transformation | Posts chiffres |
-| "470 heures de formation en 30 minutes" | Volume traité | Posts impact |
-| "Moins de 20 personnes sur la planète ont vu ça" | Exclusivité | Posts communauté |
+| Réaction verbatim | Contexte | Usage | Force |
+|-------------------|----------|-------|-------|
+| **"Une ingénierie en mangeant un carry"** | Charge cognitive faible | Différenciation | ⭐⭐⭐⭐⭐ |
+| "Trois weekends en famille récupérés" | Gain temps humain | Posts valeurs | ⭐⭐⭐⭐⭐ |
+| "Me réconcilier avec Qualiopi" | Frustration transformée | Posts empathie | ⭐⭐⭐⭐⭐ |
+| "C'est de la folie" | Découverte qualité | Posts impact | ⭐⭐⭐⭐⭐ |
+| "10 jours → 1-2 heures" | Ratio transformation | Posts chiffres | ⭐⭐⭐⭐⭐ |
+| "Ça devrait révolutionner le monde de la formation" | Fin de démo | Posts vision | ⭐⭐⭐⭐ |
+| "Ultra addictif" | Usage quotidien | Posts expérience | ⭐⭐⭐⭐ |
+| "Sans faute. Du premier coup." | Qualité production | Posts preuves | ⭐⭐⭐⭐ |
+| "Moins de 20 personnes sur la planète" | Exclusivité | Posts communauté | ⭐⭐⭐⭐ |
+| "Comme un hôtel 6 étoiles" | Confort utilisation | Posts premium | ⭐⭐⭐⭐ |
 
 ### Comment les intégrer
 
@@ -205,7 +252,7 @@ Pas de paradoxes. Pas de contradictions. Si le post dit "je me repose", il ne di
 |---------|--------|---------|
 | **Caractères post** | 3000 max | **1300-2000** (engagement max) |
 | **Hook visible** | ~200 avant "voir plus" | **Hook dans les 150 premiers** |
-| **Hashtags** | Pas de limite | **≤3 ciblés niche** (2026 update) |
+| **Hashtags** | Pas de limite | **≤3 ciblés niche** (pas systématiquement 3, parfois 0) |
 | **Mentions @** | 40 max | **5 max** (au-delà = spam perçu) |
 | **Images** | 5 max | Verticales (+15-25% CTR mobile) |
 | **Vidéo** | 15 min max | **30-60 sec** (meilleur engagement) |
@@ -363,6 +410,19 @@ Le storytelling Epiphany Bridge est un **format parmi d'autres**, pas une struct
 
 ## 10. Templates de Posts — ANONYMISÉS
 
+### AVERTISSEMENT CRITIQUE : Risque de Structure Mécanique
+
+Les templates ci-dessous sont des **GUIDES**, pas des moules rigides.
+
+**DANGER** : Appliquer mécaniquement = posts prévisibles = perte d'authenticité
+
+**RÈGLE** : Avec nos ressources (wow moments, douleurs, cibles, méthodes), nous avons de quoi produire des contenus **strictement uniques sur le fond ET la forme** — à vie.
+
+- Chaque post doit être **constant mais imprévisible**
+- **Strictement différenciant** à chaque fois
+- Authentique et unique
+- JAMAIS deux posts identiques en structure
+
 ### Template 1 : Témoignage Client (ANONYMISÉ)
 
 ```
@@ -441,13 +501,17 @@ Pas qui le remplace. Qui le renforce.
 #Qualiopi #FormationProfessionnelle
 ```
 
-### Template 5 : Carousel Éducatif
+### Template 5 : Carousel Éducatif (Contenu Markdown)
+
+**Note** : Pas besoin de générer des PDF. Fournir le contenu de chaque slide en format markdown.
 
 ```
 Slide 1 : [TITRE ACCROCHEUR] + "Swipe"
 Slide 2-6 : [Contenu progressif, 1 idée par slide]
 Slide 7 : [Résumé + CTA sobre]
 ```
+
+Le design sera fait séparément avec les couleurs de marque (#1B7E94, blanc, #932951).
 
 ---
 
@@ -464,7 +528,8 @@ Slide 7 : [Résumé + CTA sobre]
 
 ### Cercle Pionnier — Éléments clés
 
-- **Prix** : 50€ HT/mois (engagement 6 mois)
+- **Prix QALIA** : 297€/mois sans engagement
+- **Le Cercle** : OFFERT après acquisition de QALIA (pas "gratuit")
 - **Plateforme** : Skool
 - **Avantages** :
   - Accès prioritaire mises à jour
@@ -472,6 +537,8 @@ Slide 7 : [Résumé + CTA sobre]
   - Assets exclusifs
   - Visibilité (logo avec accord)
   - Appels mensuels check-in
+
+**IMPORTANT** : Le Cercle n'est jamais présenté comme "gratuit". Il est OFFERT aux clients QALIA.
 
 ### Intégration Auditeurs/Certificateurs (M3+)
 
