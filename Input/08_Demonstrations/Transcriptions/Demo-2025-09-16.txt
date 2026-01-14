@@ -1,0 +1,982 @@
+﻿Alors bon! Conformément au rgpd, comme vous le savez, on va démarrer l'enregistrement donc on est avec et. Enchanté Romuald Dario donc aujourd'hui je vais répéter légèrement. On est là pour voir kalia kalia. C'est un assistant Ia conversationnel. L'intérêt de ça c'est que vous allez pouvoir à chaque étape de la construction de votre ingénierie parce que Cadillac construit des ingéneries de formation.
+
+
+D'accord vous allez pouvoir à chaque étape avoir une interaction avec lia pour contrôler si ce qu'elle dit est vrai ou pas. Ou pour la régulier vous avez un contrôle? Total sur. En fait toutes les étapes du raisonnement et du déroulement. Pourquoi? Parce que sur cet exercice il y en a qui ont tenté l'automatisation.
+
+
+D'accord. Seulement? L'automatisation assez limite. Ouais d'accord et moi ce que j'ai pu constater c'est que quand on part sur l'automatisation ce que j'ai eu tendance à voir pour le peu qui ont essayé quelque chose qui ressemble c'est un peu comme le jukebox c'est à dire que je fais une requête ils me disent ah ben non mais vous avez pas donné exactement le titre d'accord et et après hop il récupère le CD.
+
+
+Le problème c'est que si vous êtes? 10000 formateurs à utiliser la même la même marmite vous allez avoir la même soupe malheureusement. Et qualiopi dit? Différenciation. Donc une approche différenciée par rapport à l'entreprise. Qui est le commanditaire par rapport au financeurs qui peut-être l'état ou locaux? Qui va apporter ses contraintes?
+
+
+On va parler plutôt de contraintes de retour sur investissement. Le commanditaire lui ce qu'il veut avoir c'est la garantie. Est-ce que j'ai acquis des compétences avant après? D'accord. Et le participant lui-même ou voyez par exemple là vous êtes toutes les deux aujourd'hui d'accord il y a d'autres personnes qui viendront.
+
+
+Vous avez chacun un parcours différent d'accord? Et une sensibilité différente donc du coup il y a des comment on appelle ça? Enfin des personnes qui auront? Plus de compétences sur certains points, vous n'êtes pas en fait vous êtes différents d'où ce qu'on ce que demande qualiopi. C'est une approche.
+
+
+Différencier par candidat. Par participant. Et c'est là que vous vous imaginez un petit peu la la le travail pharaonique que ça demande. J'ai construit kalia pour les gens qui sont entre guillemets amoureux de la méthode. Parce que moi enfin j'ai enseigné à l'IUT. J'ai enseigné à l'afar, j'ai enseigné dans d'autres j'ai enseigné pour des grands groupes orange.
+
+
+Enfin voilà on en passe. Et moi je suis vraiment très attaché à la qualité de la transmission. Et? Au moment est-ce que le voilà et je trouve que qualiopi d'accord si on ne le vit pas comme une contrainte en mode? Oh là là 32 indicateurs 7 critères vous imaginez.
+
+
+Il y a des gens qui vont voir ça comme une contrainte. Moi je vois ça comme justement. Chaque critère chaque indicateur est une opportunité de faire mieux. Choisi par exemple est une opportunité d'atteindre un niveau d'excellence. Donc cet outil je dirais. Euh bon bien sûr. Euh là on a une démonstration on n'a pas euh quatre jours devant nous enfin.
+
+
+Voilà donc on va on va pas faire forcément. Des recherches, retouches etc. L'idée c'est de voir un peu comment fonctionne l'assistant D'accord. J'ai déjà fait des vidéos de démonstration de 7 minutes en 7 minutes. J'ai fait toute l'ingénierie de formation tous les documents. D'accord. C'est pas enfin si. Pour la beauté du résultat de l'exécution, c'est intéressant, je suis complètement opposé à cette démarche.
+
+
+Pour vous pour revenir maintenant sur la maïeutique de Socrate et la technique de questionnement qui est une étape que j'ai rajouté au processus et aux demandes de qualiopie d'accord, qu'est-ce que c'est la technique de questionnement? Imaginez que vous. Vous voulez vous former? Voilà à l'enseignement pour une reconversion. D'accord.
+
+
+Vu que ces nouveaux pour vous. Vous n'avez pas conscience. De vos besoins? Et vous n'êtes pas en capacité de les exprimer. Alors que si par exemple je prends le cas d'adeline qui a déjà passé sa son fpa qui a baigné dedans etc. Ou moi j'ai pas de fph. Je suis pas affilié à quel lepi?
+
+
+D'ailleurs je fais une petite parenthèse. Même si vous n'avez pas la certification qualiopie vous pouvez vous rapprocher d'un centre de formation en disant. Voilà moi j'ai telle compétence. Ingénierie de formation. Et vous vous arrangez avec le centre ou le centre qui lui est titulaire de qualiopi? Fait les démarches qualiopie et vous vous enseignez même si vous êtes indépendant et que vous n'êtes pas rattaché au centre.
+
+
+Tout ça donc. Ce que je veux dire c'est que cet outil là pour quelqu'un. La journée alors soit vous voulez gagner du temps et de la qualité ou monter en compétences, soit c'est totalement nouveau pour vous et vous avez besoin d'un peu d'un guide, ce que je fais bien, etc.
+
+
+Donc la maïeutique de Socrate elle est là. C'est de faire accoucher le besoin. D'une personne qui ne n'en a pas conscience et qui ne peut pas l'exprimer. Avec la pyramide de Bloom notamment c'est déjà inclus dans dans la méthode. Donc moi j'ai essayé de rajouter aussi toutes ces petites méthodologies qui moi enfin je trouve que voilà, c'est hyper pertinent en tout cas les verbes d'action.
+
+
+Et? Et j'étais un peu plus loin. C'est que j'ai rajouté aussi. Une notion, un concept qui est vraiment déjà étudié dans les académies mais qui est très peu étudié dans. Dans le fin voilà pour nous comme un des mortels. Il y a pas de documentation là-dessus. Le concept de sanité pédagogique.
+
+
+C'est quoi c'est? Est-ce que le contenu va être bien digéré ce qui va être fluide? Est-ce que? Euh l'épanouissement en face, il va être là à tous les niveaux. Est-ce que ça va pas trop vite? Est-ce qu'il y a pas trop d'informations? Est-ce que le rythme il est bon?
+
+
+Est-ce que on se sent à l'aise? Est-ce que il y a bienveillant? Est-ce que quand on ressort de là, on est vidé ou est-ce qu'on ressort de là hyper énergétique booster? Exactement! Et donc du coup j'ai mis en place tout un tas de calculs de formules sans rentrer dans les détails qui vont justement tout au long.
+
+
+Du déroulé. S'assurer de cette sanité pédagogique donc pour vous ça vous enlève un point en moins et puis c'est quelque part un gage de qualité invisible parce qu'il fait pas partie des indicateurs de qualiopi mais c'est une couche de qualité en plus. Aussi. Aux apprenants? De mieux assimiler aussi c'est ça parce que Exact et puis comment des fois on est trop?
+
+
+On est trop généreux? Ouais on veut trop donner. Une certaine limite on perd toute la. C'est exactement ça au final. Alors qu'on voulait bien faire. Voilà et parce que on a trop donné et lui il a la prénom en face ben il a pas eu le temps assimiler tous ces informations exactement où vous n'avez pas eu le temps de tout dire et il manque le principal, le dernier, le clou du spectacle et On fera sans quoi?
+
+
+Et du coup tout le monde part sur sa fin vous? Vous partez sur votre faim, les participants? Ils disent. Il est où mon gâteau? Voilà! Donc du coup kalia? C'est ça? Et pourquoi j'insistais sur la maïeutique socratique donc la technique de questionnement parce que Euh. Combien de fois j'ai vu enfin des opérations.
+
+
+Comment tu vas? Je vais. C'est pas je vais bien c'est je vais je me pose pas de questions je marche quoi? Et donc? Comme on dit, vous vous trompez d'un degré. Continuer sur 1500 km. Vous allez pas arriver au bon endroit? Et et ça? Vous allez me dire à quoi ça sert?
+
+
+Ça sert à imaginer. Que là on a. Voilà moi je suis une entreprise je cherche quelqu'un qui vient intervenir pour former mes salariés sur. Les manipulations d'extincteurs. Est un sujet qui est on ne peut plus basique. C'est une formation de 2-3 heures maximum d'accord? Vous êtes deux autour de la table.
+
+
+Pourquoi je choisirais Nathalie ou Adeline? Comment vous allez vous différencier comment vous allez réinventer c'est comme si je vous dis. Bon voilà test de cuisine on est dans ratatouille. Ok rien réinventez-moi l'oeuf au plat. C'est compliqué vous voyez ce que je veux dire et c'est là c'est là que ça devient hyper intéressant.
+
+
+Parce que si vous vous savez poser les bonnes questions. Vous arrivez à soutirer les besoins de votre interlocuteur. Imaginer le l'interlocuteur enfin quand il vous dit de réinventer l’œuf au plat il a des problèmes cardiaques il peut pas manger de sel. Mais ça pour le savoir il faut lui avoir posé les bonnes questions.
+
+
+L'orientation de la question pour avoir une une question pertinente pour avoir une réponse aussi qui est pertinente. Voilà et juste ça. Juste ça c'est tout un travail d'expertise parce que renseignez-vous aujourd'hui trouver un spécialiste dans la magnétique socratique c'est très compliqué et vous vous formez sur la maladie socratique c'est encore plus délicat et obtenir une certification la danse c'est encore plus les cas.
+
+
+L'idée aujourd'hui c'est pas de se dire on arrête tout. On se remet à la formation parce que on est dans une société d'hyper consommation d'hyper vitesse Ce que je vais dire est très violent. Mais voyez à l'époque des hommes préhistoriques on faisait le feu. On savait allumer un feu.
+
+
+Aujourd'hui? Nous tous autour de cette table je dis bien on se dit pas pour les autres on sait plus allumer un feu. D'accord. C'est une compétence. Mais sans rien enfin avec juste les pierres et tout. Voilà une personne sur trois.
+
+
+Une compétence indispensable à la survie c'est si on part dans la nature deux trois jours là où c'est pas allumer un feu mais le carré il va pas c'est compliqué et donc là c'est une question de survie. Est-ce que je veux dire par là? C'est que aujourd'hui avec l'arrivée de lia il y a deux il y a deux compétences qui vont sauter.
+
+
+Selon moi c'est pas c'est pas. Ce n'est pas un avis scientifique, c'est juste un avis personnel. C'est ma lecture. Ce qui va sauter c'est notre capacité à notre à nous organiser. Parce que on sève le matin. Allez hop va brosser tes dents sur Netflix ce soir. Il y a ça qui sort là.
+
+
+Tu as un rendez-vous avec telle personne etc. On ne gère plus rien. On ne s'organise plus. Regardez quand on avait quelques années en arrière dans votre jeunesse toute la machinerie l'opération pour faire une sortie cinéma entre copains. Je peux pas je peux pas l'appeler mais en fait écoute c'est quoi tu pars chez lui à midi tu verras sa mère tu demandes bien la permission et après essaie de rester un peu plus longtemps mais sois pas en retard à l'école et c'est de choper le père pour voir si il y a pas un ou deux euros à mettre pour le ticket.
+
+
+Et est-ce que tu as prévenu Magali et que ce que tu as? Enfin c'était un? Il fallait s'y prendre deux semaines à l'avance. Au moins! Aujourd'hui vous prenez. Les jeunes chez une ado à la maison. Je suis chez moi tranquille, je suis arrivé depuis deux heures à peu près.
+
+
+Je rentre dans sa chambre et je vois il y a quelqu'un dans la maison. J'étais au courant de rien. Et j'apprends comme ça. Devant le fait accompli. Que la personne va rester deux jours. En pleine période scolaire en pleine semaine. Voilà pourquoi parce que Aujourd'hui un petit coup de fil un WhatsApp ouais tac tac et puis quand tu passes etc.
+
+
+Voilà! Donc du coup s'organiser c'est plus une compétence. De survie? Mais il y a une autre compétence de survie qui va sauter selon moi. L'apprentissage. C'est à dire que aujourd'hui? Je pense que on va s'orienter sur une société ou ce qui est important c'est de savoir piloter. Voilà! Ok on prend l'assistant étape 1.
+
+
+Je me fais la technique de questionnement. On fait on refait l'aller-retour avec le client. On revient hop passons à l'étape 2. Cette plateforme cartographie analyse du besoin cartographie des compétences. Plan de formation. Scénario. Dérouler pédagogique et gris terrier et là on a fait le Grand Chelem. Voilà ce qu'on va voir aujourd'hui et Selon un académicien, c'est une première et c'est une exclusivité mondiale.
+
+
+Aujourd'hui vous devez peut-être maximum. On va dire moins de 50 personnes à avoir découvert la solution. C'est vraiment! On est vraiment à l'aube de la chose alors ce que je propose. Commençons déjà par une toute petite vidéo pour nous mettre en situation mais Je sais pas si vous vous imaginez vous en avez fait des ingénieries de formation le travail que ça demande.
+
+
+Et? Et vous avez certainement dû. Je mets mes deux mains coupées. Enfin, je vais les garder là pour l'instant parce que j'en ai besoin. Je suis certain que vous avez dû au moins essayer. Une fois de vous dire allez. Gpt on va essayer de faire un truc et je sais pas si qu'est-ce que vous avez pensé des résultats en fait.
+
+
+Moi comme j'avais j'avais demandé quelque chose de très précis et puis je lui avais donné des. Comment dire des consignes? J'ai failli me renverser mais mais est-ce que maintenant par rapport aux exigences de qualiopie c'est-à-dire les formats des documents lors des documents et tout est-ce qu'il a tout fait correctement?
+
+
+Il a fait quoi le plan? Il a fait quelle partie? Le plan le plan de formation il m'a donné. Il m'a fait le scénario de séquence scénario de séance. Il m'a fait une évaluation sur motive. Il m'a fait une évaluation une un test de positionnement. Qu'est-ce que j'avais? Qu'est-ce qu'il a fait ça?
+
+
+Prêt à imprimer.
+
+
+J'ai pas fait confiance à son poisson. Voilà je suis allée voir si ça correspond. Est-ce que du coup il y a eu des petits retours des retouches à faire? Pas fait de retouche d'accord et vous avez fourni beaucoup d'informations. Beaucoup de documents, plus des indications en fait par exemple.
+
+
+Euh lors ce que j'ai fait une. Alors c'était dans le cadre de la médiation. J'ai fait une comment ça s'appelle une enquête de du territoire mais je lui avais bien précisé. Qu'est-ce que je voulais dans cette enquête? Par exemple la démographie le taux mais du coup vous avez quand même très fortement orienté le l'outil, ce que j'ai c'est que.
+
+
+L'autre question aussi que je voulais vous poser c'est combien de temps ça vous a pris pour faire? Toute votre ingénierie pas comme vous m'avez dit, le plan etc. Une bonne journée je pense. Une bonne matinée, c'est le temps que je recommande au référentiel par rapport à mon cahier des charges.
+
+
+Et le référentiel vous l'avez fourni? Alia quand vous l'avez fait non? Pas mal. J'ai vérifié par rapport à ce qui est demandé dans mon référentiel mais aussi en terme de savoir savoir faire savoir elle mais aussi par rapport à mon cahier des charges parce que j'ai un cahier des charges qui me dit voilà le candidat doit.
+
+
+Et quand vous avez fait cette opération avec tchat gpt? L'autre question que je me posais c'est. Donc voilà vous avez fait le référentiel ça a pris une demi-journée ouais facile et Et je me suis pris et c'était quel sujet quelle thématique au droit et au service? Combien de temps de formation?
+
+
+Qui vous a fait six mois de contenu d'un coup? Parce que je me suis pris à plusieurs matinées en fait d'accord mais pour faire tout tout les 6 mois de formation combien de temps ça vous a pris quasiment?
+
+
+Seulement pour la le mot, le CCP 1 et l'art. 3. Parce que j'avais coupé, j'avais enlevé la partie 2 parce que je voulais parce que le CCP 1 et 3 c'est aussi un peu de l'ingénierie un ingénieur. Ça veut dire ils vont construire des tableaux. Ils vont construire des trucs pour des enquêtes des interviews des questionnements donc je me suis d'abord concentré sur ça en fait et j'ai mis.
+
+
+Deux jours quoi? Quasiment deux choix. Des petites matinées parce que. C'est trop dur de faire une journée entière. Et est-ce que vous avez réussi à avoir la même qualité de résultat? Une deuxième fois, troisième fois toujours exactement? Ok oui, mais vraiment les mots clés que j'avais besoin. Je l'orientais fortement comme vous dites ce que je vous propose.
+
+
+On va commencer par une petite vidéo parce que là il est déjà. Il faut que tu m'aides. Parce que j'ai besoin de toi là.
+
+
+Voilà!
+
+
+Si vous pensez que l'éducation coûte cher, imaginez le prix de l'ignorance.
+
+
+Si la conformité vous coûte, c'est que vous ne l'exploitez pas et si l'audit devenait la scène où prouver Votre Excellence plutôt qu'un passage redouté, vous connaissez la réalité, la page blanche les hommes non facturables qui s'empilent la crainte de la non conformité majeure le guide de lecture callio pi V9 ne dit pas toujours dans quel ordre avancé la charge mentale grimpe et le tangente pour l'essentiel, concevoir des formations qui font la différence.
+
+
+Kalia né d'une idée simple transformer la contrainte en avantage. Peut devenir le moment où votre exigence se voit se comprend et justifie vos prix. Pour cela il faut une ingénierie auditrenni. Clair traçable et prête à être montrée. Calia est un assistant d'ingénierie qui vous accompagne pas à vous. Vous CO créer vos plans scénario et évaluation et vous validez chaque étape, c'est vous qui tenez le volant avant le dip.
+
+
+Le simulateur vous aide à tester votre dispositif à repérer ce qui manque et à arriver serein et vous n'êtes plus seul un cercle stratégique mensuel et une communauté pour rester à la pointe débloquer vite. Partagez les bonnes pratiques le résultat. Ordre clarté traçabilité vos pièces deviennent évidentes à parcourir un plan structuré des grilles d'évaluation cohérentes un registre propre, un journal Ia qui documente ce qui a été généré ou ajusté.
+
+
+Kallia ne remplace pas votre jugement, il l'encadre et l'accélère. Ce n'est pas un LMS ou TMS kalia se concentre sur l'ingénierie. La qualité pédagogique concrètement l'expérience change dans un organisme de formation, une petite équipe retrouve de la lisibilité. Chacun sait quoi produire dans quel ordre et pourquoi les réunions redeviennent courtes utiles centrées sur la qualité chez un indépendant, les modules se structurent plus vite, une nouvelle offre posée sur des fondations nettes assumées tout cela s'appuie sur le cadre français et ses exigences.
+
+
+Les 7 critères et 32. Indicateurs ne sont plus un mur mais une trame qui guide les choix avec kalia. La démonstration est naturelle. On voit l'intention la logique, puis la preuve l'accompagnement kalia. C'est un assistant expert qui clarifie et accélère un simulateur qui sécurise la vente, audit, un cercle pour prendre du recul et une communauté pour ne jamais rester bloqué, le tout porté par une sanitée pédagogique, faire simple, juste et vérifiable des objections et la donner et l'IA.
+
+
+Transparence, le journal Ia existe pour cela. Vous gardez la main, vous signez ce que vous présentez, est-ce qu'on va devoir tout changer? Non, on range on priorise on consolide ce qui mérite de l'être et on retire ce qui disperse et s'adapter à mon cas, c'est précisément l'objet de laisser guider.
+
+
+Si vous voulez à votre tour, transformer la conformité en avantage. Si vous voulez gagner en clarté et avancer sereinement vers votre prochaine audite, réservez un exemple guidé de 20 minutes. Nous vous montrons comment calia s'applique à votre réalité et vous repartez avec un plan type pour démarrer. Kalia l'ingénierie audit ready net traçable a subi prêt pour votre prochaine audit!
+
+
+Quand vous avez trouvé la première vidéo? C'est les mots qu'on comprend et voilà quoi on. J'en profite pour faire un petit disclaimer. Oui il y a qualiopie mais il y a pas que ça on a l'IA acte. Qui arrive? D'accord. Et on a aussi le cadre de l'usage enfin le cadre de l'usage de l'IA dans l'éducation.
+
+
+Si on cumule ça avec toutes les contraintes. De qualiopi ça fait beaucoup! D'accord. Ce que je voulais vous dire par rapport à ce qu'on a échangé tout à l'heure entre tchat gpt la version simple et. Kalia. On va dire atteint une un certain niveau de maturité. D'excellence où il arrive à générer?
+
+
+Les documents du moins. En apparence. Parce que c'est comme le Canada dry. Ça l'aspect de la bière. Le goût de la bière ça mousse comme de la bière, mais ce n'est pas de la bière. OK. Quelle est la vraie différence maintenant? C'est que? Dans le cadre de qualiopie, il faut faire de la pédagogie.
+
+
+Différencier d'accord. Et on a des contraintes à lire d'ailleurs. Comment la vidéo que vous avez vu là? Plus de la moitié des scènes que vous avez vu ont été intégralement. Générées Vous l'avez remarqué? Il y a des passages, des mouvements etc. Sachez que on le voit tout à fait.
+
+
+Maintenant dans quelques surtout sur une télé. Intéressant ça se voit encore quand c'est j'ai une image ou une vidéo? Ça se voit après c'est pas en tout cas non moi je vous le dis par rapport aux obligations de la France de l'IA acte ou je suis obligé de vous informer.
+
+
+Non non bien sûr bien sûr. En tout cas on l'assume très bien. Deux mois pas deux ans de moins je pense qu'on.
+
+
+Actuellement là par contre la voix c'est 100% il y a. Et là ça se voyait pas mais on entend certaines voix où on sent que cette vie-là là. J'ai pas trouvé ça se voyait 100%
+
+
+Bien par obligation légale. Je vous donne l'information parce que on a des quand on utilise y a on a des obligations. Très bien d'avoir cette variable et oui bien sûr bien sûr. Mais ce que là où je veux attirer votre attention c'est que vous voyez. Dans ma démarche, la façon de présenter les choses, la façon de faire la façon d'expliquer etc.
+
+
+C'est tout petit détail qui vont faire la différence entre est-ce que vous êtes conforme ou est-ce que vous n'êtes pas conforme et la non conformité? Ça peut. C'est ça? Autre point. Comment kalia? Un gros avantage c'est que quand vous allez être en face de l'inspecteur. Ok c'est kayak qui pourra vous apporter les preuves et le raisonnement.
+
+
+Et ça je pense que ça sera la limite de chat gpt parce que le référentiel de qualiopi. Ça reste quand même un document public mais qui est pas non plus. Enfin c'est pas un site internet, c'est un document, c'est un PDF donc du coup l'accès à cette information elle est beaucoup plus complexe donc si on n'a pas entraîné.
+
+
+Ou former l'assistant avec des données réelles du terrain. C'est là où je dis l'aspect Canada drive. Là on est tombé sur un thème qui ou peut-être qu'il a été déjà assez entraîné d'accord. Mais par contre si on part sur d'autres thématiques d'autres sujets qu'on approfondit ou qu'on devient plus pointu.
+
+
+Il y a un risque il y a des indicateurs ou des critères qui passent à l'AS et l'intérêt de notre système. C'est que on a vraiment c'est pour ça que je vous dis vraiment on cherche les gens qui veulent. Performer. Pas parce que les gens qui sont pas forcément très consciencieux, ils vont faire le travail rapidement.
+
+
+Ils sont pas du tout dans la dynamique d'un travail bien fait ou de la vérification donc la démarche kalia. Je dis tout de suite ça ne les intéressera pas et en même temps c'est pas notre clientèle. D'accord. Nous on vise en général. Les œuf. Forcément à partir d'une personne parce que on peut.
+
+
+Mais idéalement 3 3, 3. 10 personnes. Au dessus on va dire qu'ils ont déjà carrément un staff. Un département ingénierie de formation donc c'est pas forcément aussi pertinent. Donc je vous propose qu'on démarre directement. Dans? Le vif du sujet. Et il faut savoir que? Maximum kelia c'est un tout.
+
+
+C'est quand vous rentrez dans kalia. Vous faites partie d'un mouvement où il y a kalia et les autres. Pourquoi? Parce que à côté de ça il y a une communauté. Dans cette communauté. Quand elle sera lancée, il y aura un live qui sera fait. Je dirais tous les mois pour renforcer les bonnes pratiques.
+
+
+D'accord. Et? Je fais une. Comme ça on a vu toutes les vidéos avant de commencer. Vous aurez également des contenus pédagogiques qui ont été enfin. À mon sens. Vraiment travailler. Aussi avec kalia de base mais Vous connaissez la notion le concept de capsule? C'est ça c'est ça? C'est à dire que aujourd'hui je trouve beaucoup de formations d'accord qui sont excellentes qui apportent énormément de valeur d'expertise.
+
+
+Mais c'est aussi des aléas du live et du direct. Il manipule ah attendez on va recommencer. Bon là il y a une erreur et d'ailleurs je vous ai dit etc et c'est complètement déstructuré et le problème pour le le participant. C'est que? Comme je disais, on est dans une société d'hyper vitesse d'hyper-consommation donc on n'a pas le temps, c'est-à-dire que déjà kalia fonctionne tout seul.
+
+
+Si vous ne savez pas l'utiliser, vous pouvez lui poser des questions. Elle vous explique son fonctionnement si vous démarrez une activité de reconversion et que vous dites. Voilà. Je sais pas tiens c'est quoi qu'on va me demander là etc. Elle va vous répondre aux questions. Et kalia va dépasser kaliopi parce que elle peut s'adapter à n'importe quelle norme.
+
+
+Dispositif label à référentiel certification. Au niveau national? Continentale et mondial. Et c'est là la beauté du système. Parce que? Arriver à faire rentrer, c'est pour ça que c'est un défi. Presque mathématique sur lequel personne s'est lancée dessus parce que. Voilà c'est comme si je vous disais voilà je vous ai mis une on a cette pièce là et vous allez récupérer tous les documents de toutes les bibliothèques du monde et vous les mettez vous les mettez ici.
+
+
+La bibliothèque départementale de Saint-Denis elle fait déjà. 100 fois la pièce quoi donc et on est que à la Réunion? On n'a pas rajouté la bibliothèque de la fac etc donc du coup on a créé des capsules. D'accord. Qui font partie de la communauté OK? Et je prends un parti pris.
+
+
+D'accord et on sait très bien. Que changé BP n'est pas forcément le meilleur outil pour faire des recherches sur internet. Si on est vraiment puriste, il y a perplexity notamment qui se différencie très fortement parce qu'il ne fait que ça. Et donc du coup je vous donne un exemple de capsule qu'on a créé?
+
+
+Pour que voilà vous êtes satisfait c'est très bien. Mais pour ceux qui veulent aller plus loin d'accord on propose des contenus de qualité donc là par exemple on a comment faire des recherches. Pousser d'accord au point de pouvoir faire des diagnostics médicaux. Enfin si vous appliquez ces méthodes vous pouvez enfin.
+
+
+Avec la rigueur, etc. Enfin qui est énoncé dans ce document alors évidemment là je donne un exemple extrême mais c'est des documents qui sont. Cours une à cinq minutes, une vidéo une notion donc on n'a pas le cerveau en feu d'accord. On n'a pas forcément envie. Des fois de se taper, voyez quand je vous donne une formation de 1h30 ou deux heures.
+
+
+Vous allez devoir vous taper les deux heures de vidéo. Alors que là avec les capsules vous dites ah ok là par exemple cette première capsule c'est est-ce que je prends un forfait payant ou gratuit? Pourquoi je devrais prendre l'un ou l'autre? Moi moi là en tant que. Euh vous êtes formateur indépendant ou en reconversion et je vous souhaite de réussir dans ce domaine.
+
+
+Qu'est-ce que je fais? Est-ce que je est-ce que je fais l'investissement ou pas? Oui ça c'est des questions. Oui on a vraiment. Essayer! Comme si on était dans votre tête d'aller chercher. Voilà vraiment le dur et là du coup. Euh pour avoir fait et acheter. Beaucoup de formations sur le net, vous avez facilement gérer trois quatre heures de formation mais qui ont été condensés sur.
+
+
+Je dirais peut-être 20 minutes. Vous voyez donc ça fait gagner un temps de ça fait mal attention. Combien de temps et puis surtout vous avez directement la forme donc là voilà je vous montre une capsule et vous allez voir tout de suite.
+
+
+C'est pas une formation ouais salut les gars bah alors là aujourd'hui? Vous utilisez perplexité en version gratuite. Attention, c'est limite peuvent bloquer votre veille qualiopie dans cette capsule. Je vais vous montrer clairement la différence avec la version pro. L'objectif est simple à la fin, vous saurez choisir l'offre qui correspond le mieux à vos usages pédagogiques gratuite ou pro.
+
+
+Pour commencer, ouvrez perplexity, puis cliquez sur mettre à niveau. Vous avez ici toutes les informations concernant la version pro. Que ce soit pour les plans personnels ou business, ok faisons un test par exemple je saisis dernière évolutions qualiopie. En gratuit j'obtiens 10 ressources avec un résumé synthétique et quelques références.
+
+
+En trop, la réponse est beaucoup plus détaillée avec davantage d'éléments et la possibilité d'activer la recherche approfondie testons. Encore j'entre la même requête et j'active la recherche approfondie. C'est un peu plus long environ 3 minutes mais la réponse est nettement plus riche avec très source au lieu de 10.
+
+
+Bref, plus de détails plus de ressources, alors comment choisir si vous consultez rarement? La version gratuite peut suffire, mais si vous êtes dans une démarche qualiopie, la version Pro est plus adaptée. Meilleure traçabilité et possibilité d'exporter vos résultats. N'oubliez jamais plus de volume ne veut pas dire plus de qualité, vous devez toujours vérifier vos sources.
+
+
+Voyons maintenant les erreurs fréquentes erreurs numéro 1. Croire que la version gratuite suffit pour une veille quotidienne, c'est une erreur testez vos besoins réels pendant une semaine avant de trancher. Erreur numéro 2. Passer directement à la version pro sans évaluer votre usage. Simuler vos recherches type avant de vous engager?
+
+
+Sinon, vous risquez de gaspiller votre budget. Un exemple concret, un formateur veut préparer un atelier sur les financements cpf avec la version gratuite. Il obtient un résumé très général. Avec la version pro, il active la recherche approfondie et. À 37, sources, fiables et vérifiables comme des textes officiels et des analyses professionnelles.
+
+
+Conclusion pour préparer des sessions sérieuses et sourcées, la version pro et rentable. Vous savez maintenant comment choisir entre gratuit et pro dans la prochaine capsule? Nous irons plus loin pour comprendre ce que réellement. Je vous retrouve dans la capsule numéro 2. Voyez tout est tous les contenus sont comme ça.
+
+
+On a vraiment! Dégraisser le mammouth quoi? Mais voyez par exemple sur un sujet comme ça vous allez sur YouTube et vous allez avoir des gens qui vont en parler pendant des pas des heures mais au moins 20 30 minutes et à la fin vous repartez au même niveau qu'au début.
+
+
+Parce que il y a pas. Il y a pas cette rigueur pédagogique? Ce truc qui accroche aussi? C'est un tout c'est-à-dire que l'image. Elle est quand même travaillée. Il y a une constance vous avez vu un support de présentation? On est dans le même univers le logo il est respecté.
+
+
+Il y a une harmonie de la charte graphique etc mais aussi. Comment? On a travaillé de façon à être optimale par rapport au fonctionnement du cerveau et de la mémoire. On sait que le cerveau a besoin d'exemples concrets. On sait que il faut répondre à des questions et là vous voyez on a.
+
+
+Ici. Voilà les correctifs, voilà ça c'est hyper efficace. Voyez circule là, même si on avait vous avez plus la vidéo, vous vous souvenez de tout? Vous avez pas perdu d'informations ou très très peu, c'est-à-dire que les seules informations que vous n'avez peut-être pas retenu. On va faire le test parce que une de vous deux se souvient de quelle est la requête qui a été tapée sur perplex City?
+
+
+Mettre à jour. La requête des dernières informations sur. Même une info qui était quand même qui est passée comme ça vous voyez c'est quand même rester. Donc voilà là on a une. En fait c'est pour ça que je trouve que c'est très pertinent de commencer par une petite capsule comme ça après la présentation parce que ça vous met tout de suite dans le bain.
+
+
+Du type de contenu que kalia peut imaginer et produire. Alors quand je dis produire on s'entend bien kalya ne fait pas du montage vidéo. Qu'allian ne va pas voilà mais dans l'accompagnement et le script exactement. Donc? Je vous propose dès maintenant de passer. À l'action? Et je vous laisse choisir dans le domaine que vous maîtrisez le mieux évidemment.
+
+
+Le sujet qu'on va traiter aujourd'hui parce que l'idée c'est pas que j'arrive et je dis bon voilà moi je suis formateur il y a. Comment dire c'est vague là pour l'instant ça peut être un bon exemple. Vous demander j'ai fait plusieurs tests pour faire une formation sur la norme mais ce qu'il va falloir lui fournir et vous ne l'avez pas ce qu'elle est pas publique?
+
+
+On va voir, on va voir. La norme pour les laboratoires formés du père de famille. Moi j'avais j'ai posé j'ai fait pas sur chaque gpt sur d'autres outils. Alors ce qui est bien c'est qu'avecallia. On a la recherche vocale. Donc là j'ai dit bon simple je commence je dis qu'on est formateur et tout de suite il nous explique.
+
+
+Voilà là il nous pose déjà 6 questions. Est-ce que vous pouvez répondre à ces 6 questions? Ok alors je vous écoute. Ce que je vous propose je vais activer le micro. Et? Et je vous laisse répondre. Vous pouvez prendre le temps que vous voulez d'accord et je vous laisse répondre aux questions.
+
+
+Allez hop. Question 1 durée totale de la formation 40 heures. Question 2. Aucune certification. Question 3. 15 questions 4. Sur un seul site? Question 5. Non question 6. Uniquement en France.
+
+
+Voyez là on est déjà. Je vais je coupe je crois que j'ai il a noté une partie ce que j'ai dit. C'est hyper pratique parce que. C'est vrai qu'il y a pas besoin de réfléchir. On peut aux questions à se poser. Il propose des questions exactement parce que là vous vous avez l'expérience.
+
+
+Mais quand on démarre on a l'impression d'être devant une montagne d'accord et on sait même pas par où commencer tellement c'est vaste. Il n'y a pas que ça, il y a pas le fait de de comment de construire l'ingénierie une formation mais le développer au même rythme que des apprenants et il y a tout un public avec différents compétences.
+
+
+Euh différents comment? Euh niveau il y a tout ça qu'il faut prendre en compte aussi quand on est formateur c'est ça? Et là ouais ce qui va être nouveau pour vous. Par contre ça va être la maïeutique de socratique la technique de questionnement qu'on est en train de faire là.
+
+
+Vous avez vu ça a l'air totalement innocent comme question. La première séance de formation où j'ai fait je me suis posé la question. Normalement c'est les questions que enfin qu'on serait amené à poser au client parce qu'en fait là admettons vous êtes la meilleure formatrice dans votre domaine. Vous avez une expertise et de l'expérience d'accord.
+
+
+Mais c'est pas parce que vous êtes. Par exemple vous pouvez être la meilleure dans votre domaine mais peut-être que vous avez raté que votre client. Il mangeait pas de sel et sur un exercice aussi bête que le faux plat. Vous allez peut-être passer à côté d'un marché non pas faute de valeur non pas faute de compétences et parce que cette étape elle n'a pas été suffisamment développée ou elle n'a pas été carrément.
+
+
+Elle fait même pas partie du process en fait. Et puis bah c'est souvent pour ça qu'on se remet en question en fait. Et puis ça fait des allers-retours parce que vous faites un truc qui est bien pour vous mais si on avait écouté ce que voulait qu'il disait non pas de sauce pour moi.
+
+
+Exactement! Problématique exactement même si c'était un simple faux plat. Donc là on lui donne les informations. Donc il va faire une estimation et il estime que là on est quand même. Alors il y a trois modes, il y a le mode express. Il y a le mode standard et le mode complet.
+
+
+Je vous explique. Vu que kaliopi n'a pas de secret pour vous. Ce qui moi m'a gêné dans ma démarche ou que j'ai trouvé difficile à appréhender. C'est que je ne peux pas. Avoir le même niveau de détail si on fait. Un cours de cuisine élémentaire. Que si je traite des déchets radioactifs pour une industrie nucléaire.
+
+
+On peut pas arriver enfin c'est pas le même volume de cours. Donc la difficulté de qualiopi c'est qu'elle dit? Si vous faites trop, c'est une faute. Vous faites pas assez c'est une faute OK. Ma question est simple. On fait quoi c'est ça? Et ça c'est l'intérêt du calcul qui est là pour vous orienter vers le bon mode.
+
+
+Et en fonction du mode vous avez pas les mêmes parce que c'est ça aussi qui est fou c'est qu'on a des documents à produire. Mais qui sont pas qui sont obligatoires mais pas obligatoire si c'est une formation qui est trop simple mais si c'est trop compliqué il faut quand même le mettre en place alors que vous allez dire oui.
+
+
+Mais elle a fait des trucs plus simples. Elle a pas fait ce document là. Mais et moi vous me demandez de le faire etc. Enfin c'est là c'est là le vous voyez le là où c'est tendu exactement. Et de fournir les documents. Euh correspondant à la formation qu'on donne au volume à la qualité de ce qu'on veut.
+
+
+Voilà etc. Donc là maintenant je vais vous repasser le micro et on va répondre à ces questions-là. Alors pareil vous prenez le temps, on est entre nous, on n'est pas pressé. Un problème bateau, j'ai déjà testé mais pas sur chaque gpt donc comme ça ça permet de voir là on n'est pas sur, on est sur tchat gpt mais on est sur sur Kaya.
+
+
+C'est un gipities vous voyez les gipities kalia est un jepéties mais un jepéties comme je dis payant. Donc là ce que je vais vous proposer. Des problèmes business? Oui je laisse réfléchir un petit peu. Dès que vous êtes prête vous me dites, je vous passe le micro.
+
+
+Je vais faire. Je vais faire comme j'avais prévu mais c'était vraiment bidon.
+
+
+Quand c'est inversé comme ça ça paraît bête mais
+
+
+Ouais si vous voulez.
+
+
+Question 1 il s'agit de former des responsables qualités. Dans le domaine agroalimentaire qui doivent devenir compétent dans le domaine de la santé. Question 2 le public voilà ce sont des ingénieurs agroalimentaires mais qui veulent. Spécialisé dans le domaine de la santé et donc de la norme. 1589 NFL 1589.
+
+
+Les résultats attendus ils doivent mettre en place un système qualité selon la norme NFL ISO 1589 dans un laboratoire de biologie médicale de taille moyenne 50 personnes. Cette contrainte quelles sont les contraintes principales? Il faut que cette formation ait lieu en fin de journée puisque c'est des personnes qui travaillent.
+
+
+Question 5. Il faut que ça soit mis en place dans les 4 mois. On pourrait rajouter de vérifier les informations en faisant aussi des recherches sur internet ça me semble pertinent. Et du coup on a bien donné aussi le thème de formation là? Enfin on a est-ce que il y a des informations supplémentaires que vous auriez aimé ajouter?
+
+
+En fait, ces apprenants doivent devenir des experts de la mise en application de la norme nfen ISO 1589. OK.
+
+
+Oui donc comme je disais un chat gpt peut faire des erreurs envisager de vérifier les informations importantes. Donc ça ce que je veux dire par là c'est que si. Indicateurs je crois si. Aussi de quoi je vous en prie? Résultat attendu si les résultats attendus doivent mettre en place.
+
+
+589 du coup j'ai un doute maintenant. Vérifier je vous en prie parce que ça par contre. Étape.
+
+
+Bah sinon c'est plus c'est plus qualias c'est madame Irma.
+
+
+Et donc comme je disais. Voilà callias C'est plus qu'un outil. C'est un état d'esprit. C'est un état d'esprit. Spontanément bien raison c'est 189 et à chaque fois il a écrit 15,89. Voilà et au-dessus 189 1589 Là ici c'est 15 passe et espace 189 tout attaché. Par contre il y a un espace entre NF et en.
+
+
+OK. Ok et là je vais juste 480 OK? Et tout en bas aussi la dernière ligue 15 189. Est-ce que c'était clair? C'est parfait. On a bien question 1. Question 2. Question 3 je ne le vois pas. Ouais c'est ça la question 3. Question je vois pas la question 3 mais j'ai mis les résultats attendus.
+
+
+Quatrième ligne Après 1589 les résultats attendus. Donc c'est la question 3 ça. C'est pas grave on va. Oui oui de large. Après?
+
+
+Donc là il invente pas la poudre. Il traduit ce qu'il a compris. D'accord.
+
+
+Et là je rebondis sur vous. Adeline Si vous aviez voulu avoir le l'effet, waouh sur chaque gpt et avoir un bon résultat dès le départ. Ce qu'il aurait fallu que vous ce que vous auriez dû faire. C'est taper tout ça directement.
+
+
+C'est là c'est là où vous avez passé du temps à mon avis c'est quand en gros c'est pas c'est pas vous verrez sur kalia c'est pareil c'est pas c'est pas le process. Moi je vous donne un exemple j'ai travaillé sur un. Une ingénierie de formation qui avait l'ambition d'être le meilleur programme de formation commerciale de vente à étiquette.
+
+
+Sur la zone Afrique. D'accord. Pour répondre à cette première question. Juste préparer les éléments de réponse comme on a fait ici. J'ai passé 8 heures. En fait moi je lui, je lui ai un peu fait comme ça je lui ai. Pas question j'ai pas mis question 1 question vous avez fait?
+
+
+Vous en gros vous avez tapé directement ça? Non j'ai tapé tout d'un coup là c'est ça c'est ça c'est-à-dire en fait vous ce qui s'est passé de votre côté c'est que vous avez tapé entre guillemets toutes les questions parce que vous avez pas vous auto questionner je suis Alain Delon et non mais vous avez tapé toutes les informations de l'analyse.
+
+
+C'est ça voilà mais vous voyez. Euh déjà ce qui est intéressant c'est que là on commence à avoir des verbes de la taximonie, Blum etc sauf que Vous n'en aviez peut-être pas conscience. Mais mais vous voyez ce que? C'est que pour quelqu'un qui est expert avec de l'expérience, c'est génial.
+
+
+Ça fait gagner du temps et on va dire il y a un peu moins de vérifications à faire parce qu'il y a pas des gros trucs qui nous sautent aux yeux. Que j'ai fait sur ce que j'avais un doute quand j'ai lu ma trame qui m'a fourni en fait je vais aller voir mais par contre que je vérifie cette information parce que je peux pas me permettre de faire une erreur là dessus donc j'ai vérifié et puis par rapport à mon cahier des charges aussi donc je dis ah là par contre là il faut que je fasse attention il faut que ça soit vraiment stipuler dans le cahier des charges et comment stipuler dans mon cahier des charges c'est ça et par contre à l'opposé Ben pour vous qui démarrez.
+
+
+Vous imaginez déjà. Comment toutes les choses qui sont faits derrière le rideau qu'on ne voit pas enfin que vous pouvez confirmer? Parfois ben pratiquement sur une semaine, on se mettait pas au lit avant minuit à partir de 16h30 et on commence et on continue jusqu'à minuit et c'était tous les jours comme ça quand on démarrait un nouveau module parce que parfois au niveau en cours en cours on nous demande de rajouter un module par exemple comme moi je suis dans le paysage et j'ai dû rajouter le module préservation et valorisation des espaces naturels.
+
+
+Sauf que normalement enfin si on suit quelques billes à la lettre on est entre nous. Mais rajouter juste une brique en fait on a tendance à se dire vas-y, j'ai juste rajouté une petite brique. Voilà là tranquille mais en fait non non quand vous rajoutez une brique. Normalement il faut revoir tout depuis le début pour être sûr que ça forme un tout cohérent.
+
+
+Pas en fait c'est ça parce que parce que parce que parce que là là vous rajoutez un truc. Là vous allez dire ils sont bien gentils les élèves mais après la grille critériée là il faut la refaire. Mais si on refait la grille critériée il faut refaire. Et du coup quand tu ajoutes un module à une formation qui est déjà bien bien définie etc.
+
+
+Il faut le reprendre depuis le début parce qu'il y a des pratiques par exemple dans la préservation et la valorisation des espaces naturels que tu peux pas te permettre de faire sur un chantier normal sauf qu'avecallia. Vous rajoutez l'information vous faites l'élève. Je voudrais rajouter le truc il va vous?
+
+
+Il va vous régénérer tous les documents d'un coup. Et cohérent? Ça veut dire que ça veut dire après maintenant revenons sur la valeur la valeur pour vous gain de temps? Monter en compétences? Parce que quelqu'un qui débute ou quelqu'un qui même on va dire est pas senior mais qui qui a un peu d'expérience.
+
+
+Il sort pas un truc comme ça du premier coup c'est pas possible. C'est pas possible et puis en plus si vous connaissez pas la maïeutique socratique c'est absolument impossible voilà On a vu que aussi puisque ça c'est quelque chose qui est pas visible, c'est la réactivité. Parce que là imaginez on revient sur le coup de moi je suis.
+
+
+Voilà je cherche quelqu'un pour former mon équipe sur la manipulation extincteur. Vous faites vos propositions, même tambouille même tambouilles? Et je vous dis. Ah j'ai oublié de vous dire on a. Comment une armoire électrique? Ça change tout le tout le bordel? OK. Vous vous allez si vous avez passé 15 jours à faire le l'ingénierie?
+
+
+Maintenant mais c'est même pas une histoire que vous avez pas envie de recommencer c'est que là. Sur un contrat comme ça. La personne qui est équipée de kalia réactivité écouter dans une heure. Je vous redonne le document avec toutes vos demandes. Personne ne peut s'aligner avec ça c'est pas possible.
+
+
+Et je pense? Que là on commence à toucher un peu aux limites de chat gpt seul. Parce que oui. En mettant les bonnes informations, on a un bon résultat du premier coup. Mais si on commence à bricoler un petit peu là un petit peu là un petit peu là.
+
+
+Au départ on était sur ce rail là là mais après elle nous a dit il faut partir comme ça. Et puis à la fin c'est pour ça qu'on a des hallucinations parce que il y a tellement des couches des surcouches des surcouches que on connaît plus la couleur en fait alors que kalia la façon dont elle a été construite.
+
+
+C'est comme un chat qui retombe toujours sur ses pattes parce que tout a été codé. Tout a été. Tracer et donc du coup il y a des mécanismes pour revenir derrière toujours sur nos pattes donc là par contre j'insisterai sur. Focus et lisez bien ce qu'on a obtenu là.
+
+
+Pour être sûr qu'on soit raccord parce que il suffit. D'une erreur? Et on n'aura jamais parce qu'en fait ces deux-là que tout le reste va découler donc je vous laisse lire tranquillement. La réponse vous me dites quand vous voulez que je descende. Et dès qu'on a vous avez fini de lire.
+
+
+Enfin s'il y a des trucs à rajouter vous me le dites on le rajoute. Il y a aucun problème. C'est fait pour d'ailleurs. Il vaut mieux le faire là que le faire à la fin.
+
+
+On peut laisser?
+
+
+Recommandations initiales.
+
+
+Rien trouvé. C'était pas donné au départ comme information. Donc c'est déjà plutôt un bon signe. Après on peut l'aider bien sûr, bien sûr, bien sûr des sociétés. Tout au bout de la ligne. Tout au bout de la nuit site rajouter je vais faire ça. Je vais le faire tout de suite.
+
+
+Voilà, voilà!
+
+
+L'entreprise voyelles décision du soir. Alors connexion calluppi ou ça? Je sais pas dire objectif ça c'est la différence. On est en train de cocher. Les étapes pour une conformité qualiopie.
+
+
+On aurait pu sans caillard vous aurez peut-être même pas eu les recommandations déjà. C'est ça et franchement je trouve que déjà l'innovation pédagogique. La Ludo pédagogie moi je trouve que c'est déjà sympa comme apport donc vous voyez déjà c'est ça qui est bien avec kalia c'est qu'on ne part pas de la feuille blanche on a toujours un peu d'apport supplémentaire mais pas un apport entre guillemets boucher du style.
+
+
+Oui pensez à animer votre classe non ça ça veut rien dire du tout c'est c'est général ces plats et du coup c'est ce que je dis on a l'impression. Une structure on se dit waouh. J'ai gagné un bon paquet là. Mais en réalité? C'est un paquet qui est creux et vide alors que là on a vraiment.
+
+
+Des termes techniques du métier. Voilà et comme je dis bon, vous voyez comme comme ajout site officiel des sociétés savantes. C'est pas enfin ce que je veux dire non si si non justement c'est important de le faire. Mais ce que je veux dire par là c'est que? Voilà imaginez vous avez pas kalia.
+
+
+Vous avez la feuille blanche. Voilà un bon carnet, un bon stylo vous faites votre ingénierite, une formation et de l'autre côté en termes d'effort vous avez eu à dire bon 40 personnes. Enfin 40 15 personnes 40 heures. Là tu as oublié de mettre site officiel de en termes de charge de travail.
+
+
+Je pense que là on est plutôt bien. Donc je vais lui demander. De refaire. Voilà regener La réponse. Entière avec cette correction.
+
+
+Je remercie ouais c'est pareil. On lisait quand même au cas où si c'est. Ici emballé qu'il a remis autre chose mais je pense que là on est vraiment fidèle au niveau du contenu par rapport à tout à l'heure et normalement. Dans la partie 6. Nous devrions avoir. J'ai bien aussi aimé le mode recommandé c'est à dire.
+
+
+Voilà distanciel et de cas. Donc là voilà là il commence à donner des indications. Assez forte pour moi aussi quand j'ai fait par exemple pour la médiation sociale il m'a sorti des exemples de cas mais de fou quoi à chaque fois je lui ai demandé par exemple bien précis par exemple sur une étude des cas par exemple dans une médiation ou par exemple pour l'accompagnement à l'emploi etc.
+
+
+Mais c'était je n'arrive pas à réaliser qu'il me sortait des trucs comme ça quoi voilà parce que moi j'ai pris énormément de temps à réaliser des études de cas et tout et puis je le dis merde alors c'est pour ça que moi je trouve que l'IA elle est elle est passionnante après.
+
+
+Voilà. Je pense vous me direz si ce ressenti vous avez le même ressenti. Kalias ça permet de faire les 10 20% qui manque pour atteindre un niveau exceptionnel par rapport à la masse. Et c'est pourcentages en plus c'est ce qui va faire la différence entre. J'avais pas l'impression que c'était fait par une heure.
+
+
+Ouais c'est ça et aujourd'hui c'est vraiment. C'est ce qui est recherché quoi quelque part quand on veut du service à la personne. Voilà alors du coup on passe au document 3 donc on a fait? L'analyse des besoins? On n'a pas eu besoin d'aller faire des recherches sur internet sur un référentiel ou une certification parce qu'il n'y en avait pas.
+
+
+C'est pas certifiant. D'accord. Mais si c'était certifiant c'est là toute la subtilité c'est que kalia quand elle détecte. Que on est sur un référentiel etc. Elle sait que c'est pas dans ses connaissances. Kalia va forcer la recherche sur Internet. D'accord pour aller chercher le référentiel c'est ça? Parce que quand vous utilisez un gipity je sais pas si vous remarquez mais contrairement à chat gpt classique on a pu la recherche sur Internet.
+
+
+Oui c'est ça. Mais l'autre problème. C'est que ça résout pas le problème. Parce que quand vous avez le bouton recherche sur Internet, est-ce que vous pensez à l'activer au bon moment quand tu en as besoin? Ben non. Et c'est ça l'intérêt. Un peu trop tard ou peut-être même trois avant ou bien ça correspond pas avec la donnée de ce qu'il est?
+
+
+Et ça ça vous fait une charge mentale en moins parce que ça veut dire que Elle est en pilote automatique. Son travail c'est de se dire. Ok et La force c'est de dire aussi j'ai pas l'info. Je vais chercher l'information sur Internet. Aujourd'hui un des enjeux principal de. De l'IA.
+
+
+C'est de reconnaître qu'elle a tort. D'accord ça c'est un premier point mais pour qu'elle reconnaître? Qu'elle reconnaisse qu'elle est tort. Ça veut dire qu'elle soit en capacité de prendre des décisions. Alors je sais pas si ça vous est arrivé. Quand vous avez testé avec chat gpt de dire vas-y génère moins un cours et que j'ai pété dit ben ça serait bien que tu fasses participer les élèves ça serait bien que tu mettes un peu d'animation etc mais tu dis non non.
+
+
+Moi je veux le cours en fait chapitre 1 grand 1 définition a etc oui c'est super donne des définitions non non mais je veux pas je sais comment on enseigne. Je sais comment je me lève. Comment j'écris au tableau moi ce que je veux savoir c'est. Ah tu me dis donne des définitions quelle définition je mets et là quand ça commence comme ça?
+
+
+En général. Il va pas lâcher l'info pourquoi? Enfin ça vous est déjà arrivé.
+
+
+Voilà pourquoi parce la réponse elle est juste ici. C'est à dire que si Tchad gpt vous donnez? Une réponse? Donc qui prenait une décision? D'accord. Quelque part juridiquement. Ce n'est plus votre responsabilité, c'est la responsabilité d'openheit donc open I a programmé son assistant son chat gpt. Pour qu'ils ne prennent aucune décision et quand on demande à lia de dire vas-y, fais-moi un poste.
+
+
+Bon. C'est anecdotique. Mais quand on lui demande de prendre des décisions pédagogiques. Là il y a le fait pas. Non il fait pas non plus parce que quand parfois j'ai mis des j'ai demandé des trucs et puis bah dit bah consolider Consolider par consolider mais structurer votre. Les infos par exemple dans un dans un tableau Excel par exemple.
+
+
+Oui on lui dit mais moi je veux le tableau en fait. Directement voilà! L'explication elle est là, vous comprenez mieux maintenant. Pourquoi il ne donne pas le cours? Pourquoi il ne donne pas en fait? Il ne donne pas le poisson. D'accord. Parce que C'est ça mais c'est pas juste un caprice quoi c'est que il a été nativement programmée pour ne jamais prendre de décisions.
+
+
+Donc? Dire quand il y a avec kalia prend des initiatives. Parce qu'elle vous a dit tiens on va, on va rajouter la Ludo pédagogie, etc. On est bien d'accord que c'est une décision qui a été prise. Vous voyez ce que je veux dire c'est ça la force de kalia c'est à dire que j'ai.
+
+
+J'ai dû expliquer à l'IA comment prendre des décisions, comment acter, etc etc et c'est là où on touche vraiment à la différence. Donc là? On a fait l'analyse du besoin, d'accord? Vous avez vu c'était pas non plus d'une comment je dirais c'est pas éprouvant quoi hein? Donc là on va passer maintenant qu'on a les bases.
+
+
+On va passer donc à la suite des modules donc il va demander la cartographie des compétences. Quoi donc on lui dit tout simplement OK? Et voyez sur Internet. Je suis pas forcément. En accord avec ce qu'on va trouver sur YouTube, tout le monde vous dit oui, il faut savoir parler, alia, le prompte, parfait, etc.
+
+
+Etc, etc. D'accord. Souvent malheureusement. On se rend compte que enfin il y en a qui donne en fait. Sur YouTube j'ai remarqué que? On donne des capacités alia qu'elle n'a pas. Du style prends-toi pour Schwarzenegger. On rigole mais mais vous voyez ce que j'ai à quel moment ici j'ai dit.
+
+
+Bon chat gpt soit allez on va, on se refuse rien soit un bon professeur expérimenté avec 20 ans d'expérience d'harvard Mais oui mais. En fait il y a. Elle n'a pas de ressenti. Quand vous dites, j'ai 20 ans d'expérience. C'est ni plus ni moins qu'un ressenti. Donc quand vous avez marqué un truc avec 20 ans d'expérience que vous avez fait là.
+
+
+C'est ni plus ni moins que gaspiller les tokens. Donc les unités ou la puissance de frappe de calia. C'est ça en fait c'est ça et vous voyez que? La façon dont l'expérience elle est amenée. Et ben? On va retrouver un langage naturel. D'accord. Parce que derrière en termes de contexte engineering, il y a le prompte engineering, le contexte engineering, le prompte engine, c'est je vais taper correctement rôle, principe, contexte tâches etc.
+
+
+Etc, objectif et tout d'accord, donc on a quand même une façon de structurer les choses. Mais comme je le disais à un moment professionnel que j'accompagnais. Si on gagne 30 minutes avec lia, il faut pas qu'on en perte 45 minutes à taper un prompte qui fait la taille de mon bras.
+
+
+C'est ça? Et là? Avec kalia? Pour vous donner une idée OK. Quand je tape formateur en fait derrière vous avez. À peu près 50 ou 60 pages de prompte qui s'exécute derrière. Donc imaginez vous avez pas kalia. Allez c'est parti punition étape 1. 60 pages. De documents donc là on a.
+
+
+On est arrivé à la cartographie des besoins donc vous avez vu là pour quelqu'un qui voilà vous êtes expert dans vos domaines mais vous savez pas du tout comment on fait une ingénierie de formation pour l'instant. Enfin je sais pas si vous vous sentez plutôt bien guidé bien accompagné.
+
+
+Voilà! Euh donc il nous a fait la cartographie des besoins. D'accord. Alors il y en a qui préfère avoir une cartographie sous forme de matrice? Ok bon là c'est on profite de cet exemple on le corrige directement, faut pas avoir peur et voilà j'aurai.
+
+
+Donne-moi. Plutôt? La cartographie. Attention forme. De matrice.
+
+
+Là vous êtes à la main? Le client vous dit ouais mais vous m'avez donné matrice moi je préfère un truc comme ça pour pouvoir imprimer et tout. Donc vous allez faire quoi? Vous avez retapé à la main? Tous les documents non? Enfin oui, mais avant avant. À refaire c'est ça?
+
+
+Et pourquoi j'ai volontairement? Demander la matrice. Parce que là comme ça ça se voit pas trop. D'accord. Mais par contre ici là niveau Bloom Et savoir? Les verbes de Bloom donc c'est pour ça tout à l'heure vous avez dit je vous rassure je dis ça, c'est complètement intégré dans dans lequel il y a et ça encore ça.
+
+
+Pour le formateur c'est encore un truc. Plus qui pas un indicateur mais qui? C'est mieux parce que ça participe. En fait! C'est ça? Et là on voit que contenu adapté. Là par exemple voilà une question très pertinente qu'on pourrait se poser. En quoi? Puisque là c'est pour montrer que kalias c'est pas juste un outil qui fait des de l'ingénierie pour vous bête et méchant et dès qu'on sort du contexte c'est fini.
+
+
+Il y a plus il y a plus rien. Il y a plus personne donc là on va lui dire. En quoi? Euh Bloom. Participe. D'anticipe voilà à Démarche.
+
+
+Évidemment là quand on a aussi l'expérience du prompt engineering, on peut on peut évidemment augmenter ou améliorer la qualité de des pompes. L'objectif d'aujourd'hui c'est pas de faire un cours sur l'IA. Mais de vous montrer que voilà vous toute seule face à votre écran. On arrive quand même à?
+
+
+Parce que là vous auriez été tout seul. Mais qu'est-ce qui c'est quoi? C'était la Bloom 1. Ou la Bloom 2.
+
+
+Donc voilà donc là. Le rôle de Bloom dans qualiopi et là on a vraiment en fait. Voyez souvent on dit oui, vous utilisez l'IA. Vous allez devenir bête. Vous allez devenir bête si vous mettez votre cerveau dans un bocal. C'est ça, mais par contre si vous utilisez l'outil Non pas comme instrument mais comme aussi.
+
+
+Catalyseur de savoir c'est-à-dire que au lieu d'être passif face à l'information, ne pas hésiter à la contredire ou à la gérer à la challenger et là je vous laisse lire les explications. Et enfin voilà, dites-moi si ça fait sens si c'est plus clair pour vous en tout cas. Parce que ça aurait été quand même un comble que kalia pour expliquer des choses internes ou sur qualiopique qu'elle le fasse pas de façon de pédagogique, ça aurait été le cordonnier le plus mal chaussé de la planète.
+
+
+Voilà il m'a beaucoup aidé aussi par exemple sur la remédiation. Individuel et puis j'ai mis. Et donc il m'a sorti un truc mais vraiment pour donc c'est pierger ça pourra peut-être l'intéresser. Comment vous tu l'écris comme ça elle peut bien le retenir. Mois et comme ça pour que en fait c'est dans les pairs en fait non parce que ça les perd.
+
+
+En fait c'est les grands qui ont travaillé sur des thèses concernant la connectivité et comment comment remédier individuellement ou en groupe ou faire des soucoupes pour développer le collectif dès qu'il y a il y a. Le conflit cognitif ben il y a des bas. Il y a aussi parfois juste un petit.
+
+
+Un petit moment où on va parler d'un thème bien précis à plusieurs avec chacun va donner son comment dire ça son opinion sur ce thème ben ça va nous permettre de d'acquérir la compétence. Donc c'est souvent ce que je fais. En fait je mets en débat. Je fais des petits groupes.
+
+
+Et puis je lui dis allez vous allez travailler. C'est un peu l'endragogie inversée pour expliquer c'est que il y a la pédagogie c'est. Allez asseyez-vous aux enfants chapitre 1 chapitre 2 vous ouvrez vos claviers exercice 2 l'andragogie voilà c'est la pédagogie pour les adultes. Et donc du coup c'est ce qui explique pareil.
+
+
+Euh. Allez on va le challenger un petit peu.
+
+
+Je forme. Des adultes? D'accord. Et on m'a parlé. On va faire les naïfs, on m'a parlé d'andragogie
+
+
+C'est quoi? Et?
+
+
+Déjà! Appliquer. Ici. Je vais améliorer mon truc hein. Je vais faire mieux que la concurrence d'ailleurs kalia Kalia. Ça vous est déjà arrivé. Bon écoutez vous vous êtes bien sympa moi ce que je vous propose je viens travailler avec vous parce que j'ai de la finité. Je vous montre le devis.
+
+
+D'aline et puis essayer de faire un truc un peu mieux là. Vous avez une opportunité comme ça vous dites. Voilà ça c'est mon ingénierie de formation, ça c'est l'ingénierie de formation de la concurrente avec le prix. Vous lui mettez ça, c'est que là vous commencez tout en haut là tout en haut vous reprenez un nouveau chat.
+
+
+Vous mettez voilà moi je veux récupérer ce marché. Voilà le cahier des charges voilà ce que moi j'ai fait. Vous remettez vos documents avec Alya et dites. Je veux vraiment faire la différence, être meilleur partout que le concurrent je te donne son ingénierie son plan parce que lui il a proposé puisqu'on m'a filé le devis.
+
+
+Abella callia elle va dire ok il y a ça ça ça ça ça? En plus je vais faire des petites recherches sur internet et j'aime bien cette approche qu'on va faire un truc qui bride. On va combiner et on va aller encore plus loin. Je vois qu'il y a eu ce niveau de détails trucs imaginez un peu la force de frappe que ce soit.
+
+
+Pour vous pour vous adapter ou alors que ce soit parce que il faut se rappeler quand même. Que avec qualiopi? Le plan de formation doit être public. Il doit être affiché sur le site c'est ça? Donc ça veut dire quoi? Que? Allez hop, on retourne sur notre bon vieux extincteurs d'incendie D'accord.
+
+
+On va mettre le feu dans la pièce. On fait une recherche avec perplexity sors-moi à la Réunion parce que il y a pas des gars d'Espagne qui vont aller former ici donc sors-moi la réunion tous les centres. Qui vont former? Sur? La manipulation d'extincteurs. On n'aura pas 400 centres.
+
+
+D'accord. Vous allez sur chacun des sites puisqu'il va vous donner les sites? Vous récupérez le plan de formation de chacun des sites vous balancez tout là dedans. Vous pouvez mettre 10 documents à la fois. Si un intro vous mettez un document et puis vous les fusionner. Voilà! Et après vous dites voilà ça c'est les autres ça c'est moi.
+
+
+Un problème de batterie ça c'est les autres ça c'est moi. Est-ce que tu peux m'améliorer le truc et et là vous avez même pas besoin de dire. Allez s'il te plaît il y a qui il y a qui d'autre sur le marché? Dis-moi pas cadeline elle est sur le marché quand même mais et donc.
+
+
+Visage aux extincteurs. Parce qu'on est dans le paysage on utilise révélation choc. Ah ouais ben moi je connais pas le maigrir, on utilise deux des carburants d'huile et cetera c'est un flamme et puis aussi tous les produits. Euh aussi inflammable et du coup on a on utilise des acteurs et je forme sur les facteurs mais là ce que j'ai ce que je viens de vous donner comme méthode et comme approche est-ce que je viens de vous apporter comme truc?
+
+
+C'est que kalia c'est pas juste un simple outil. Quand je vous dis que quand vous adoptez kalia vous êtes vous faites partie d'un milieu? Vous faites partie d'un autre d'un autre cercle? D'accord. Là je vous ai donné la méthodologie. Pour faire? La meilleure formation. Écraser la concurrence. Plus précisément écrasé La concurrence l'anéantien ça c'est l'adage de Goldman Sachs et c'est pas pour rien qui sont qui sont les meilleurs.
+
+
+Mais là vous avez concrètement. La technologie? Aujourd'hui alors oui bien sûr, il va falloir faire cette recherche. Il va falloir récupérer les référentiels des 10 concurrents des cinq, concurrents des deux concurrents si c'est un domaine qui est un peu plus. Cibler. Et en 30 minutes? Vous avez déjà votre état?
+
+
+Vous avez vos directives de mise à jour et et là et là techniquement la promesse que je vous ai faite en rentrant ici que être kalias et faire partie des meilleurs à condition de ne pas l'utiliser en dilettante. Mais de l'utilise on a on a on a une bête de course là.
+
+
+Voyez. Donc? Redescend en bas. Je vais certainement faire une pause pipi mais une pause chargement enfin, je vais brancher tout à l'heure.
+
+
+Vous avez vite fait.
+
+
+En plus on a une experte avec nous, on a de la chance pardon. Ça fait des années et des années et en même temps moi j'ai appris pas mal de choses. Il m'a formé aussi quelque part. Ah oui j'avais certainement des carences et j'ai encore des carences. Mais voilà avec ça il m'a.
+
+
+Ah oui il m'a beaucoup. Aider quoi? Et? Et là? Voilà!
+
+
+En fait vous le saviez pas. Mais vous faisiez déjà de l'Android mais ce que je veux dire c'est que c'est que j'avais pas demandé. À aucun moment on a parlé de ça mais par contre vous avez un inspecteur qui dit mais attendez c'est quand même les adultes. Vous faites pas de la pédagogie quand même sinon vous êtes un peu en panique vous mettez vite fait sur kalia tac vous dites voilà.
+
+
+On me demande si c'est le nom de dragogie etc et c'est ça je sais pas si vous imaginez en fait tout le travail de réflexion anticipatif pour la construction de kalia. Rien n'est laissé au hasard. Et ça s'en ressent enfin. Pas juste en surface quoi c'est juste jusqu'à l'atome jusqu'à l'atome on est.
+
+
+On est sur une parfaite maîtrise. Carrément bien machin par exemple, autonomie expérience par exemple. Les apprenants ont déjà sont déjà des ingénieurs de qualité. D'accord donc
+
+
+Non mais c'est non mais non mais c'est évident mais mais ce que je.
+
+
+C'est impliquer au contexte de la conversation du départ et puis vous savez aujourd'hui que vous avez un vrai. Compagnon. Que que que que que que si vous un vrai copilote quoi voulu on vous rentre dans les côtes vous lui posez la question c'est pas. Et là là aussi encore une fois on est exactement dans la démarche de l'IA acte.
+
+
+Avoir le plein contrôle vous imaginez. Comment c'est pour ça que je tiens à faire ces ateliers démonstration de cette manière-là parce que si j'arrivais je disais bon alors moi je suis consultant il y a ok alors tac tac tac je fais un prompte spécifique etc. Je génère un super cours sur l'IA.
+
+
+Qu'est-ce qui vous dit que demain vous vous arrivez à reproduire la même qualité de résultats? Et là? On est bien d'accord que je vous ai je ne vous connais pas? Jamais vu! Et ce que je veux dire par là c'est que? C'était totalement impossible pour moi d'anticiper de quelques manières que ce soit le sujet qu'on allait traiter lors dans lequel on allait le traiter et vous êtes bien d'accord que.
+
+
+Vous avez dû tester des assistants des gipities. C'est obligé au moins un dans votre vie d'accord? Des fois je sais pas si vous avez remarqué ce fonctionnement ultra mécanique étape 1 étape de étape 3 étape 4 étape Il manque la liberté, la liberté de se dire. Moi je bosse pas comme ça j'ai besoin de comprendre ce que je fais là là tout de suite.
+
+
+Là j'ai envie de faire une pause. J'ai envie de faire une pause. J'ai envie de savoir c'est quoi l'Android voilà parce que sinon je vais faire un blocage dessus et je pourrais pas continuer à travailler et là vous voyez qu'on a vraiment. Un copilote qui s'adapte à notre rythme qui nous accompagne.
+
+
+Qui est cordial et qui répond à toutes nos questions? Avec le plus grande coopération mais mais donc voilà et et ce qui est ce qui est assez incroyable c'est que même dans les réponses d'explication. Elles ont été construites pour être facilement mémorisables. C'est ça que ce soit dans la structure.
+
+
+Voyez et je sais pas si vous vous souvenez de dire à une époque. Peut-être que vous avez dû le remarquer, mais une façon de détecter que s'il y a ou pas c'est quoi, c'est de regarder à chaque fois. C'est toujours trois points, trois points, trois points trois points. OK.
+
+
+Imaginons. On va prendre une situation. On fait une liste de courses d'accord mais je veux qu'une viande et puis je veux cette légumes et voilà. On va faire quoi? On va mettre trois viandes parce qu'il faut faire trois points et on va oublier 5 ou 4 ingrédients 4 ou 5 légumes parce que ces trois points aussi.
+
+
+Donc le vrai problème des trois points, trois points trois points c'est quoi? C'est que j'ai une réponse qui n'est plus qui est une réponse certes mais qui n'est plus fidèle à la réalité. Si la réponse elle est pas fidèle à l'arrêter, elle a réalité la question qu'on se pose en tant que professionnel consciencieux.
+
+
+C'est qu'est-ce que j'ai transmis comme information? À mes participants. Et ça? Voyez quand on a vu tout à l'heure que l'IA ne prend pas de décision, ça un impact sur votre travail. C'est un impact sur les réponses qu'on obtient. Mais s'il y a elle fonctionne en mode. Bah ouais moi, c'est toujours 3, 3.
+
+
+3, 3. Par 3, mais la vie c'est pas 3. Par 3. Et la vie c'est pas alors moi j'aimerais moi la vie j'aimerais qu'elle soit comme ça. Belle ligne droite comme ça là tac mais Si on devait rêver c'est comme ça. Comme ça au paradis quoi mais en réalité la vie c'est quoi c'est ça va comme ça ça va comme ça ça monte ça descend ça revient en arrière.
+
+
+On fait un petit tour comme ça et puis après peut-être qu'on est là. Bien c'est ça. Et du coup en parlant de boucle très très bonne enchaînement, on va reprendre la boucle. Voilà! Et Comme le vous le voyez ici. D'accord, donc on reprend un peu le fil on était un petit peu au dessus donc là ça y est on est harmonisé on a notre cartographie des compétences.
+
+
+Et ça normalement la cartographie des compétences. Elle est pas imposée dans le qualiopie. Fallait pas imposer mais c'est une. Je trouve que c'est plus sauf que. Quand elle elle quand vous travaillez sur tchat gpt comme ça vas-y tac tac tac fais-moi le plan ok fais-moi le truc. Ok ok mais quand lié elle a besoin de vérifier?
+
+
+Attendez les gars on en est où là dans le dans le business? Elle fait quoi? Elle va relire toutes les réponses alors que là. Avec la cartographie de compétences. Elle sait que elle a pas à relire. Elle a pas à relire tout ça. Les définitions liées à les connais, elle a pas besoin de les relire.
+
+
+Mais par contre elle sait que à un moment elle a généré la cartographie de compétences et ça. Voilà elle a pas besoin de se taper tout le chat. Et donc ce que je vais vous expliquer c'est que toute cet effort d'anticipation d'économie de l'énergie parce que petite parenthèses quand même.
+
+
+Il me semble je sais plus combien c'était de requêtes exactement je crois que c'était. J'ai plus j'ai un doute mais si en gros on fait une requête complète on a on a utilisé un demi litre d'eau sur la planète pour une requête pleine. D'accord. Donc ce que je veux dire c'est que?
+
+
+Je parle en tant que fabricant et en tant que concepteur. J'ai quand même une obligation. Morale éthique et environnemental. C'est à dire que je peux pas me permettre de dire vas-ya, elle te pond un truc etc ou elle fait toujours des recherches sur internet où elle va faire. Voyez tout ça là.
+
+
+C'est c'est pas que pour la performance parce que forcément si. Partage demain on va marcher. Vous vous prenez pas de sac à dos. Toi tu prends un sac à dos de 90 kg. Moi je prends un sac à dos de 20 kg. On n'est pas, on n'est pas sur le même.
+
+
+Sur le même équilibre exactement et donc ce que je veux dire par là c'est que. Tout le travail que j'ai fait permet en fait d'enlever tous ces poids tous ces charges inutiles. Mais pas que. Aussi tous ces chemins tous ces raisonnements inutiles. Et que vous avez vu que oui j'ai rajouté plusieurs étapes.
+
+
+J'ai rajouté la magnétique la technique de questionnement. J'ai rajouté l'analyse de besoin. J'ai rajouté. Comment la cartographie des besoins? Enfin des compétences c'est pas pareil. Donc j'ai rajouté trois étapes par rapport à qualiopie. Mais vous quand vous butez sur une question et qui vous fait pas correctement la question et que vous recommencez 20 fois la même opération qui vous sort 20 fois la même la même mauvaise réponse au final.
+
+
+À la fin des comptes. Qui a gagné réellement du temps et d'énergie? Moi j'ai rajouté trois coups et après en 5 coups. On a que des documents. Perfects Vous avez économisé trois coups vous êtes peut-être après. À 15 ou 20 coups supplémentaires par étapes? Et c'est le début de la fin.
+
+
+Parce que dia elle a pas une mémoire infinie c'est pas on discute 20 ans là-bas. Ou voilà et pourquoi tout ça? Parce que statistiquement j'ai fait des recherches aussi là-dessus à partir. D'un certain nombre d'échanges d'accord les performances elles chutent. Mais de 80%. Donc ça veut dire quoi? Que en gros on est sur une course contre la montre.
+
+
+Dire que la personne qui qui a traîné au début. Qui a fait des échanges qui a perdu des crédits? D'accord. Quand on dépasse 10%, je pourrais vous montrer alors là je l'ai pas sur moi. Mais je pourrais vous montrer. Enfin je vous garantis pas mais en gros il y a une étude qui a été faite par open aïe qui regarde les différents modèles de langage et qui regardent.
+
+
+En fait quelle est la quantité d'information qui est retenue par l'IA? Le problème. C'est que à partir de 10 échanges. Liane retient que 16% des informations. Donc quand on me dit. Ouais j'ai tout fait avec chat gpt. Très bien OK Vous avez fait combien d'échanges? 20 30 40 50 et elle a répondu.
+
+
+Elle a répondu mais elle a travaillé avec 16% des connaissances. Ça c'est quand vous êtes au 11e coup quand on est au 20e coup là-bas là je sais pas où est-ce qu'on en est. Je sais pas si c'est le 0 à gauche d'une virgule ou si c'est du 2% du 01 ou du 3 ou du 4 ou du 10.
+
+
+Mais c'est quand même c'est quand même vachement inquiétant parce que ça veut dire que les sources ou les chances le potentiel d'hallucinations il est mais pharaonique. Et c'est ça la? La différence donc là maintenant? On a notre cartographie des compétences. D'accord. On a bien nos 40 heures. Ça c'est des petits mécanismes de contrôle assez simple qui montre que les consignes elles ont bien été appliquées.
+
+
+On a les modalités d'évaluation, etc. Et puis? Toujours cette petite indication à côté. Qui peut être enlevé? Si vous voulez l'enlever vous dites. Voilà moi j'ai pas besoin de ces justifications, je veux juste mes réponses. Français et voilà ça. C'est ma touche personnelle le contrôle de sanity pédagogique On est bien sur 12 compétences en 40 heures donc ça fait 0,3 compétences par.
+
+
+D'accord. On est sur. Comment? Alors je suis désolé, j'ai un trou de mémoire sur taxonomique. Je crois même que c'est presque la première fois que je vois ce mot.
+
+
+Alors on va voir donc très bonne opportunité c'est quoi? La taxe? Économique. Taxonomie s'est classements en fait.
+
+
+Échelle hiérarchie cognitive sur marjoint Blum.
+
+
+Voilà et ça c'est ce que je vous ai expliqué sur comment fonctionne le cerveau? Derrière donc là on utilise beaucoup aussi quand on fait de la remédiation.
+
+
+Reformuler reproduire les gestes enfin dans mon cas moi puisque c'est ça c'est ça etc et puis le mettre en mise en situation réelle ou en mise en situation. Exactement! Euh là donc du coup on a notre cartographie du besoin? On a notre sanity pédagogique donc vous voyez. En fait ce que je veux dire.
+
+
+C'est que? Le contrôle vous voyez il se fait? Il se fait tout seul. Oui, voilà! Alors ici là. Une démarche de certification. OK. Alors? Merci alors c'est bon entre nous il y en a qui dit s'il te plaît merci. Moi j'avais aussi cette habitude parce que on me l'a on me l'a inculqué.
+
+
+Mais ce n'est pas une personne de dire. Qu'est-ce que tu penses de ce bleu quoi? Voilà c'est à peu près la même chose. Néanmoins, dans une approche puriste, je vous conseille de ne pas user de ces termes. Il faut pas être violent ou agressif mais c'est pas la peine d'en rajouter une couche.
+
+
+Parce que en fait c'est de l'énergie. Qui est dispensé? Voilà, c'est 10% de pertes. En efficacité en ressources énergétique etc. Donc là on va dire ok très bien. Plein de formation passons plan au doc 4.
+
+
+Voilà et là on a vraiment. À toute la. Toutes les dimensions légales en fait. Notre fiche.
+
+
+Ok et vous pouvez vérifier autant que vous voulez, je l'ai fait des sortes de fois. Euh il y a une cohérence parfaite entre l'analyse des besoins. La cartographie. Des compétences? Et j'ai remarqué ça aussi. C'était bien structuré, c'était un enroulement parce que ça me convenait cette femme. Voilà j'ai aimé travailler avec ça.
+
+
+À cause de ça quoi? Parce que j'aime bien les histoires un peu brouillon qu'on fait sur le quand on grifouille un truc là c'est. Ça peut être du temps en fait alors veux-tu maintenant qu'on génère le doc 5? Et voyez on a passé du temps au début, on a passé plus de temps à essayer de comprendre les terminologies.
+
+
+Après c'est normal, c'est fait pour on est là pour ça. Et là maintenant ça y est on est sur. On est sur les rails là donc là je vais lui dire. Ok on peut passer.
+
+
+Donc là vous avez?
+
+
+Scénario qu'on peut demander aussi sous forme de matrice. Voilà donc!
+
+
+On propose d'ailleurs lui-même, il vous propose en fait à la fin il vous demande. Est-ce que vous voulez que on le fasse? Voilà, ben moi c'est ce que après on n'aura jamais alors ça c'est aussi le difficulté auquel j'ai dû faire face, c'est que l'IA est programmé pour ne jamais donner la même réponse.
+
+
+C'est super pour la créativité. C'est horrible quand on doit respecter des standards de documents. Parce que c'est là qu'on n'aura jamais le même type de document. D'accord. Là vous avez la possibilité de cartographie propose-moi sous forme de matrice? Et je vais aller plus loin. Je vais renforcer. C'est une astuce que je vous donne.
+
+
+Je vais dire. Respecte. Toujours? Des modèles? De documents par exemple.
+
+
+Parce que moi ça a été une demande que le ministère du Travail m'a demandé pour ça.
+
+
+C'est que? On oblige. On oblige l'IA à travailler selon une certaine structure une certaine manière. Maintenant? Pourquoi il a pas fait la matrice pour vous? Directement parce que. La complexité de la formation ne justifie pas. De passer à un document aussi costaud vous voyez ce que je veux parce que la matrice vous voyez la matrice.
+
+
+Elle est quand même déjà elle est beaucoup plus détaillée là. Parce que là on est sur le mode standard. Et on peut on peut passer d'un mode à un autre?
+
+
+J'avais tout ce que j'avais besoin de. Donc tu as directement les évaluations? Tu as directement le mode la modalité? Voilà Donc la méthode et les techniques donc moi ça.
+
+
+Et on a les modules et les séquences.
+
+
+Et là on a parlé les toutes les vérifications qui sont faites.
+
+
+Pareil! On a un ratio théorie pratique aussi.
+
+
+Donc là on va passer au dock 7 OK. Donc la fameuse grille terrier. Critères.
+
+
+Donc après vous allez pouvoir lui demander. Fais-moi le QCM. Fais-moi le quiz. Fais-moi l'atelier d'intégration. C'est ce que je disais, c'est la limite de ce qu'on verra aujourd'hui, faute de temps. Mais une fois qu'on a tout ça. Ben là vous pouvez. Alors comme je vous le dis Cali n'est pas prévu pour ça au départ mais elle s'en sort magnifiquement bien.
+
+
+J'ai été épatée. Donc là pour aujourd'hui donc on a fini avec. 4 minutes d'avance. Pourtant on a vraiment pris le temps. Est-ce que vous aurez imaginé faire autant en si peu de temps aussi propre et quali?
+
+
+Donc oui non c'est assez rapide quand même. De générer tous les documents utiles pour c'est ça c'est ça? A besoin de formation quoi par rapport à votre expérience de chat gpt seul? Est-ce que vous avez vu une vraie différence? Il y a une vraie différence. Une vraie différence vous voyez le Canada dry là?
+
+
+Comment? Quand on est sur table gpt seul. Euh la version la plus comment dire ça? Panique basique voilà on n'a pas, on est sur gpt 5 j'ai pas j'ai pas utilisé un autre mode. On est vraiment sur le sac classique quoi ouais ouais. Énormément la différence. Je dirais même qu'on est désavantagé parce que j'ai même pas je n'ai même pas les options.
+
+
+Qu'on a dans le chat normal parce que quand on est sur un assistant ils nous ont ils nous bride. On n'est pas sur le chat il y a déjà mais moi je suis convaincu que bah c'est ce qui fait la c'est ce qui fait la différence en tout cas.
+
+
+Est-ce que vous avez des remarques ou des questions? Moi j'ai une question. Comme? Vous parliez de? De la différenciation. Est-ce que c'est confidentiel? Enfin les résultats en fait quel par exemple je suis formateur? Du coup j'ai tous ces documents qui vont sortir pour répondre bien sûr. Par rapport à d'autres formateurs, c'est totalement séparé, il y a pas d'accès bien sûr.
+
+
+Alors oui c'est une excellente, ce sont des excellentes questions, premièrement, question simple. Est-ce que là avec votre tablette vous avez la possibilité de connaître mes chats? Sur mon compte privé. Impossible maintenant imaginons parce que ça c'est dans l'ordre des choses possibles. Que on soit à trois à utiliser le même compte.
+
+
+Chaque gpt là forcément. Les trois utilisateurs sauf si on n'efface pas la conversation, on aura accès parce qu'on a accès au même compte donc ça là dessus. Premièrement je vous rassure. Aucun comment appelle ça? Aucune chance que un autre utilisateur que vous et accès aux informations. Ensuite. Vous avez la possibilité mais ça ce sera dans la communauté.
+
+
+J'ai préparé des tutos qui expliquent comment protéger sa confidentialité pour que le modèle ne s'entraîne pas avec vos données d'accord? Ce qui est important aussi de le dire. C'est que kalia fonctionne avec un compte tchat gpt gratuit mais je le déconseille parce que vous ne pouvez pas régler ces paramètres de confidentialité.
+
+
+D'accord. La version? À 20 euros elle est très bien. D'ailleurs si vous voulez économiser de l'argent. D'accord. Vous pouvez utiliser un VPN vous mettre sur les États-Unis et vous paierez. Du coup 20 dollars donc c'est moins en euros et en plus je n'aurais pas les 5 euros de taxes de TVA.
+
+
+Parce que parce que c'est les États-Unis. Moins cher on paye moins cher. Vous avez encore une autre stratégie où là vous mettez votre VPN carrément sur l'Inde et au lieu de payer 20 euros? 17 non non non vous allez payer quelque chose comme 36 euros l'année. C'est cadeau. Donc voilà!
+
+
+Donc ça c'est un premier point. Ensuite au niveau de du prix du prix kalia. A été fixé à 297€ par mois sans engagement. Quand vous voyez le coup d'un ingénieur pédagogique? D'un copilote là, vous avez toute une toute une équipe là entre la veille. Comment la partie technique et puis surtout avoir un ingénieur pédagogique c'est bien mais un ingénieur pédagogique spécialisé dans votre thématique métier à vous.
+
+
+Je suis pas sûr que ça existe. C'est la limite, c'est la limite de l'homme quoi? Comme vous avez vu, ça fait gagner du temps ça fait. Ça fait gagner en compréhension parce qu'on n'est pas passif. D'accord on est conforme avec l'IA acte avec le cadre de l'usage de lia dans l'éducation.
+
+
+Voilà! Pourquoi? Parce que si vous faites un impair par exemple vous faites une évaluation? Peut-être que vous avez dû tester le truc. En fait, une évaluation avec un élève vous mettez l'évaluation pour avoir une correction. Par exemple, un rendu d'un élève. Faites une correction. Sachez que c'est complètement illégal.
+
+
+Pourquoi parce que vous avez mis dans le système? Des informations nominatives. Interdit. Euh l'erreur est humaine mais persévérum diabolikum persévérer. Enfin voilà c'est pas, c'est pas bon. Donc là la différence c'est que si on faisait le test et que je mettais une copine nominative d'un élève caliam dirait écoute.
+
+
+Tu as fait une erreur? T'aurais pas dû me donner ce document en l'état. Moi ce que je te propose c'est d'anonymiser le document où il va mettre un matricule à la place du nom prénom. Et si tu es d'accord avec ça, moi après je peux te faire la correction de cette copie anonyme.
+
+
+Ce que vous voyez toutes les subtilités. Derrière parce que je pense que le législateur en cas de contrôle il peut dire bon. Là où la fin l'erreur là. Mais bon si après derrière vous lui dites bah écoutez. Oui bien sûr j'ai fait une erreur même l'essentiel ignorer la loi surtout quand on nous fait un rappel.
+
+
+Donc moi en tant que fabricant j'ai ce devoirs. Quelque part de vous accompagner et de vous éviter. Le plus de enfin vous faire un parcours le plus le plus optimal possible. Et donc du coup vous allez avoir cette information après par contre voilà à partir du moment où moi j'ai affiché.
+
+
+Euh l'information ça il en ressort de votre responsabilité? Donc vous voyez là. On a un système qui est hyper complet. Ça on peut s'en servir pour faire de la veille, on peut s'en servir pour voilà là on a créé un cours mais on aurait pu prendre un cours déjà fait le donner et dire.
+
+
+Qu'est-ce que tu en penses? Est-ce que c'est bien? Est-ce que c'est pas bien? On n'a pas vu la partie développement des assets parce que il me faudrait quand même plus de temps. C'est pour ça que J'ai préparé des formations alors c'est pareil vu que les assets. On va dire que c'est pas la mission.
+
+
+Moi je le rappelle le périmètre c'est le plan l'architecture pas la construction du bâti. En fait j'ai prévu des formations alors il y en a qui sont gratuites comme celle de perplexité parce que moi je pars du principe que vérifier. L'information. C'est hyper important. Euh dans les formations payantes que je vais rajouter à côté.
+
+
+Ça va être par exemple. Comment générer automatiquement le PowerPoint? Mais le PowerPoint avec les images, le tutti quanti D'accord voilà donc ça ça va être des exemples aussi comment? Voilà! Imaginons J'ai travaillé pour parce que je suis aussi une agence de com. J'ai fait un site internet pour pour quelqu'un.
+
+
+Et on m'a donné. 160 documents qui faisaient au bas mot entre 20 et 450 pages. Que de la document? 160 documents. À 100 à 450 pages. Ça fait que de la documentation technique scientifique. Parce que c'est sur la lutte contre les nuisibles. Hautement juridique. Et totalement indigeste. Vous êtes d'accord que moi avec pas pas aucune expérience à part ça avec les moustiques?
+
+
+Comment c'est inhumain de traiter tout ça d'informations en si peu de temps, il m'a fallu en tout et pour tout. Allez une journée pour réfléchir au mécanisme de traitement. Et il m'a fallu une fois que le mécanisme de traitement était fait, il m'a fallu à peu près deux heures.
+
+
+Pour faire les 30 pages du site internet qui faisaient chacune entre enfin chaque page faisait 2000 mots. Et j'avais une couverture. Parfaite et là? Dites-vous L'entreprise en question. Ça fait six mois. Plus de 6 mois qu'elle est encore en train de corriger? Mes textes. Elle a pas trouvé d'erreur.
+
+
+Donc vous voyez enfin moi. Je dis ça parce que là vous avez évoqué tout à l'heure en fait qu'il y ait de la documentation hyper technique. Enfin, on est rentré dans les laboratoires etc. Il y a rien de surprenant là dedans. Quand on est dans le milieu c'est normal mais ce que je veux dire c'est que?
+
+
+Voilà pourquoi je dis que kalia sait faire partie d'un cercle c'est pas jusqu'à dire c'est pas juste alors c'est sans engagement. Vous n'êtes pas obligé de payer à l'année? Vous avez une grosse ingénierie un gros projet. Est parfait maintenant! Moi je pense que les l'optiques l'intérêt de caviar c'est de faire.
+
+
+Toute l'année pour une raison très simple, c'est que qualiopie impose une mise à jour de la formation tous les deux mois. Avec un versionning, c'est à dire mettre version 1 version 2 et il faut spécifier à chaque fois tous les changements qui ont été faits. Et ça c'est on a rajouté un module.
+
+
+Voilà version 2.1, etc etc et ça? Euh si je devais faire une une analogie. Je vois une vous êtes glacier. D'accord je vois votre vitrine moi je suis contrôleur d'hygiène et sécurité. J'arrive je viens je regarde votre. Votre thermomètre et c'est bon. Vous êtes à la température. Ok c'est comme ça que ça se passe un contrôle en flagrant délit etc.
+
+
+Mais un contrôle comme ça c'est tranquille. Mais par contre un contrôle qualiopi là là vous choppez pas la maille? Parce que ils vont dire d'accord OK? Vous avez on a pris la température la température elle est bonne. Moi ce que je veux c'est le relevé de toutes les températures depuis le début.
+
+
+Et à chaque fois qu'il y a un changement de température je veux la note. Qui explique le changement? Alors deux ans attendez deux ans donc 12 / 2 puisque c'est tous les deux mois ça fait 6. Ça veut dire que sur 12 ans bien sur deux ans, vous avez 12 mises à jour à faire minimum?
+
+
+Sachant qu'en plus. Vous avez l'obligation de d'adapter? Les exercices. À chacun de vos participants. Donc ça veut dire que le travail qu'on a fait là on n'a pas là on a tous les exercices là. Tous ces exercices. Il faudrait que je fasse une version pour chaque participant. Parce qu'il est hors de question qu'un participant.
+
+
+Apprennent une connaissance qui connaît déjà, il perd du temps. Et on fait perdre de l'argent à l'état et là en fait ce que là quand vous comprenez la beauté de can you be alors pour info. J'ai jamais fait appel au financement qualiopi. Mais mes deux parents sont profs. J'ai enseigné du thé à la part.
+
+
+Enfin je suis pas enfin je connais le milieu académique. Je connais le milieu de la formation professionnelle. C'est peut-être croiser vite fait. Je suis venu que deux semaines mais Saint-André moi oui c'est ça. D'accord. Mais et donc du coup? C'est que là rajouter. Le versionning? Sur deux ans, ça fait 12 versions à produire.
+
+
+Donc certes qu'il faut consigner chaque version, il faut consigner aussi derrière tous les changements de chaque version. À chaque là par exemple vous avez une version. Mais cette ce cours là vous allez le faire 10 fois pour 10 classes différentes et dans chaque classe il y a 10 élèves.
+
+
+Ouais mais il y a parfois il y a 10.000 euros 10 niveaux différents. Donc? Ça veut dire que il y a 10 classes x 10 version? D'exercices à produire et autant vous dire alors ça c'est une info. Je dirais. C'est un avis personnel. Je pense pas ou en tout cas je n'ai pas vu à mon niveau de professionnel.
+
+
+Qui respecte cette contrainte cette contrainte là? Moi je le fais. Mais je découpe de 4 8 personnes 2. Aujourd'hui c'est pas la quantité qui compte c'est la qualité de l'accompagnement ou de la transmission, c'est ça l'accompagnement. Euh pendant et à avant pendant et après ça ça prend c'est ça et là vous voyez que?
+
+
+Quand vous gagnez. Vous faites en deux heures? On a pris deux heures pour faire tout ça au lieu de 10 jours. Ce temps que vous avez gagné c'est ça qui va vous permettre de faire de l'individualisation après. Et là vous vous rendez compte? Mathématiquement que si vous voulez être conforme avec le système actuel.
+
+
+Personnellement j'ai cherché dans tous les sens. Je vous fais une confidence. Je suis quelqu'un de très paresseux c'est à dire que j'aime pas faire du travail pour faire du travail. J'ai pas trouvé moyen plus rapide plus efficace comme véhicule. Pour arriver à un résultat ultra quali. En un minimum de temps.
+
+
+Et là? Vous ne voyez que l'avant dernière version la dernière génération que j'ai fait. Je pense que je vais augmenter de. Je crois que j'ai dû diviser par deux la taille du code et j'ai dû augmenter par deux ou trois l'efficacité. Des réponses? Et la qualité des réponses, etc.
+
+
+Qui sera vraiment disponible et là dans même pas 5 jours. Donc voilà pour comment ça se passe quand? Comment accéder à kalia Ben? Une demande un lien? Il y a deux liens un lien vers la communauté que je suis en train de créer là là le produit n'existe pas.
+
+
+Pour l'instant là c'est du c'est du c'est du du c'est même pas du beta c'est. Enfin c'est là c'est un prototype ça. Euh qui fonctionne? Moi je l'ai testé pour mes formations pendant un an. Voilà donc voilà si vous voulez accéder à kaylia grosso modo Vous avez mon je vais vous donner mon contact.
+
+
+Vous pouvez noter toujours, c'est 06 93.
+
+
+39 70 et je vous donne mon mail également. C'est bonjour comme bonjour. @. Et je vais baisser la fenêtre un petit instant. D'accord. B comme bateau I comme Italie Z comme Zoro. D'accord. Donc si vous voulez? Vous lancer sur kalia.
+
+
+Donc si vous voulez lancer sur kalia vous m'envoyez un petit message. Moi je vous donne le lien. Ouais ou même par WhatsApp? Voilà donc! Vous m'appelez vous me contacter SMS appel mail comme vous voulez je vous envoie le lien. Vous cliquez dessus? Ça va s'ouvrir sur votre compte chat gptalia qui est ouvert astuce que je vous donne.
+
+
+Que vous mettez ici là les trois petits points donc là je me mets sur kalia et vous mettez ici. Voilà et vous mettez pas masqué dans la barre Delta vous dites enregistrer dans la barre latérale comme ça ça apparaîtra toujours ici. Ok une question de mettre des documents, comment vous faites pour mettre des dossiers?
+
+
+C'est très simple. Vous ajoutez ici vous ajoutez soit dans le drive soit vous allez chercher vos fichiers. Voilà donc si par exemple. Euh cette norme NF. 89 189 voilà, c'est un document PDF que vous avez. Vous pouvez lui dire carrément hop. Je te donne le document, vous aurez encore plus de précisions.
+
+
+D'accord ça ça fera partie des astuces que je vous donnerai dans les lives, la communauté. Donc, quand vous rentrez dans kalia, vous avez un accès à vie. Même si vous avez pris quelques pour un mois, vous avez accès à vie à la communauté parce que elle est dynamique. Attention.
+
+
+Pour la démarre à l'heure actuelle, j'ai créé le contenu. Je n'ai pas encore mis sur la plateforme mais. Un live par mois? La possibilité pour les membres de faire des posts du style? Tiens, je suis en galère là etc. Vous avez des gens comme vous consciencieux comme vous qui vous répondent d'accord des gens qui partagent vos valeurs c'est important.
+
+
+Aussi en même temps. Et? Comment vous avez accès à des masterclass? Gratuite et payante? Ça dépend des besoins de chacun mais par exemple faire un PowerPoint une développée ça peut être hyper intéressant pour certains pour d'autres manipulations d'extincteurs les gars ils font pas de PowerPoint. Moi je te dire.
+
+
+C'est clair! Euh par contre. La VSL c'est les vidéos de vente. Une vidéo qui va te permettre de vendre. Et de faire un maximum de convaincre au maximum ça ça peut intéresser parce que là c'est ça qui va remplir ta salle de classe. C'est le petit plus que que tu vas donner à côté du plan de formation.
+
+
+Vous avez vu? Donc la vidéo qu'on a vu de tout à l'heure là. Quelques minutes quelques secondes vous avez vu l'impact l'efficacité que ça c'est c'est enfin ça fait une différence qui est tout simplement énorme donc voilà je pense à plein de modules comme ça à la demande à la carte ils apparaîtront pas tous en même temps le temps de les fabriquer aussi parce que pour faire des vidéos de cette qualité c'est pas pareil que ouais.
+
+
+Salut ben c'est remue. Bah voilà aujourd'hui on va voir ça. Enfin ça demande un temps de travail qui est largement plus conséquent. Mes questions maintenant c'est déjà. Est-ce que vous avez aimé cette séance aujourd'hui? C'était intéressant. J'en ai pas vraiment besoin de cet outil pour l'instant. Ce que je suis vraiment au début de la démarche.
+
+
+Mais c'était intéressant de voir qui est capable de faire un outil. C'est un outil professionnel. Est-ce que par rapport à ce que vous avez vu concernant l'outil pas la séance qu'on a vu aujourd'hui, vous avez des retours à faire que soit sur la manipulation, l'utilisation la qualité des réponses, etc.
+
+
+Enfin, tout retour positif ou négatif. On fait en ce sens. Voilà non je pense que c'était bien farine l'outil me semble bien. Non il est vraiment accès. Enfin moi ce que je ressens c'est que c'était vraiment accès enfin rendu caliopie Voilà! Je pense que enfin voilà. Non c'était c'est bien.
+
+
+À quelqu'un qui a pas envie de passer des heures sur chaque gpt, quoi en gros? Oui oui c'est ça c'est ça parce que Quelque chose de similaire mais en ayant et puis c'est vite les fautes aussi je pense c'est ça le plus le plus important c'est je pense éviter les fautes.
+
+
+Tout seul. Il faut que tu sois vraiment les mots clés exactement. Il faut une maîtrise. Je pense qu'il faut une maîtrise. Clairement alors là je recherche quelque chose pour vous montrer. Parce que j'ai fait en fait. Comme on appelle ça. Je retrouverai plus tard. En fait j'ai fait un.
+
+
+Un simulateur de rentabilité et en gros. Quelqu'un qui utilise kalia à l'année va économiser plus de 250 heures. Et va faire plus de? 15000 euros d'économie par an. En payant kalia. Et en l'utilisant pour des ingénieries de formation faite. Donc là je travaille sur ce simulateur mais. Grosso modo.
+
+
+Comment? Je pense que ça apporte beaucoup de valeur beaucoup de valeur. Et là je vais vous montrer quelque chose vu qu'on a fini. Je vais arrêter l'enregistrement.
