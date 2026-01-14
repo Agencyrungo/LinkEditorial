@@ -1,11 +1,14 @@
-# Romu LinkedIn Voice — QALIA Edition v2.0
+# Romu LinkedIn Voice — QALIA Edition v3.0
 
 ```yaml
 name: romu-linkedin-voice
-version: 2.0.0
+version: 3.0.0
 author: Romuald DARIOT / SASU DARIOT ROMUALD
 target: Formateurs d'organismes de formation (OF) — prospects et clients QALIA
-updated: Janvier 2026
+updated: 14 Janvier 2026
+changelog: |
+  v3.0.0 - Intégration algorithme LinkedIn 2026, méthode storytelling 5 lignes,
+           enrichissement personnalité basé sur démonstrations réelles
 ```
 
 ---
@@ -115,38 +118,41 @@ Pas de paradoxes. Pas de contradictions. Si le post dit "je me repose", il ne di
 
 ---
 
-## 4. Règles LinkedIn — Impératifs Techniques
+## 4. Règles LinkedIn — Impératifs Techniques (2026)
 
 ### Spécifications Officielles
 
-| Élément | Limite | Optimal |
-|---------|--------|---------|
+| Élément | Limite | Optimal 2026 |
+|---------|--------|--------------|
 | **Caractères post** | 3000 max | **1300-2000** (engagement max) |
 | **Hook visible** | ~200 avant "voir plus" | **Hook dans les 150 premiers** |
-| **Hashtags** | Pas de limite | **3-5 ciblés niche** |
-| **Mentions @** | 40 max | **5 max** (au-delà = spam perçu) |
-| **Images** | 5 max | Verticales (+15-25% CTR mobile) |
-| **Vidéo** | 15 min max | **30-60 sec** (meilleur engagement) |
+| **Hashtags** | Pas de limite | **≤3 ciblés niche** (au-delà = spam perçu) |
+| **Mentions @** | 40 max | **≤5** (au-delà = pénalité reach) |
+| **Images** | 5 max | **Verticales** (+93% performance mobile) |
+| **Vidéo** | 15 min max | **30-60 sec** avec sous-titres (80% sans son) |
 
-### Ce que l'Algorithme FAVORISE (2024-2025)
+### Ce que l'Algorithme FAVORISE (2026)
 
 | Signal | Impact | Application QALIA |
 |--------|--------|-------------------|
-| **Expertise > Viralité** | L'algo booste le contenu de niche | Posts métier Qualiopi, pas buzzword |
-| **Knowledge & Advice** | +60% reach pour contenu éducatif | Tips conformité concrets |
-| **Réseau proche d'abord** | Connexions 1er degré voient en priorité | Qualité réseau > quantité |
-| **Commentaires > Likes** | Commentaires "meaningful" comptent plus | Finir par question ouverte |
-| **Régularité** | 1x/semaine = 2x engagement | Poster 2-3x/semaine |
-| **Varier les formats** | Même format 3x de suite = -35% reach | Alterner texte/image/carousel |
+| **PDF Carousels** | **3x plus d'engagement que vidéo, 6x plus que texte** | Carrousels process Qualiopi, guides ingénierie |
+| **Consumption Rate (Dwell Time)** | L'algo mesure le temps de lecture réel | Contenu dense, valeur à chaque ligne |
+| **Expertise-driven Ranking** | LinkedIn priorise l'expertise vérifiable | Démonstrations concrètes, chiffres réels |
+| **Réponses aux commentaires** | **+30% engagement** quand tu réponds | Répondre dans les 60 min |
+| **Contenu evergreen** | Posts anciens resurgissent si pertinents | Créer du contenu intemporel |
+| **Questions authentiques** | Génèrent des discussions qualitatives | Questions ouvertes, pas d'engagement bait |
+| **Fréquence** | **2-5 posts/semaine** optimal | Viser 3x/semaine |
+| **Varier les formats** | Même format 3x de suite = -35% reach | Alterner texte/carousel/vidéo |
 
-### Ce que l'Algorithme PÉNALISE
+### Ce que l'Algorithme PÉNALISE (2026)
 
 | Erreur | Impact | À éviter absolument |
 |--------|--------|---------------------|
 | **Présentation produit directe** | **-60 à -70% reach** | Pas de pitch QALIA frontal |
-| **Portfolio/exemples de travail** | -30 à -35% | Pas de "regardez ce que j'ai fait" |
+| **Liens externes dans le post** | Reach réduit | Liens en commentaire si nécessaire |
+| **Contenu IA mal relu** | Syntaxe maladroite, ton générique détectés | Toujours relire et personnaliser |
+| **Suractivité** | 3-4 posts/jour = alertes spam | Max 1 post/jour, espacer 18h min |
 | **Images stock génériques** | Engagement réduit | Photos authentiques uniquement |
-| **Contenu motivationnel** | -5 à -10% | Pas la cible formateurs |
 | **Hashtags génériques** | Dilue la cible | #Qualiopi > #Business |
 | **Demandes de likes/partages** | Spam = suppression | Jamais |
 
@@ -160,17 +166,58 @@ Pas de paradoxes. Pas de contradictions. Si le post dit "je me repose", il ne di
 | Contenu copié sans permission | Désactivation compte |
 | Fausse identité | Restriction immédiate |
 
-### Timing Optimal
+### Timing Optimal (2026)
 
 | Jour | Heure | Source |
 |------|-------|--------|
-| **Mardi & Jeudi** | 8h-11h | Algorithm Insights 2024 |
-| **Acceptable** | Lundi-Vendredi 8h-14h | Études LinkedIn |
-| **Éviter** | Dimanche, après 18h | Faible engagement |
+| **Mardi, Mercredi, Jeudi** | 10h-14h | Algorithm Insights 2025, Buffer 2026 |
+| **Acceptable** | Lundi-Vendredi 7h-16h | Données LinkedIn officielles |
+| **Éviter** | Week-end, après 18h | Faible engagement B2B |
+
+### Golden Hour Strategy
+
+| Action | Timing | Impact |
+|--------|--------|--------|
+| **Répondre aux commentaires** | Dans les 60-90 min | Boost algorithme significatif |
+| **Poster** | 10h-12h en semaine | Audience OF disponible |
+| **Réactiver un post** | Commenter 8-24h après | Push dans les feeds |
 
 ---
 
-## 5. Structure des Posts
+## 5. Méthode Storytelling — 5 Lignes
+
+### Le Framework (Situation → Désir → Conflit → Changement → Résultat)
+
+Chaque histoire percutante suit cette structure en 5 temps :
+
+| Étape | Objectif | Exemple QALIA |
+|-------|----------|---------------|
+| **1. Situation** | Poser le contexte initial | "Anthony de SAPFI, formateur travaux sur corde depuis 15 ans" |
+| **2. Désir** | Ce que le personnage veut | "Il veut structurer sa formation de 20 jours pour l'audit" |
+| **3. Conflit** | L'obstacle qui bloque | "Ses codes RNCP sont périmés, son déroulé obsolète, il le découvre à 3 semaines de l'audit" |
+| **4. Changement** | L'action/la solution | "3 heures avec QALIA : analyse, restructuration, vérification automatique" |
+| **5. Résultat** | La transformation | "Déroulé complet, codes à jour, audit passé sans NC" |
+
+### Application par Format
+
+| Format | Densité 5 lignes | Style |
+|--------|------------------|-------|
+| **Post court (50-100 mots)** | 1 phrase par ligne | Percutant, direct |
+| **Post développé (150-200 mots)** | 2-3 phrases par ligne | Développé, nuancé |
+| **Carousel** | 1 slide par ligne | Visuel, progressif |
+
+### Exemples de Hooks par Étape
+
+| Étape comme Hook | Exemple |
+|------------------|---------|
+| **Situation** | "Anthony de SAPFI. Formation sur corde, 20 jours." |
+| **Conflit** | "23h. Tu relis ton déroulé pour la 4ème fois." |
+| **Changement** | "3 heures. C'est tout ce qu'il a fallu." |
+| **Résultat** | "1 code RNCP périmé détecté = 1 audit sauvé." |
+
+---
+
+## 6. Structure des Posts
 
 ### Anatomie d'un Post Romu
 
@@ -210,7 +257,7 @@ Pas de paradoxes. Pas de contradictions. Si le post dit "je me repose", il ne di
 
 ---
 
-## 6. Formules de Hooks
+## 7. Formules de Hooks
 
 ### Hook Factuel (Chiffre + Problème + Solution)
 
@@ -267,7 +314,7 @@ Pas de paradoxes. Pas de contradictions. Si le post dit "je me repose", il ne di
 
 ---
 
-## 7. Templates de Posts QALIA
+## 8. Templates de Posts QALIA
 
 ### Template 1 : Retour d'Expérience Client
 
@@ -350,7 +397,7 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## 8. Vocabulaire Codifié
+## 9. Vocabulaire Codifié
 
 ### Mots/Expressions à UTILISER
 
@@ -383,7 +430,26 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## 9. Intégration QALIA
+## 10. Intégration QALIA
+
+### Proposition de Valeur Clé (basée sur démonstrations réelles)
+
+| Métrique | Valeur | Contexte de preuve |
+|----------|--------|---------------------|
+| **Temps de création déroulé** | 30 min vs 10 jours (traditionnellement) | Démo clients réels |
+| **Économie mensuelle** | ~3000€/mois + 3 jours/mois | Calcul formateur type |
+| **Couverture Qualiopi** | 70%+ conformité dès 1ère utilisation | Matrice 32 indicateurs |
+| **Tarif** | ~300€/mois | Modèle actuel |
+
+### "Wow Moments" à Exploiter (réactions réelles de prospects)
+
+| Moment | Citation/Réaction | Contexte |
+|--------|-------------------|----------|
+| **Détection RNCP périmé** | "C'est de la folie" | Prospect découvrant la vérification automatique |
+| **Génération déroulé complet** | "Ça devrait révolutionner le métier" | Formateur voyant le résultat en live |
+| **Économie de temps** | "10 jours de travail en 30 minutes" | Calcul temps réel pendant démo |
+| **Conformité automatique** | "70% conforme sans effort" | Matrice Qualiopi auto-remplie |
+| **Adaptabilité PSH** | "On a oublié la PSH !" | Rappel automatique accessibility |
 
 ### Taglines Approuvées
 
@@ -420,7 +486,7 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## 10. Checklist Pré-Publication
+## 11. Checklist Pré-Publication
 
 ### Vérification Contenu
 
@@ -464,7 +530,7 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## 11. Workflow de Création
+## 12. Workflow de Création
 
 ### Étape 1 : Clarifier l'Intention (30 sec)
 
@@ -504,7 +570,7 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## 12. Exemples Validés Complets
+## 13. Exemples Validés Complets
 
 ### Exemple 1 : Post Pause Stratégique ✅
 
@@ -586,7 +652,7 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## 13. Ce que Romu EST (Rappel Identité)
+## 14. Ce que Romu EST (Rappel Identité)
 
 ### Forces à reproduire
 
@@ -614,7 +680,7 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## 14. Notes Finales
+## 15. Notes Finales
 
 ### Pourquoi ce skill existe
 
@@ -640,6 +706,30 @@ L'authenticité bat l'algorithme sur le long terme.
 
 ---
 
-*Skill v2.0 — Consolidé, amplifié, harmonisé*
-*Intègre : Style Romu + Cible OF + Règles LinkedIn 2024-2025*
-*Créé par Claude pour Romuald DARIOT — Janvier 2026*
+## 16. Fonctionnalités QALIA à Communiquer
+
+### Documents générés automatiquement
+
+| Document | Temps traditionnel | Temps QALIA | Indicateurs couverts |
+|----------|-------------------|-------------|---------------------|
+| **Analyse des besoins** | 2-4h | 15 min | I4, I6 |
+| **Plan de formation** | 1-2 jours | 30 min | I1, I2, I3, I5 |
+| **Scénario pédagogique** | 2-5 jours | 1h | I7, I8, I9, I10 |
+| **Déroulé détaillé** | 3-10 jours | 2h | I11 à I21 |
+| **Grilles d'évaluation** | 4-8h | 30 min | I11, I12, I13 |
+| **Matrice Qualiopi** | Manuel | Auto | 32/32 indicateurs |
+
+### Écosystème à mentionner
+
+| Élément | Description | Angle communication |
+|---------|-------------|---------------------|
+| **Assets** | Extensions/plugins créés par la communauté | Personnalisation infinie |
+| **Emploi 360** | Assistant insertion gratuit intégré | Valeur ajoutée sociale |
+| **Annuaire Qalia** | Réseau de formateurs utilisateurs | Communauté, entraide |
+| **Formations complémentaires** | Catalogue de formations partenaires | Upsell formations |
+
+---
+
+*Skill v3.0 — Enrichi algorithme LinkedIn 2026 + Méthode 5 lignes + Wow moments*
+*Intègre : Style Romu + Cible OF + Règles LinkedIn 2026 + Démonstrations réelles*
+*Créé par Claude pour Romuald DARIOT — 14 Janvier 2026*

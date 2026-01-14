@@ -8,18 +8,18 @@
 
 | # | Date | Type | Format | Objectif |
 |---|------|------|--------|----------|
-| 22 | Mar 4 mars | Preuve sociale | Carousel 6 slides | Compilation témoignages |
-| 23 | Jeu 6 mars | Teaser | Vidéo 45 sec | Masterclass teaser |
-| 24 | Sam 8 mars | Positionnement | Texte seul | Position marché / différenciation |
-| 25 | Mar 11 mars | Preuve sociale | Texte + image | Cas client approfondi |
-| 26 | Jeu 13 mars | Storytelling | Vidéo 90 sec | Behind the scenes studio |
-| 27 | Sam 15 mars | Engagement | Texte seul | Question stratégique |
-| 28 | Mar 18 mars | Éducation | Texte seul | Insight exclusif (données internes) |
-| 29 | Jeu 20 mars | Storytelling | Texte seul | 1 an de QALIA — le chemin |
-| 30 | Sam 22 mars | Positionnement | Texte seul | Philosophie long terme |
-| 31 | Mar 25 mars | Annonce | Texte + image | Nouveauté produit |
-| 32 | Jeu 27 mars | Preuve sociale | Carousel 8 slides | Témoignage premium détaillé |
-| 33 | Sam 29 mars | Bilan | Texte seul | Bilan Q1 + annonce Q2 |
+| 19 | Mar 3 mars | Preuve sociale | Carousel 6 slides | Compilation témoignages |
+| 20 | Jeu 5 mars | Teaser | Vidéo 45 sec | Masterclass teaser |
+| 21 | Sam 7 mars | Positionnement | Texte seul | Position marché / différenciation |
+| 22 | Mar 10 mars | Preuve sociale | Texte + image | Cas client approfondi |
+| 23 | Jeu 12 mars | Storytelling | Vidéo 90 sec | Behind the scenes studio |
+| 24 | Sam 14 mars | Engagement | Texte seul | Question stratégique |
+| 25 | Mar 17 mars | Éducation | Texte seul | Insight exclusif (données internes) |
+| 26 | Jeu 19 mars | Storytelling | Texte seul | 6 mois de QALIA — le chemin |
+| 27 | Sam 21 mars | Positionnement | Texte seul | Philosophie long terme |
+| 28 | Mar 24 mars | Annonce | Texte + image | Nouveauté produit |
+| 29 | Jeu 26 mars | Preuve sociale | Carousel 8 slides | Témoignage premium détaillé |
+| 30 | Sam 28 mars | Bilan | Texte seul | Bilan Q1 + annonce Q2 |
 
 ---
 
@@ -807,5 +807,6 @@ Q2 commence. On continue.
 
 ---
 
-*Posts créés en conformité avec le Skill romu-linkedin-voice v2.0*
+*Posts créés en conformité avec le Skill romu-linkedin-voice v3.0*
+*Règles LinkedIn 2026*
 *Mars 2026*

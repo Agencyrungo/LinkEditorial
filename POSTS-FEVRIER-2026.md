@@ -8,21 +8,21 @@
 
 | # | Date | Type | Format | Objectif |
 |---|------|------|--------|----------|
-| 11 | Mar 4 fév | Preuve sociale | Texte + image | Témoignage client #2 |
-| 12 | Jeu 6 fév | Teaser | Texte + image | Annonce studio / première vidéo |
-| 13 | Sam 8 fév | Éducation | Texte seul | Insight conformité technique |
-| 14 | Mar 11 fév | Éducation | Carousel 8 slides | Avant/Après concret |
-| 15 | Jeu 13 fév | Storytelling | Texte seul | Pourquoi j'ai créé QALIA |
-| 16 | Sam 15 fév | Engagement | Texte + image | Question audit |
-| 17 | Mar 18 fév | Preuve sociale | Texte + image | Témoignage client #3 |
-| 18 | Jeu 20 fév | Éducation | Vidéo 60 sec | Process QALIA (facecam studio) |
-| 19 | Sam 22 fév | Positionnement | Texte seul | Philosophie copilote approfondie |
-| 20 | Mar 25 fév | Bilan | Texte + image | Bilan 1 mois premiers clients |
-| 21 | Jeu 27 fév | Offre | Texte seul | Annonce structurée (pas pitch) |
+| 8 | Mar 3 fév | Preuve sociale | Texte + image | Témoignage client #2 |
+| 9 | Jeu 5 fév | Teaser | Vidéo 30 sec | Présentation studio |
+| 10 | Sam 7 fév | Éducation | Texte seul | Insight conformité technique |
+| 11 | Mar 10 fév | Éducation | Carousel 8 slides | Avant/Après concret |
+| 12 | Jeu 12 fév | Storytelling | Texte seul | Pourquoi j'ai créé QALIA |
+| 13 | Sam 14 fév | Engagement | Texte + image | Question audit |
+| 14 | Mar 17 fév | Preuve sociale | Texte + image | Témoignage client #3 |
+| 15 | Jeu 19 fév | Éducation | Vidéo 60 sec | Process QALIA (facecam) |
+| 16 | Sam 21 fév | Positionnement | Texte seul | Philosophie copilote |
+| 17 | Mar 24 fév | Bilan | Texte + image | Bilan 1 mois clients |
+| 18 | Jeu 26 fév | Offre | Carousel 6 slides | Présentation offre |
 
 ---
 
-## POST #11 — Mardi 4 février
+## POST #8 — Mardi 3 février
 **Type :** Preuve sociale
 **Format :** Texte + image
 **Objectif :** Deuxième témoignage client
@@ -30,11 +30,11 @@
 ---
 
 ```
-[Prénom] de [Organisme]. Formatrice depuis 12 ans.
+Marie, formatrice bureautique. 15 ans d'expérience.
 
 Sa situation avant : 3 jours pour monter un déroulé pédagogique complet. Seule. Sans certitude que ce soit conforme.
 
-Sa situation après QALIA : le même déroulé en une demi-journée. Vérifié. Cohérent. Audit-ready.
+Sa situation après QALIA : le même déroulé en 2 heures. Vérifié. Cohérent. Audit-ready.
 
 Ce qu'elle m'a dit :
 
@@ -46,106 +46,108 @@ Pas pour remplacer. Pour rendre du temps.
 
 🇷🇪
 
-#Qualiopi #FormationProfessionnelle #OrganismesDeFormation
+#Qualiopi #FormationProfessionnelle
 ```
 
 ---
 
-**Image suggérée :** Photo de la formatrice (avec accord) OU visuel sobre "Témoignage client" avec la citation clé.
+**Analyse storytelling :**
+- **Situation** : Marie, 15 ans formatrice, seule
+- **Désir** : Créer un déroulé conforme sans douter
+- **Conflit** : 3 jours de travail, doute permanent
+- **Changement** : QALIA en 2h avec guidage
+- **Résultat** : Temps récupéré, conformité assurée
 
-**Notes :**
-- Adapter avec le vrai témoignage collecté en janvier
-- Structure : Avant → Après → Citation → Philosophie
-- 97 mots
+**Note :** Témoignage à anonymiser si nécessaire (nom modifié)
 
 ---
 
-## POST #12 — Jeudi 6 février
+## POST #9 — Jeudi 5 février
 **Type :** Teaser
-**Format :** Texte + image
-**Objectif :** Annoncer le studio, créer l'attente pour la vidéo
+**Format :** Vidéo 30 sec
+**Objectif :** Présenter le studio, créer l'attente
 
 ---
 
+**Script vidéo :**
+```
+[Plan : Romu assis dans fauteuil style 60s, studio Mad Men]
+
+"Bienvenue dans mon nouveau studio.
+
+Pourquoi un studio ? Parce qu'en 2026, je veux vous parler comme si on était assis en face.
+
+Pas de slides PowerPoint.
+Pas de voix off robotique.
+Juste moi, et ce que j'ai appris en 5 ans à accompagner des formateurs.
+
+Les premières vidéos arrivent. Restez connectés.
+
+Partagé. Pas remplacé."
+
+[Fin]
+```
+
+**Post accompagnant :**
 ```
 Le studio est prêt.
 
 Fauteuil années 60. Facecam. Ambiance Mad Men.
 
-Pourquoi ce choix ? Parce que je veux vous parler comme si on était assis en face.
+En 2026, QALIA passe de l'écrit à la vidéo.
 
-Pas de slides PowerPoint. Pas de voix off robotique. Juste moi, mon expérience, et ce que j'ai appris en accompagnant des formateurs depuis 5 ans.
+Des contenus de fond sur Qualiopi.
+Des tutoriels QALIA.
+Des portraits de formateurs.
 
-Première vidéo la semaine prochaine.
-
-Sujet : comment QALIA transforme 40h de paperasse en 5h de documentation structurée.
-
-Stay tuned.
+Première vidéo longue : la semaine prochaine.
 
 🇷🇪
 
-#Qualiopi #FormationProfessionnelle #Contenu
+#Qualiopi #FormationProfessionnelle
 ```
 
 ---
 
-**Image suggérée :** Photo du studio (fauteuil, setup, ambiance). Authentique, pas trop léché.
-
-**Notes :**
-- Teaser = crée l'attente
-- Référence Mad Men = différenciation
-- Annonce concrète (semaine prochaine)
-- 85 mots
-
----
-
-## POST #13 — Samedi 8 février
-**Type :** Éducation métier
+## POST #10 — Samedi 7 février
+**Type :** Éducation
 **Format :** Texte seul
-**Objectif :** Démontrer expertise technique Qualiopi
+**Objectif :** Insight conformité technique
 
 ---
 
 ```
-Indicateur 11 : "L'évaluation de l'atteinte des objectifs."
+32 indicateurs Qualiopi. 22 obligatoires. 10 conditionnels.
 
-Sur le papier, c'est simple.
+Mais combien d'OF savent vraiment lesquels les concernent ?
 
-En pratique, c'est là que beaucoup d'audits se compliquent.
+La réponse : très peu.
 
-Pourquoi ? Parce qu'il y a un piège.
+Parce que ça dépend de ta catégorie d'actions :
+→ AFC (Actions de Formation)
+→ BC (Bilan de Compétences)
+→ VAE (Validation des Acquis)
+→ CFA (Centre de Formation d'Apprentis)
 
-Tu peux avoir des objectifs. Tu peux avoir des évaluations. Mais si les deux ne sont pas alignés, l'auditeur le voit.
+Un OF qui fait de l'AFC n'a pas les mêmes obligations qu'un CFA.
 
-Objectif : "Être capable de créer un tableau croisé dynamique"
-Évaluation : QCM sur les formules Excel
+Et pourtant, beaucoup préparent leur audit comme si tout était obligatoire.
 
-→ Incohérence. NC potentielle.
+Résultat : du temps perdu sur des indicateurs qui ne les concernent pas.
+Et des indicateurs critiques négligés.
 
-La conformité, ce n'est pas cocher des cases. C'est construire un système où chaque élément répond aux autres.
+Avant ton prochain audit, vérifie ta matrice.
+Pas celle d'un autre.
 
-Objectifs → Méthodes → Évaluations → Preuves.
-
-Une chaîne. Pas des cases isolées.
-
-#Qualiopi #IngéniériePédagogique #OrganismesDeFormation
+#Qualiopi #OrganismesDeFormation
 ```
 
 ---
 
-**Notes :**
-- Insight technique précis (Indicateur 11)
-- Exemple concret d'incohérence
-- Vocabulaire métier (NC, indicateur)
-- Pas de mention QALIA = pure valeur éducative
-- 118 mots
-
----
-
-## POST #14 — Mardi 11 février
+## POST #11 — Mardi 10 février
 **Type :** Éducation
 **Format :** Carousel 8 slides
-**Objectif :** Montrer un avant/après concret
+**Objectif :** Montrer transformation avant/après
 
 ---
 
@@ -153,9 +155,8 @@ Une chaîne. Pas des cases isolées.
 ```
 AVANT / APRÈS QALIA
 
-Le même déroulé pédagogique.
-Deux approches.
-Deux résultats.
+Ce que 30 minutes changent
+dans ton ingénierie de formation.
 
 👇 Swipe
 ```
@@ -193,7 +194,7 @@ Total : 24 heures de travail
 ❌ AVANT (Les problèmes)
 
 → Objectifs parfois flous
-   ("Comprendre le management")
+  ("Comprendre le management")
 
 → Incohérence méthodes/objectifs
 
@@ -202,7 +203,7 @@ Total : 24 heures de travail
 → Aucune vérification conformité
 
 → Doute permanent :
-   "Est-ce que c'est bon ?"
+  "Est-ce que c'est bon ?"
 ```
 
 ### Slide 5
@@ -211,7 +212,7 @@ Total : 24 heures de travail
 
 Temps passé : 3 heures
 
-→ 30 min : Analyse des besoins (maïeutique)
+→ 30 min : Analyse des besoins
 → 45 min : Objectifs générés (Bloom)
 → 1h : Séquençage complet
 → 30 min : Évaluations alignées
@@ -225,8 +226,8 @@ Total : 3 heures
 ✅ APRÈS (Les résultats)
 
 → Objectifs évaluables et précis
-   ("Conduire un entretien de recadrage
-   en appliquant la méthode DESC")
+  ("Conduire un entretien
+  en appliquant la méthode DESC")
 
 → Cohérence totale du parcours
 
@@ -249,7 +250,7 @@ Valeur horaire moyenne : 80€
 Sur 10 déroulés/an :
 → 16 800€ récupérés
 
-QALIA : 299€/mois = 3 588€/an
+QALIA : ~300€/mois = 3 600€/an
 
 ROI : x4,7
 ```
@@ -263,7 +264,6 @@ C'est un système.
 QALIA ne fait pas à ta place.
 Il structure ce que tu sais.
 Il vérifie ce que tu peux oublier.
-Il te rend du temps.
 
 Tu parles, il structure.
 Tu relis, il ajuste.
@@ -275,18 +275,10 @@ Tu relis, il ajuste.
 
 ---
 
-**Notes :**
-- Avant/Après = format qui convertit
-- Chiffres concrets et vérifiables
-- ROI calculé = argument rationnel
-- CTA sobre en fin
-
----
-
-## POST #15 — Jeudi 13 février
+## POST #12 — Jeudi 12 février
 **Type :** Storytelling
 **Format :** Texte seul
-**Objectif :** Pourquoi j'ai créé QALIA (origine story)
+**Objectif :** Pourquoi j'ai créé QALIA (origin story)
 
 ---
 
@@ -307,7 +299,9 @@ J'ai cherché des solutions. Templates, outils, méthodes. Rien ne fonctionnait 
 
 Alors j'ai construit ce qui n'existait pas.
 
-Un assistant qui comprend le métier. Qui parle Qualiopi. Qui vérifie ce que l'humain peut oublier.
+Un assistant qui comprend le métier.
+Qui parle Qualiopi.
+Qui vérifie ce que l'humain peut oublier.
 
 Pas pour remplacer le formateur. Pour lui rendre son métier.
 
@@ -322,18 +316,10 @@ QALIA, c'est ça.
 
 ---
 
-**Notes :**
-- Origin story = crée la connexion
-- Chiffres vrais (4 ans, 50 versions)
-- Problème → Recherche → Solution
-- 142 mots
-
----
-
-## POST #16 — Samedi 15 février
+## POST #13 — Samedi 14 février
 **Type :** Engagement
 **Format :** Texte + image
-**Objectif :** Générer des commentaires, identifier les prospects chauds
+**Objectif :** Générer des commentaires
 
 ---
 
@@ -342,11 +328,14 @@ Ton prochain audit Qualiopi est dans moins de 3 mois ?
 
 Voici 3 questions à te poser maintenant :
 
-1. Tes codes RNCP sont-ils tous actifs ? (Vérifié quand pour la dernière fois ?)
+1. Tes codes RNCP sont-ils tous actifs ?
+   (Vérifié quand pour la dernière fois ?)
 
-2. Tes objectifs pédagogiques sont-ils évaluables ? (Pas "comprendre", mais "être capable de...")
+2. Tes objectifs pédagogiques sont-ils évaluables ?
+   (Pas "comprendre", mais "être capable de...")
 
-3. Tes évaluations mesurent-elles vraiment l'atteinte des objectifs ? (Cohérence totale ?)
+3. Tes évaluations mesurent-elles vraiment l'atteinte des objectifs ?
+   (Cohérence totale ?)
 
 Si tu as hésité sur une seule de ces questions, tu as du travail.
 
@@ -358,111 +347,83 @@ Tu as un audit qui approche ?
 
 🇷🇪
 
-#Qualiopi #Audit #OrganismesDeFormation
+#Qualiopi #OrganismesDeFormation
 ```
 
 ---
 
-**Image suggérée :** Calendrier avec une date entourée OU visuel sobre "Audit dans 3 mois ?"
-
-**Notes :**
-- Questions = auto-diagnostic
-- Crée l'urgence sans paniquer
-- Question finale = engagement + identification prospects chauds
-- 108 mots
-
----
-
-## POST #17 — Mardi 18 février
+## POST #14 — Mardi 17 février
 **Type :** Preuve sociale
 **Format :** Texte + image
-**Objectif :** Troisième témoignage client
+**Objectif :** Témoignage #3 (diversité sectorielle)
 
 ---
 
 ```
-[Prénom] dirige un OF de 5 formateurs. Certifié Qualiopi depuis 2022.
+Thomas, formateur SST depuis 12 ans. 180 jours de formation par an.
 
-Son problème : chaque modification de programme prenait des heures. Tout était à reprendre manuellement. La cohérence se perdait.
+Son problème : remettre à jour ses 15 programmes pour le nouvel audit.
 
-Ce qu'il a testé avec QALIA :
+"Je facturais 180 jours mais j'en passais 30 sur de l'administratif. Soit 15% de mon temps. Soit 15 000€ de manque à gagner potentiel."
 
-Modifier un module sur une formation de 10 jours.
+Avec QALIA en février :
 
-Résultat : cascade de modifications propagée automatiquement. Objectifs, séquençage, évaluations, tout reste aligné.
+→ 15 programmes remis à jour en 2 semaines
+→ Nouveaux codes RNCP intégrés
+→ Matrices Qualiopi générées pour chaque programme
+→ 0 NC lors de l'audit
 
-Temps passé : 45 minutes au lieu de 6 heures.
+"J'ai récupéré 25 jours cette année. 25 jours que je peux former. Ou me reposer."
 
-Sa réaction : "C'est la première fois qu'un outil comprend vraiment comment fonctionne l'ingénierie de formation."
-
-Pas de magie. Un système qui pense en cohérence.
+L'IA qui rend du temps.
 
 🇷🇪
 
-#Qualiopi #IngénieriePédagogique #FormationProfessionnelle
+#Qualiopi #SST #FormationProfessionnelle
 ```
 
 ---
 
-**Image suggérée :** Photo du dirigeant (avec accord) OU visuel avec la citation clé.
-
-**Notes :**
-- Adapter avec le vrai témoignage
-- Problème spécifique (modifications = chaos)
-- Chiffres concrets (45 min vs 6h)
-- 115 mots
-
----
-
-## POST #18 — Jeudi 20 février
+## POST #15 — Jeudi 19 février
 **Type :** Éducation
-**Format :** Vidéo 60 secondes (facecam studio)
-**Objectif :** Première vidéo, montrer le process
+**Format :** Vidéo 60 sec (facecam studio)
+**Objectif :** Montrer le process QALIA
 
 ---
 
-### Script vidéo (60 sec)
-
+**Script vidéo :**
 ```
-[Plan : Romu assis dans le fauteuil années 60, face caméra]
+[Plan : Romu dans le fauteuil, face caméra]
 
 "40 heures par mois.
 
 C'est le temps moyen qu'un formateur passe sur de la paperasse Qualiopi.
 
-40 heures qui ne sont pas facturées. 40 heures qui ne forment personne.
-
-[Léger mouvement vers l'avant]
+40 heures qui ne sont pas facturées.
+40 heures qui ne forment personne.
 
 Avec QALIA, ce même travail prend 5 heures.
 
 Comment ? Trois étapes.
 
-Un : tu parles. Tu décris ta formation, tes objectifs, ton public. QALIA écoute et structure.
+Un : tu parles. Tu décris ta formation.
+QALIA écoute et structure.
 
-Deux : tu relis. QALIA ajuste en fonction de tes retours.
+Deux : tu relis. QALIA ajuste.
 
 Trois : tu valides. QALIA vérifie la conformité sur les 32 indicateurs.
 
-[Pause]
-
 Pas de magie. Un système.
 
-L'IA ne remplace pas ton expertise. Elle te rend du temps pour l'exercer.
+L'IA ne remplace pas ton expertise.
+Elle te rend du temps pour l'exercer.
 
-[Signature]
-
-Je suis Romu. QALIA, c'est le copilote des formateurs.
-
-Lien en commentaire pour en savoir plus."
+Je suis Romu. QALIA, c'est le copilote des formateurs."
 
 [Fin]
 ```
 
----
-
-### Post texte accompagnant la vidéo
-
+**Post accompagnant :**
 ```
 Première vidéo depuis le studio.
 
@@ -479,18 +440,10 @@ Pas de promesses. Un process.
 
 ---
 
-**Notes techniques :**
-- Sous-titres obligatoires (91% regardent sans son)
-- Format vertical (mobile first)
-- Durée : 60 sec max (optimal engagement)
-- CTA : lien en commentaire (pas dans la vidéo)
-
----
-
-## POST #19 — Samedi 22 février
+## POST #16 — Samedi 21 février
 **Type :** Positionnement
 **Format :** Texte seul
-**Objectif :** Approfondir la philosophie copilote
+**Objectif :** Philosophie copilote approfondie
 
 ---
 
@@ -499,13 +452,17 @@ Un copilote, pas un pilote automatique.
 
 La différence est essentielle.
 
-Un pilote automatique prend le contrôle. Il décide. Il exécute. L'humain regarde.
+Un pilote automatique prend le contrôle. Il décide. Il exécute.
+L'humain regarde.
 
-Un copilote assiste. Il surveille. Il alerte. Il propose. L'humain décide.
+Un copilote assiste. Il surveille. Il alerte. Il propose.
+L'humain décide.
 
 QALIA est un copilote.
 
-Il structure ce que tu lui donnes. Il vérifie ce que tu pourrais oublier. Il maintient la cohérence quand tu modifies.
+Il structure ce que tu lui donnes.
+Il vérifie ce que tu pourrais oublier.
+Il maintient la cohérence quand tu modifies.
 
 Mais il ne décide jamais à ta place.
 
@@ -526,19 +483,10 @@ Partagé. Pas remplacé.
 
 ---
 
-**Notes :**
-- Définition claire copilote vs pilote automatique
-- Human-in-the-loop explicite
-- Rassure sur la valeur du formateur
-- Signature philosophique
-- 128 mots
-
----
-
-## POST #20 — Mardi 25 février
+## POST #17 — Mardi 24 février
 **Type :** Bilan
 **Format :** Texte + image
-**Objectif :** Bilan des premiers clients, créer la preuve sociale
+**Objectif :** Bilan des premiers clients
 
 ---
 
@@ -550,7 +498,7 @@ Voici ce que les chiffres disent :
 → Temps moyen économisé : 32h/mois
 → Déroulés produits : 47 (total)
 → Codes RNCP périmés détectés : 8
-→ NC évitées : au moins 3 (estimation)
+→ NC évitées : au moins 3
 
 Voici ce que les utilisateurs disent :
 
@@ -560,7 +508,8 @@ Voici ce que les utilisateurs disent :
 
 Et voici ce que j'ai appris :
 
-Le problème n'est jamais l'expertise du formateur. C'est toujours le temps qu'il n'a pas.
+Le problème n'est jamais l'expertise du formateur.
+C'est toujours le temps qu'il n'a pas.
 
 QALIA ne crée pas de l'expertise. Il libère celle qui existe déjà.
 
@@ -573,88 +522,111 @@ Mars arrive. D'autres formateurs nous rejoignent.
 
 ---
 
-**Image suggérée :** Visuel sobre avec les chiffres clés (32h économisées, 47 déroulés, 8 codes détectés).
-
-**Notes :**
-- Chiffres à adapter selon résultats réels
-- Structure : Chiffres → Citations → Apprentissage
-- Crée l'effet "ça marche, d'autres y vont"
-- 118 mots
-
----
-
-## POST #21 — Jeudi 27 février
+## POST #18 — Jeudi 26 février
 **Type :** Offre
-**Format :** Texte seul
-**Objectif :** Annonce structurée sans pitch agressif
+**Format :** Carousel 6 slides
+**Objectif :** Présenter l'offre (valeur, pas pitch)
 
 ---
 
+### Slide 1 (Couverture)
 ```
-Si tu produis au moins 5 déroulés pédagogiques par mois.
+QALIA — L'OFFRE
 
-Si tu passes plus de 30 heures sur de la documentation Qualiopi.
+Pour les formateurs qui veulent
+former plus et documenter moins.
 
-Si tu as déjà essayé ChatGPT mais que les résultats n'étaient pas exploitables.
+👇
+```
 
-Alors QALIA est probablement fait pour toi.
+### Slide 2
+```
+CE QUE TU REÇOIS
 
-Ce que c'est : un assistant IA qui structure tes formations, vérifie la conformité, et maintient la cohérence après modifications.
+→ Accès complet à QALIA
+→ Génération illimitée de documents
+→ Vérification RNCP en temps réel
+→ Matrice Qualiopi 32/32
+→ Mises à jour automatiques
+```
 
-Ce que ce n'est pas : un outil qui fait à ta place. Tu restes aux commandes.
+### Slide 3
+```
+CE QUE TU ÉCONOMISES
 
-Comment ça fonctionne :
+Temps :
+→ 3 jours/mois minimum
+→ 35 heures de paperasse/mois
 
-→ 299€/mois, sans engagement
-→ Premier mois satisfait ou remboursé
-→ Démo personnalisée de 30 minutes
+Argent :
+→ ~3000€/mois de temps récupéré
+→ 0€ de NC à l'audit
+```
 
-Si tu veux voir comment ça marche sur ton cas précis, envoie-moi un message.
+### Slide 4
+```
+COMMENT ÇA MARCHE
 
-Pas de forcing. Juste une conversation.
+1. Tu parles → QALIA structure
+2. Tu relis → QALIA ajuste
+3. Tu valides → QALIA livre
+
+Tu restes l'expert.
+QALIA reste l'outil.
+```
+
+### Slide 5
+```
+POUR QUI ?
+
+✓ Formateurs indépendants
+✓ Petits OF (1-10 formateurs)
+✓ Coachs certifiés
+✓ Consultants formation
+
+Pas pour les usines à certifications.
+Pour les artisans de la formation.
+```
+
+### Slide 6 (CTA)
+```
+PRÊT À ESSAYER ?
+
+~300€/mois, sans engagement
+Premier mois satisfait ou remboursé
+
+→ DM "QALIA" pour une démo gratuite
+
+Je te montre en 30 min
+ce que QALIA peut faire pour toi.
 
 🇷🇪
-
-#Qualiopi #OrganismesDeFormation #IA
 ```
 
 ---
 
-**Notes :**
-- Qualification dès le début (5 déroulés, 30h, ChatGPT)
-- Offre claire sans superlatives
-- Garantie explicite (satisfait ou remboursé)
-- CTA sobre ("envoie-moi un message")
-- 129 mots
+## Récapitulatif Février
+
+### Formats utilisés
+| Format | Nombre |
+|--------|--------|
+| Texte seul | 4 |
+| Texte + image | 3 |
+| Carousel | 2 |
+| Vidéo | 2 |
+
+### Témoignages publiés
+- Marie (bureautique) — #8
+- Thomas (SST) — #14
+
+### Métriques cibles
+- Vues/post : 1000
+- Commentaires : 10
+- Démos bookées : 10
+- Clients signés : 5-7
 
 ---
 
-## Récapitulatif Actions Février
-
-### Visuels à préparer
-| Post | Visuel | Priorité |
-|------|--------|----------|
-| #11 | Photo/visuel témoignage #2 | Haute |
-| #12 | Photo du studio | Haute |
-| #14 | Carousel 8 slides Avant/Après | Haute |
-| #16 | Calendrier audit | Moyenne |
-| #17 | Photo/visuel témoignage #3 | Haute |
-| #18 | Vidéo 60 sec (tournage studio) | **Critique** |
-| #20 | Visuel chiffres bilan | Haute |
-
-### Actions critiques
-- [ ] Tourner la vidéo #18 avant le 18 février
-- [ ] Sous-titrer la vidéo (obligatoire)
-- [ ] Collecter témoignages #2 et #3 en amont
-- [ ] Préparer les chiffres réels pour le bilan #20
-- [ ] Répondre à TOUS les commentaires
-
-### Budget pub suggéré
-- Semaine du 11 : boost post #14 (Avant/Après) — 200€
-- Semaine du 18 : boost vidéo #18 — 300€
-- Semaine du 25 : boost post #21 (Offre) — 500€
-
----
-
-*Posts créés en conformité avec le Skill romu-linkedin-voice v2.0*
+*Posts créés en conformité avec le Skill romu-linkedin-voice v3.0*
+*Règles LinkedIn 2026*
 *Février 2026*

@@ -4,20 +4,17 @@
 
 | # | Date | Type | Format | Objectif |
 |---|------|------|--------|----------|
-| 1 | Mar 7 jan | Storytelling | Texte seul | Reprise, annonce retour |
-| 2 | Jeu 9 jan | Éducation | Texte + image | Douleur OF, identification |
-| 3 | Sam 11 jan | Positionnement | Texte seul | Philosophie IA copilote |
-| 4 | Mar 14 jan | Preuve sociale | Texte + image | Témoignage Anthony/SAPFI |
-| 5 | Jeu 16 jan | Éducation | Texte seul | Insight Qualiopi technique |
-| 6 | Sam 18 jan | Storytelling | Texte seul | Origines, Axe Majeur |
-| 7 | Mar 21 jan | Engagement | Texte + image | Question ouverte |
-| 8 | Jeu 23 jan | Éducation | Carousel 8 slides | Process QALIA |
-| 9 | Sam 25 jan | Positionnement | Carousel 6 slides | Contre-intuitif IA |
-| 10 | Mar 28 jan | Bilan | Texte seul | Bilan janvier, suite |
+| 1 | Mar 14 jan | Storytelling | Texte seul | Reprise, annonce retour |
+| 2 | Jeu 16 jan | Éducation | Texte + image | Douleur OF, identification |
+| 3 | Sam 18 jan | Positionnement | Texte seul | Philosophie IA copilote |
+| 4 | Mar 21 jan | Preuve sociale | Texte + image | Témoignage Anthony/SAPFI |
+| 5 | Jeu 23 jan | Éducation | Texte seul | Insight RNCP technique |
+| 6 | Sam 25 jan | Storytelling | Texte seul | Origines, Axe Majeur |
+| 7 | Mar 28 jan | Engagement | Carousel 6 slides | Question + process |
 
 ---
 
-## POST #1 — Mardi 7 janvier
+## POST #1 — Mardi 14 janvier
 **Type :** Storytelling personnel
 **Format :** Texte seul
 **Objectif :** Marquer le retour, poser le cadre 2026
@@ -46,6 +43,13 @@ Et vous, c'est quoi votre priorité cette année ?
 
 ---
 
+**Analyse storytelling (5 lignes) :**
+- **Situation** : Décembre en métropole
+- **Désir** : Accompagner les OF dans leur conformité
+- **Conflit** : Implicite (promesses vs preuves du marché)
+- **Changement** : Construction → Résultats
+- **Résultat** : QALIA et Romu prêts
+
 **Notes :**
 - Hook court, énergique
 - Pas de pitch QALIA, juste mention naturelle
@@ -54,7 +58,7 @@ Et vous, c'est quoi votre priorité cette année ?
 
 ---
 
-## POST #2 — Jeudi 9 janvier
+## POST #2 — Jeudi 16 janvier
 **Type :** Éducation métier (douleur)
 **Format :** Texte + image
 **Objectif :** Identification cible OF, créer résonance
@@ -80,10 +84,17 @@ Et si le problème n'était pas ton organisation, mais tes outils ?
 
 🇷🇪
 
-#Qualiopi #OrganismesDeFormation #IngénieriePédagogique
+#Qualiopi #OrganismesDeFormation
 ```
 
 ---
+
+**Analyse storytelling (5 lignes) :**
+- **Situation** : 23h, relecture du déroulé
+- **Désir** : Avoir une validation, être conforme
+- **Conflit** : Solitude, manque de temps, 40h/mois perdues
+- **Changement** : Reframe → le problème c'est les outils
+- **Résultat** : Question ouverte vers solution
 
 **Image suggérée :** Photo sobre d'un bureau de nuit (écran allumé, café froid) OU illustration minimaliste horloge 23h. Pas de stock générique.
 
@@ -95,7 +106,7 @@ Et si le problème n'était pas ton organisation, mais tes outils ?
 
 ---
 
-## POST #3 — Samedi 11 janvier
+## POST #3 — Samedi 18 janvier
 **Type :** Positionnement IA
 **Format :** Texte seul
 **Objectif :** Différenciation, philosophie copilote
@@ -125,6 +136,13 @@ Partagé. Pas remplacé.
 
 ---
 
+**Analyse storytelling (5 lignes) :**
+- **Situation** : "L'IA va tous nous remplacer" (croyance commune)
+- **Désir** : Implicite — les formateurs veulent garder leur métier
+- **Conflit** : Peur du remplacement
+- **Changement** : 3 ans d'expérience → tous sont devenus meilleurs
+- **Résultat** : Copilote, pas remplacement
+
 **Notes :**
 - Hook contre-intuitif fort
 - Chiffres vérifiables (250+ formés)
@@ -133,7 +151,7 @@ Partagé. Pas remplacé.
 
 ---
 
-## POST #4 — Mardi 14 janvier
+## POST #4 — Mardi 21 janvier
 **Type :** Preuve sociale
 **Format :** Texte + image
 **Objectif :** Témoignage concret, crédibilité
@@ -165,6 +183,13 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
+**Analyse storytelling (5 lignes) :**
+- **Situation** : Anthony, SAPFI, 20 jours de formation sur corde
+- **Désir** : Avoir un programme conforme pour l'audit
+- **Conflit** : Termes obsolètes, codes RNCP périmés
+- **Changement** : 3 heures avec QALIA
+- **Résultat** : Problème corrigé avant l'audit, déroulé complet
+
 **Image suggérée :** Photo d'Anthony (avec son accord) OU logo SAPFI OU visuel "Cas client" sobre avec les chiffres clés (20 jours → 3h).
 
 **Notes :**
@@ -175,7 +200,7 @@ Pas qui le remplace. Qui le renforce.
 
 ---
 
-## POST #5 — Jeudi 16 janvier
+## POST #5 — Jeudi 23 janvier
 **Type :** Éducation métier (insight technique)
 **Format :** Texte seul
 **Objectif :** Démontrer expertise Qualiopi
@@ -202,6 +227,13 @@ Question : qui vérifie vos codes RNCP aujourd'hui ?
 
 ---
 
+**Analyse storytelling (5 lignes) :**
+- **Situation** : Codes RNCP dans le référentiel
+- **Désir** : Être conforme, éviter les NC
+- **Conflit** : Personne ne vérifie (manque de temps, surcharge)
+- **Changement** : Prise de conscience (référentiel change)
+- **Résultat** : Question → qui vérifie ?
+
 **Notes :**
 - Hook technique fort (NC majeure)
 - Vocabulaire métier (indicateur implicite, NC)
@@ -211,7 +243,7 @@ Question : qui vérifie vos codes RNCP aujourd'hui ?
 
 ---
 
-## POST #6 — Samedi 18 janvier
+## POST #6 — Samedi 25 janvier
 **Type :** Storytelling personnel
 **Format :** Texte seul
 **Objectif :** Ancrage, valeurs, authenticité
@@ -242,6 +274,13 @@ Elles se gravent.
 
 ---
 
+**Analyse storytelling (5 lignes) :**
+- **Situation** : L'Axe Majeur, Cergy, enfance
+- **Désir** : Construire quelque chose de durable
+- **Conflit** : Implicite (opposé aux solutions éphémères)
+- **Changement** : Vision → construction QALIA
+- **Résultat** : "Se gravent" — durabilité
+
 **Notes :**
 - Post validé dans le skill (déjà testé)
 - Ancrage origines authentique
@@ -251,260 +290,77 @@ Elles se gravent.
 
 ---
 
-## POST #7 — Mardi 21 janvier
-**Type :** Engagement
-**Format :** Texte + image
-**Objectif :** Générer des commentaires, comprendre la cible
-
----
-
-```
-Qualiopi : conformité ou performance ?
-
-Je pose la question parce que j'entends les deux camps.
-
-Camp 1 : "Qualiopi c'est de la paperasse administrative. On coche des cases pour garder la certif."
-
-Camp 2 : "Qualiopi nous a forcés à structurer. Nos formations sont meilleures depuis."
-
-Les deux ont raison. Le problème n'est pas Qualiopi.
-
-Le problème, c'est le temps qu'on y passe.
-
-Quand la conformité prend 40h/mois, elle devient un fardeau.
-Quand elle prend 5h/mois, elle devient un levier.
-
-Et vous, vous êtes dans quel camp ?
-
-🇷🇪
-
-#Qualiopi #FormationProfessionnelle #OrganismesDeFormation
-```
-
----
-
-**Image suggérée :** Visuel sobre "Conformité vs Performance" ou simplement une photo de toi en contexte travail (authenticité > stock).
-
-**Notes :**
-- Question polarisante mais respectueuse
-- Les deux camps validés = pas de jugement
-- Reframe sur le temps (= positionnement QALIA)
-- Question finale = engagement direct
-- 108 mots
-
----
-
-## POST #8 — Jeudi 23 janvier
-**Type :** Éducation
-**Format :** Carousel 8 slides
-**Objectif :** Montrer le process QALIA sans pitcher
-
----
-
-### Slide 1 (Couverture)
-```
-DE L'IDÉE AU DÉROULÉ PÉDAGOGIQUE
-
-Comment structurer une formation
-en quelques heures (pas quelques jours)
-
-👇 Swipe
-```
-
-### Slide 2
-```
-LE PROBLÈME
-
-Tu as l'expertise.
-Tu sais former.
-
-Mais documenter ?
-→ 40h/mois en moyenne
-→ Seul face à ta page blanche
-→ Sans certitude de conformité
-```
-
-### Slide 3
-```
-ÉTAPE 1 : L'ANALYSE DES BESOINS
-
-Pas "le client veut Excel".
-
-Mais : "Quel problème opérationnel ?
-Quel coût actuel ?
-Quel résultat mesurable ?"
-
-→ Méthode maïeutique
-→ Besoin profond révélé
-→ Document opposable (Indicateur 4)
-```
-
-### Slide 4
-```
-ÉTAPE 2 : LES OBJECTIFS
-
-Pas "comprendre Excel".
-
-Mais : "Réduire les erreurs de saisie
-de 15 à 2 par semaine."
-
-→ Taxonomie de Bloom
-→ Objectifs évaluables
-→ Cohérence formation/évaluation
-```
-
-### Slide 5
-```
-ÉTAPE 3 : LE SÉQUENÇAGE
-
-20 jours de formation ?
-
-→ Chaque journée découpée
-→ Séquences de 15-45 min
-→ Méthodes pédagogiques variées
-→ Temps de pause intégrés
-```
-
-### Slide 6
-```
-ÉTAPE 4 : LA VÉRIFICATION
-
-Avant de livrer :
-
-→ Codes RNCP actifs ?
-→ Intitulés à jour ?
-→ Cohérence globale ?
-→ 32 indicateurs couverts ?
-
-Ce que l'humain peut oublier,
-le système vérifie.
-```
-
-### Slide 7
-```
-ÉTAPE 5 : L'AJUSTEMENT
-
-Le client modifie un module ?
-
-→ Cascade des changements
-→ Tout reste cohérent
-→ Pas de reprise manuelle
-
-Flexibilité sans fragilité.
-```
-
-### Slide 8 (CTA sobre)
-```
-RÉSULTAT
-
-✓ Déroulé complet en heures (pas jours)
-✓ Conformité vérifiée automatiquement
-✓ Cohérence maintenue après modifs
-
-C'est ce que fait QALIA.
-
-Tu parles, il structure.
-Tu relis, il ajuste.
-
-→ DM pour en savoir plus
-
-🇷🇪
-```
-
----
-
-**Notes :**
-- Éducatif d'abord, QALIA à la fin seulement
-- Vocabulaire métier (indicateur, Bloom, RNCP)
-- Process clair en 5 étapes
-- CTA sobre ("DM pour en savoir plus")
-- Carousel = +60% reach selon algo
-
----
-
-## POST #9 — Samedi 25 janvier
-**Type :** Positionnement
+## POST #7 — Mardi 28 janvier
+**Type :** Engagement + Process
 **Format :** Carousel 6 slides
-**Objectif :** Casser les croyances sur l'IA
+**Objectif :** Clôturer janvier, engagement + éducation
 
 ---
 
 ### Slide 1 (Couverture)
 ```
-CE QUE L'IA NE FERA JAMAIS
-À TA PLACE
+QUALIOPI : CONFORMITÉ OU PERFORMANCE ?
 
-(Et ce qu'elle fait vraiment bien)
+La vraie question que personne ne pose.
 
 👇 Swipe
 ```
 
 ### Slide 2
 ```
-❌ L'IA NE REMPLACERA PAS...
+CAMP 1 : "C'EST DE LA PAPERASSE"
 
-Ta capacité à lire une salle.
+"Qualiopi c'est administratif.
+On coche des cases pour garder la certif.
+Ça ne rend pas nos formations meilleures."
 
-Ce moment où tu sens que
-le groupe décroche.
-
-Où tu adaptes en live.
-Où tu changes d'exemple.
-
-Ça, c'est toi.
+Ils n'ont pas tort.
 ```
 
 ### Slide 3
 ```
-❌ L'IA NE REMPLACERA PAS...
+CAMP 2 : "ÇA NOUS A STRUCTURÉS"
 
-Ta relation avec tes stagiaires.
+"Qualiopi nous a forcés à documenter.
+À réfléchir à nos process.
+Nos formations sont meilleures depuis."
 
-La confiance qui se construit.
-L'écoute active.
-L'accompagnement humain.
-
-Ça, c'est toi.
+Ils n'ont pas tort non plus.
 ```
 
 ### Slide 4
 ```
-❌ L'IA NE REMPLACERA PAS...
+LE VRAI PROBLÈME
 
-Ton expertise métier.
+Ce n'est pas Qualiopi.
+C'est le temps qu'on y passe.
 
-20 ans de terrain.
-Les erreurs que tu as faites.
-Les solutions que tu as trouvées.
+40h/mois = fardeau
+5h/mois = levier
 
-Ça, c'est toi.
+La différence ? Les outils.
 ```
 
 ### Slide 5
 ```
-✅ CE QUE L'IA FAIT BIEN...
+CE QUE J'AI APPRIS EN 3 SEMAINES
 
-→ Structurer ce que tu sais déjà
-→ Vérifier ce que tu peux oublier
-→ Documenter ce que tu n'as pas le temps d'écrire
-→ Maintenir la cohérence après modifications
+1. Les formateurs manquent de temps, pas d'expertise
+2. Le problème n'est pas Qualiopi, c'est le process
+3. L'IA qui aide ne remplace pas, elle libère
 
-L'IA te rend du temps.
-Elle ne te prend pas ton métier.
+Février arrive avec les premières preuves.
 ```
 
 ### Slide 6 (Conclusion)
 ```
-COPILOTE, PAS PILOTE AUTOMATIQUE
+ET VOUS ?
 
-L'IA n'est pas là pour faire à ta place.
+Conformité ou performance ?
 
-Elle est là pour que tu puisses
-faire ce que toi seul sais faire :
+→ Commentez votre réponse
 
-Former des humains.
-
-Partagé. Pas remplacé.
+Je lis tout. Je réponds à tous.
 
 🇷🇪
 ```
@@ -512,49 +368,12 @@ Partagé. Pas remplacé.
 ---
 
 **Notes :**
-- Structure "Ce que l'IA ne fait PAS" = rassure
-- Valorise l'expertise du formateur
-- Signature philosophique
-- Pas de pitch, pure valeur
-- 6 slides = lisible rapidement
-
----
-
-## POST #10 — Mardi 28 janvier
-**Type :** Bilan
-**Format :** Texte seul
-**Objectif :** Clôturer janvier, annoncer la suite
-
----
-
-```
-3 semaines de janvier. Voici ce que j'ai appris.
-
-1. Les formateurs ne manquent pas d'expertise. Ils manquent de temps pour la documenter.
-
-2. Le problème n'est pas Qualiopi. C'est le temps qu'on y passe.
-
-3. L'IA qui aide vraiment n'est pas celle qui fait à ta place. C'est celle qui te rend du temps pour faire ce que toi seul sais faire.
-
-Février arrive. Mon studio est prêt. Les premières vidéos aussi.
-
-QALIA accompagne déjà ses premiers utilisateurs. Les retours arrivent. Je vous les partagerai.
-
-2026 ne fait que commencer.
-
-🇷🇪
-
-#Qualiopi #FormationProfessionnelle #IA
-```
-
----
-
-**Notes :**
-- Bilan structuré (3 apprentissages)
-- Teaser studio (Mad Men) = crée attente
-- Annonce "premiers utilisateurs" = preuve sociale
-- Promet du contenu à venir = fidélisation
-- 97 mots
+- Carousel = +60% reach selon algo 2026
+- Question polarisante mais respectueuse
+- Les deux camps validés = pas de jugement
+- Reframe sur le temps (= positionnement QALIA)
+- Bilan janvier + teaser février
+- CTA engagement final
 
 ---
 
@@ -564,18 +383,18 @@ QALIA accompagne déjà ses premiers utilisateurs. Les retours arrivent. Je vous
 - [ ] Vérifier hook < 150 caractères
 - [ ] Relire à voix haute (ça sonne comme Romu ?)
 - [ ] Préparer image si nécessaire
-- [ ] Planifier publication 8h30-9h30
+- [ ] Planifier publication 10h-12h
 
 ### Actions parallèles
 - [ ] Relancer leads démo (semaine 1)
 - [ ] Contacter Anthony pour accord témoignage
 - [ ] Identifier 2 autres témoignages potentiels
 - [ ] Préparer studio pour vidéos février
-- [ ] Répondre à TOUS les commentaires (boost algo)
+- [ ] Répondre à TOUS les commentaires dans l'heure (boost algo)
 
 ### Métriques à suivre
-- Vues par post
-- Commentaires
+- Vues par post (cible : 500)
+- Commentaires (cible : 5)
 - Messages privés
 - Demandes de démo
 
@@ -587,12 +406,10 @@ QALIA accompagne déjà ses premiers utilisateurs. Les retours arrivent. Je vous
 |------|--------|----------|
 | #2 | Bureau nuit / horloge 23h | Haute |
 | #4 | Photo Anthony ou logo SAPFI | Haute |
-| #7 | Toi en contexte travail | Moyenne |
-| #8 | Carousel 8 slides (Canva) | Haute |
-| #9 | Carousel 6 slides (Canva) | Haute |
+| #7 | Carousel 6 slides (Canva) | Haute |
 
 ---
 
-*Posts créés en conformité avec le Skill romu-linkedin-voice v2.0*
-*Respect des règles LinkedIn 2024-2025*
-*Janvier 2026*
+*Posts créés en conformité avec le Skill romu-linkedin-voice v3.0*
+*Respect des règles LinkedIn 2026*
+*Janvier 2026 — Démarrage 14 janvier*
