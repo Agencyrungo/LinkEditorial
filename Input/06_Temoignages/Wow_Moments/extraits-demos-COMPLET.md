@@ -206,9 +206,9 @@
 
 ## CATÉGORIE 7 : Utilisateur Long Terme (6 mois+)
 
-### "6 mois sur QALIA, c'est 4 mois de temps gagné"
-**Source** : Retour utilisateur Janvier 2026 (académicien culinaire, 6 mois d'usage)
-**Contexte** : Bilan après 6 mois d'utilisation quotidienne.
+### "6 jours sur QALIA, c'est 4 mois de temps gagné"
+**Source** : Retour utilisateur Janvier 2026 (académicien culinaire, 6-8 mois d'usage)
+**Contexte** : Bilan après 6 jours d'utilisation active (utilisateur depuis 6-8 mois).
 **Émotion** : Confirmation ROI massif sur la durée.
 **Usage** : Posts preuves long terme, ROI, fidélisation.
 **Force émotionnelle** : ⭐⭐⭐⭐⭐ (chiffre vérifiable, utilisateur établi)
