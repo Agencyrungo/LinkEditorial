@@ -204,6 +204,51 @@
 
 ---
 
+## CATÉGORIE 7 : Utilisateur Long Terme (6 mois+)
+
+### "6 mois sur QALIA, c'est 4 mois de temps gagné"
+**Source** : Retour utilisateur Janvier 2026 (académicien culinaire, 6 mois d'usage)
+**Contexte** : Bilan après 6 mois d'utilisation quotidienne.
+**Émotion** : Confirmation ROI massif sur la durée.
+**Usage** : Posts preuves long terme, ROI, fidélisation.
+**Force émotionnelle** : ⭐⭐⭐⭐⭐ (chiffre vérifiable, utilisateur établi)
+
+### "10 jours de travail en 2h, t'es loin du compte, tu ne te mouilles pas"
+**Source** : Retour utilisateur Janvier 2026 (académicien culinaire)
+**Contexte** : Feedback sur notre communication du ratio 10j → 1-2h.
+**Émotion** : Validation que notre ratio est CONSERVATEUR.
+**Usage** : Posts pour être plus affirmatif sur les gains.
+**Note** : L'utilisateur confirme qu'on pourrait être plus audacieux.
+
+### "Tarifs officiels CAF, département, région pour mon AMI en quelques minutes"
+**Source** : Retour utilisateur Janvier 2026 (académicien culinaire)
+**Contexte** : Utilisation de QALIA pour obtenir les tarifs de rémunération officiels.
+**Émotion** : Découverte d'un usage inattendu, valeur ajoutée.
+**Usage** : Posts cas d'usage diversifiés, au-delà de l'ingénierie pure.
+**Force émotionnelle** : ⭐⭐⭐⭐ (différenciateur)
+
+### "Tous les tarifs produits grande distribution et Rungis pour mes recettes"
+**Source** : Retour utilisateur Janvier 2026 (académicien culinaire, formations restauration)
+**Contexte** : Utilisation pour connaître prix matières premières, optimiser rentabilité.
+**Émotion** : QALIA dépasse l'ingénierie, aide au business.
+**Usage** : Posts valeur business, ROI concret, cas niche.
+**Force émotionnelle** : ⭐⭐⭐⭐⭐ (unique, mémorable)
+
+### "Je produis mon ingénierie en vocal, dans la voiture"
+**Source** : Retour utilisateur Janvier 2026 (académicien culinaire)
+**Contexte** : Mode de production pendant les trajets.
+**Émotion** : Accessibilité, simplicité, temps optimisé.
+**Usage** : Posts expérience utilisateur, mobilité, productivité.
+**Force émotionnelle** : ⭐⭐⭐⭐⭐ (lifestyle, aspirationnel)
+
+### Info Académies
+**Source** : Retour utilisateur Janvier 2026
+**Note stratégique** : Dépôt aux Académies = propriété des Académies.
+**Usage** : À prendre en compte pour stratégie IP/distribution.
+**Action** : Ajuster messaging sur certifications officielles.
+
+---
+
 ## CORRECTIONS FACTUELLES IMPORTANTES
 
 ### Prix
